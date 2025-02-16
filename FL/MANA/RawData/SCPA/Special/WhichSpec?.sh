@@ -1,0 +1,41 @@
+#!/bin/bash
+# 2023-09-21   wmk.   (automated) ver2.0 path fixes.
+# WhichSpec?.sh - Determine which special dbs contain(s) address.
+#	4/26/23.	wmk.
+#
+# Usage. bash  WhichSpec?.sh  <address>
+#
+#	<address> = address to search for within territory
+#		note: address is case-sensitive and MUST have exactly 3 spaces between
+#		 the number and the street. Currently "units" are not supported.
+#
+# Exit. list of territories output to screen.
+#
+# Modification History.
+# ---------------------
+# 4/26/23.	wmk.	original code; adapted from TerrData/WhichTerr? version.
+# Legacy mods.
+# 12/24/22.	wmk.	original code.
+# 2/23/23.	wmk.	'Q' included in grep to avoid duplicates from Hdr files;
+#			 use 'gawk' to produce sorted list.
+# 3/30/23.	wmk.	rm TempList.txt before proceeding.
+# 4/26/23.	wmk.	*P1 exported for *mawk; awksort.txt modified to issue
+#			 message "*P1*" found in <tid>.
+#
+export P1=$1
+if [ -z "$P1" ];then
+ echo "WhichSpec? <address> missing parameter(s) - abandoned."
+ exit 1
+fi
+cd $pathbase/$scpath/Special
+if test -f $TEMP_PATH/TempList.txt;then rm $TEMP_PATH/TempList.txt;fi 
+if test -f $TEMP_PATH/TerrList.txt;then rm $TEMP_PATH/TerrList.txt;fi 
+grep -rl -e "$P1" --include "*.csv" > $TEMP_PATH/TempList.txt
+if [ $? -ne 0 ] || ! test -f $TEMP_PATH/TempList.txt;then
+ echo "'$P1'  not found in any Territory."
+ exit 0
+fi
+mawk '{print $1}' \
+ $TEMP_PATH/TempList.txt > $TEMP_PATH/TerrList.txt
+gawk -f awksort.txt $TEMP_PATH/TerrList.txt
+# end WhichTerr?.sh

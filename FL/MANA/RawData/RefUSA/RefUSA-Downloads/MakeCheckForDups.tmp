@@ -1,0 +1,35 @@
+# MakeCheckForDups.tmp - Make CheckForDups.sh from CheckForDups.sql.
+#	5/2/24.	wmk.
+#
+# Modification History.
+# ---------------------
+# 5/2/24.	wmk.	original.
+#
+# Notes. CheckForDups.psq should already have been edited to CheckForDups.sql
+# by DoSedCheckDups.sh prior to running this makefile.
+
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : AlwaysBuild
+.ONESHELL : ;
+
+incroot = $(codebase)/include/
+projpath = $(pathbase)/$(rupath)
+specpath = $(pathbase)/$(rupath)/Special
+bashpath = $(codebase)/Procs-Dev
+altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+vpath %.i $(codebase)/include
+
+# CheckForDups.sh primary target.
+#=======================================================================
+$(projpath)/CheckForDups.sh :  $(projpath)/CheckForDups.sql
+	cd $(altproj);./DoSed.sh $(projpath) CheckForDups
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+	
+$(specpath)/CheckForDups.sql : ;
+	if ! test -f $@;then \
+	 echo "** missing CheckForDups.sql for CheckForDups.sh build **";exit 1;fi
+
+#=======================================================================

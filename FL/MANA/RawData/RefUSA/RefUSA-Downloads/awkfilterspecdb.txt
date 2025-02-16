@@ -1,0 +1,9 @@
+# awkfilterspecdb.txt - filter .db lines found searching RegenSpecDB.sql.
+#	6/29/23.	wmk.
+BEGIN{p=1}
+{
+ if( index($2,"204") > 0 || index($3,"204") > 0) p=0;;
+ if(p){ print }
+ else
+  p=1
+}

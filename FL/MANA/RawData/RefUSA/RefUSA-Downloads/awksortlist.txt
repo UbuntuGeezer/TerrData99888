@@ -1,0 +1,8 @@
+# awksortlist.txt - sort target list of territories.
+# 2/23/23.	wmk.
+# must be run with gawk -F "/".
+BEGIN{ix = 0}
+{terrlist[ix] = $1; ix++}
+END{ n = asort(terrlist)
+ for ( i = 1; i <= n; i++ ) print substr(terrlist[i],5,3)
+ }

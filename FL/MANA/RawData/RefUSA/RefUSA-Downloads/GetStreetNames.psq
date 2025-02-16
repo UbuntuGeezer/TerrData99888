@@ -1,0 +1,33 @@
+-- * GetStreetNames.psq/sql - Get street names given <area-name>.
+. \nGetStreetNames.psq-out-of-date-exiting\n
+.exit 1     -- GetStreetNames.psq out of-date
+. \nGetStreetNames.psq-out-of-date-exiting\n
+.exit 1     -- GetStreetNames.psq out of-date
+. \nGetStreetNames.psq-out-of-date-exiting\n
+.exit 1     -- GetStreetNames.psq out of-date
+. \nGetStreetNames.psq-out-of-date-exiting\n
+.exit 1     -- GetStreetNames.psq out of-date
+. \nGetStreetNames.psq-out-of-date-exiting\n
+.exit 1     -- GetStreetNames.psq out of-date
+. \nGetStreetNames.psq-out-of-date-exiting\n
+.exit 1     -- GetStreetNames.psq out of-date
+. \nGetStreetNames.psq-out-of-date-exiting\n
+.exit 1     -- GetStreetNames.psq out of-date
+. \nGetStreetNames.psq-out-of-date-exiting\n
+.exit 1     -- GetStreetNames.psq out of-date
+-- *	5/23/24.	wmk.
+-- *
+-- * Modification History.
+-- * ---------------------
+-- * 5/23/24.	wmk.	original.
+-- *
+-- * Notes. DoSed modifies this > .sql
+-- *;
+.open '$pathbase/$scpath/SCPA_05-20.db'
+select distinct trim(substr("situsaddress(propertyaddress)",7,35)) Street
+from Data0520
+where parceldesc1 like '%<area-name>%'
+and SitusZipCode like '<zip>%'
+and length(Street) > 0;
+.quit
+-- * END GetStreetNames.sql;

@@ -1,0 +1,42 @@
+#!/bin/bash
+echo " ** <filespec> out-of-date **";exit 1
+# 2023-09-21   wmk.   (automated) ver2.0 path fixes.
+touch AuburnCoveCir.sql
+touch AvenidaEstancias.sql
+touch AvensCohosh.sql
+touch Bellagio.sql
+touch BerkshirePlace.sql
+touch BirdBayCir.sql
+touch BirdBayDr.sql
+touch BrennerPark.sql
+touch BridleOaks.sql
+touch BridleOaksDr.sql
+touch CapriIslesBlvd.sql
+touch CasaDelLagoWay.sql
+touch CountryClubMHP.sql
+touch EaglePoint.sql
+touch Esplanade811_333.sql
+touch GibbsRd.sql
+touch GondolaParkDr.sql
+touch HiddenLakes.sql
+touch LakesideWoodsDr.sql
+touch LiscourtDr.sql
+touch LPavia.sql
+touch MirabellaCir.sql
+touch NippinoTrl.sql
+touch ReclinataCir.sql
+touch SawGrass.sql
+touch SawgrassN.sql
+touch SawgrassS.sql
+touch TarponCenterDr.sql
+touch TheEsplanade.sql
+touch TrianoCir.sql
+touch TruneWay.sql
+touch TruneWay_SAVE.sql
+touch VistaDelLago.sql
+touch VistaDelLagoWay.sql
+touch VistaLagoWay.sql
+touch WaterfordDr.sql
+touch WaterfordNorth.sql
+touch WatersideDr.sql
+touch WhitePineTreeRd.sql

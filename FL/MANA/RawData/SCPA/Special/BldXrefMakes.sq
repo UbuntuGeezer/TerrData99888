@@ -1,0 +1,13 @@
+echo "-- * XrefMakes.sql - Build XrefMakes.db from XrefMakes.csv;"  > SQLTemp.sql
+echo "-- *	7/1/22.	wmk."  >> SQLTemp.sql
+echo "-- *"  >> SQLTemp.sql
+echo ".open '$pathbase/$scpath/Special/XrefMakes.db'"  >> SQLTemp.sql
+echo "DROP TABLE IF EXISTS MakeTerrs;"  >> SQLTemp.sql
+echo "CREATE TABLE MakeTerrs"  >> SQLTemp.sql
+echo "(TerrNo TEXT, DBName TEXT);"  >> SQLTemp.sql
+echo ".mode csv"  >> SQLTemp.sql
+echo ".sep ,"  >> SQLTemp.sql
+echo ".import '$pathbase/$scpath/Special/XrefMakes.csv' MakeTerrs"  >> SQLTemp.sql
+echo ".quit"  >> SQLTemp.sql
+echo "-- * end XrefMakes.sql;"  >> SQLTemp.sql
+echo ""  >> SQLTemp.sql

@@ -1,0 +1,51 @@
+# Make.AnyFix.tmp - Makefile template (RU) for AnyFix convert <spec-db>Tidy.sql to <spec-db>Tidy.sh.
+# 2023-11-25.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 2023-09-27   wmk.   (automated) ver2.0 Make fixes.
+#	9/9/22.	wmk.
+#
+# Primary target: /RefUSA-Downloads/Special/<special-db>.sh [w wwww]
+#
+# Entry. 'sed' run to edit the <special-db> name w wwww into this makefile
+#	resulting in Make.AnyFix for make utility
+#
+# Modification History.
+# ---------------------
+# 11/25/23.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 9/9/22.	wmk.	main recipe updated to use AnySQLtoSH.
+# 5/4/22.   wmk.	(automated) path corrections.
+# Legacy mods.
+# 10/28/21.	wmk.	original makefile; adapted from Make.AnyTidy.
+#
+# Make.AnyFix takes /RefUSA-Downloads/Special/Fix.<special-db>.sql and 
+# processes it into a .sq, and ultimately a .sh shell that, when executed
+# will fix the <special-db>.db.Spec_SCBridge table records.
+
+# use *USER to determine host system.
+
+
+
+
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : ;
+.ONESHELL : ;
+
+incroot = $(codebase)/include/
+projpath = $(codebase)/Projects-Geany/SpecialRUdb
+specpath = $(pathbase)/RawData/RefUSA/RefUSA-Downloads/Special
+bashpath = $(codebase)/Procs-Dev
+altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+vpath %.i $(codebase)/include
+
+# Fix.<special-db>.sh primary target.
+#=====================================================================================
+$(specpath)/Fix.TheEsplanade.sh : $(specpath)/Fix.TheEsplanade.sql
+	cd $(altproj);./DoSed.sh $(specpath) Fix.TheEsplanade
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+
+$(specpath)/Fix.TheEsplanade.sql : ;
+	if ! test -f $@;then \
+	 echo "** missing FixTheEsplanade.sql to build Fix.TheEsplanade.sh **;exit 1;fi
+# end Make.AnyFix.tmp

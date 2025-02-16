@@ -1,0 +1,51 @@
+# MakeBldStreets.tmp - Make BuildStreetsDB.sh from BuildStreetsDB.sql.
+#	5/2/24.	wmk.
+#
+# Modification History.
+# ---------------------
+# 5/2/24.	wmk.	(automated) build 4.0.8 modifications.
+# 5/2/24.	wmk.	*rupath replaces long path; preambleBldSt.sh prerequisite
+#			 removed.
+# 11/25/23.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 9/27/23.   wmk.   (automated) ver2.0 Make fixes.
+# Legacy mods.
+# 9/9/22.	wmk.	original code.
+#
+# Notes. BuildStreets.psq should already have been edited to BuildStreets.sql
+# by DoSedBldStreets.sh prior to running this makefile.
+
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : AlwaysBuild
+.ONESHELL : ;
+
+incroot = $(codebase)/include/
+projpath = $(codebase)/Projects-Geany/SpecialRUdb
+specpath = $(pathbase)/$(rupath)/Special
+bashpath = $(codebase)/Procs-Dev
+altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+vpath %.i $(codebase)/include
+
+# BuildStreetsDB.sh primary target.
+#=======================================================================
+$(specpath)/BuildStreetsDB.sh :  $(specpath)/BuildStreetsDB.sql \
+ $(specpath)/nullpreamble.sh $(specpath)/postBldStreets.sh
+	cd $(altproj);./DoSed.sh $(specpath) BuildStreetsDB nullpreamble.sh \
+	 postBldStreets.sh
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+	
+$(specpath)/BuildStreetsDB.sql : ;
+	if ! test -f $@;then \
+	 echo "** missing BuildStreetsDB.sql for BuildStreetsDB.sh build **";exit 1;fi
+
+$(specpath)/nullpreamble.sh : ;
+	touch $(specpath)/nullpreamble.sh
+	
+$(specpath)/postBldStreets.sh : ;
+	if ! test $@;then \
+	 echo "  ** Missing postBldStreets.sh for BuildStreetsDB.sh **";exit 1;fi
+
+#=======================================================================
+

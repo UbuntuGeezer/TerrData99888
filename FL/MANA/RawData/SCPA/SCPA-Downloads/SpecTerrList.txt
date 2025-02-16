@@ -1,0 +1,40 @@
+Terr111/RegenSpecDB.sql:ATTACH 'ParkBlvdS.db' AS db29;
+Terr109/RegenSpecDB.sql:ATTACH 'ParkBlvdS.db' AS db29;
+Terr112/RegenSpecDB.sql:ATTACH 'ParkBlvdS.db' AS db29;
+Terr129/RegenSpecDB.sql:ATTACH 'TarponCenterDr.db' AS db29;
+Terr135/RegenSpecDB.sql:ATTACH 'ParkBlvdS.db' AS db29;
+Terr136/RegenSpecDB.sql:ATTACH 'ParkBlvdS.db' AS db29;
+Terr139/RegenSpecDB.sql:ATTACH 'CountryClubMHP.db' AS db29;
+Terr140/RegenSpecDB.sql:ATTACH 'CountryClubMHP.db' AS db29;
+Terr201/RegenSpecDB.sql:ATTACH 'BirdBayCir.db' AS db29;
+Terr201/RegenSpecDB.sql:ATTACH 'BirdBayDr.db' AS db29;
+Terr205/RegenSpecDB.sql:ATTACH 'BirdBayDr.db' AS db29;
+Terr206/RegenSpecDB.sql:ATTACH 'WhitePineTreeRd.db' AS db29;
+Terr233/RegenSpecDB.sql:echo "ATTACH 'CapriIslesBlvd.db' AS db29;" >> SQLTemp.sql
+Terr234/RegenSpecDB.sql:echo "ATTACH 'CapriIslesBlvd.db' AS db29;" >> SQLTemp.sql
+Terr266/RegenSpecDB.sql:ATTACH 'InnerDr.db' AS db29;
+Terr266/RegenSpecDB.sql:ATTACH 'OuterDr.db' AS db29;
+Terr274/RegenSpecDB.sql:echo "ATTACH 'CapriIslesBlvd.db' AS db29;" >> SQLTemp.sql
+Terr274/RegenSpecDB.sql:echo "ATTACH 'CasaDelLagoWay.db' AS db29;" >> SQLTemp.sql
+Terr274/RegenSpecDB.sql:echo "ATTACH 'VistaDelLagoWay.db' AS db29;" >> SQLTemp.sql
+Terr274/RegenSpecDB.sql:echo "ATTACH 'LPavia.db' AS db29;" >> SQLTemp.sql
+Terr279/RegenSpecDB.sql:ATTACH 'AvenidaEstancias.db' AS db29;
+Terr286/RegenSpecDB.sql:ATTACH '<special-db>.db' AS db29;
+Terr288/RegenSpecDB.sql:ATTACH 'GondolaParkDr.db' AS db29;
+Terr290/RegenSpecDB.sql:echo "ATTACH 'GondolaParkDr.db' AS db29;" >> SQLTemp.sql
+Terr289/RegenSpecDB.sql:ATTACH 'AuburnCoveCir.db' AS db29;
+Terr289/RegenSpecDB.sql:ATTACH 'GondolaParkDr.db' AS db29;
+Terr280/RegenSpecDB.sql:ATTACH 'AvenidaEstancias.db' AS db29;
+Terr281/RegenSpecDB.sql:ATTACH 'AvenidaEstancias.db' AS db29;
+Terr202/RegenSpecDB.sql:ATTACH 'BirdBayDr.db' AS db29;
+Terr209/RegenSpecDB.sql:ATTACH 'BirdBayDr.db' AS db29;
+Terr209/RegenSpecDB.sql:ATTACH 'WhitePineTreeRd.db' AS db29;
+Terr291/RegenSpecDB.sql:echo "ATTACH 'GondolaParkDr.db' AS db29;" >> SQLTemp.sql
+Terr276/RegenSpecDB.sql:ATTACH 'LakesideWoodsDr.db' AS db29;
+Terr141/RegenSpecDB.sql:ATTACH 'CountryClubMHP.db' AS db29;
+Terr108/RegenSpecDB.sql:ATTACH 'ParkBlvdS.db' AS db29;
+Terr114/RegenSpecDB.sql:ATTACH 'ParkBlvdS.db' AS db29;
+Terr267/RegenSpecDB.sql:ATTACH 'InnerDr.db' AS db29;
+Terr267/RegenSpecDB.sql:ATTACH 'OuterDr.db' AS db29;
+Terr301/RegenSpecDB.sql:ATTACH 'NippinoTrl.db' AS db29;
+Terr302/RegenSpecDB.sql:ATTACH 'NippinoTrl.db' AS db29;

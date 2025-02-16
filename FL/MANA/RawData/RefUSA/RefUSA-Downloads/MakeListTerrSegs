@@ -1,0 +1,51 @@
+# MakeListTerrSegs.tmp - Make ListTerrSegsDB.sh from ListTerrSegsDB.sql.
+# 2023-11-25.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 2023-09-27   wmk.   (automated) ver2.0 Make fixes.
+#	2/10/23.	wmk.
+#
+# Modification History.
+# ---------------------
+# 11/25/23.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 2/10/23.	wmk.	original code; adapted from MakeListTerrStreets.
+#
+# Notes. ListTerrSegs.psq should already have been edited to ListTerrSegs.sql
+# prior to running this makefile (DoSedListTerrStreets.sh)
+
+# use *USER to determine host system.
+
+
+
+
+
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : AlwaysBuild
+.ONESHELL : ;
+
+projpath = $(codebase)/Projects-Geany/SpecialRUdb
+specpath = $(pathbase)/RawData/RefUSA/RefUSA-Downloads/Special
+bashpath = $(codebase)/Procs-Dev
+altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+targpath = $(pathbase)/$(rupath)/Terr264
+
+# ListTerrSegsDB.sh primary target.
+# $(specpath)/preambleBldSt.sh
+#=======================================================================
+$(specpath)/ListTerrSegs.sh :  $(specpath)/ListTerrSegs.sql
+	cd $(altproj);./DoSed.sh $(specpath) ListTerrSegs
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+	if ! test -f $@;then \
+	 echo " ** ListTerrSegs.sh build FAILED **";exit 1;fi
+	$(specpath)/ListTerrSegs.sh
+	if test -f  $(targpath)/segdefs.csv;then \
+	 sed -i 's?\"??g' $(targpath)/segdefs.csv; \
+	 cat $$TEMP_PATH/Terr264Streets.txt;fi
+	
+$(specpath)/ListTerrSegs.sql : ;
+	if ! test -f $@;then \
+	 echo "** missing ListTerrSegs.sql for ListTerrSegs.sh build **";exit 1;fi
+
+#=======================================================================
+

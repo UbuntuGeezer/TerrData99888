@@ -1,0 +1,51 @@
+# Make.RidgewoodMHP.Dwnld -  RU makefile for RidgewoodMHP download.
+# 2023-11-25.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 2023-09-27   wmk.   (automated) ver2.0 Make fixes.
+#   5/4/22. wmk.	(automated) path corrections.
+#	1/17/22.	wmk.
+#
+# Modification History.
+# ---------------------
+# 11/25/23.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 9/12/21.	wmk.	original makefile; adapted from CapriIslesBlvd.
+# 1/17/22.	wmk.	comments corrected.
+#
+# make -f Make.RidgewoodMHP.Dwnld will regenerae the RidgewoodMHP.db
+# following a new download. RidgewoodMHP.db will be considered out-of-date
+# if any of the following prerequisites are newer:
+#	RidgewoodMHP.csv
+#
+# Following a "make" where RidgewoodMHP.db is updated, the user will be given
+# a message to follow-up with make using Make.RidgewoodMHP.Terr to refresh
+# the territories affected by the Ridgewood MHP download.
+
+
+
+
+
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : ;
+.ONESHELL : ;
+
+basepath = $(pathbase)/RawData/RefUSA/RefUSA-Downloads
+specpath = $(basepath)/Special
+projpath = $(codebase)/Projects-Geany/SpecialRUdb
+dbname = RidgewoodMHP
+
+# /RefUSA-Downloads/Special/RidgewoodMHP.db.
+#====================================================================
+$(specpath)/$(dbname).db :  $(specpath)/$(dbname).csv
+	cd $(projpath)/ ; ./DoSed.sh '' $(dbname)
+	$(MAKE) -f $(projpath)/MakeSpecialRUdb
+	~/sysprocs/LOGMSG "  RefUSA-Downloads/Special/$(dbname).db build complete."
+	echo "RU/Special/$(dbname) complete." 
+	echo "  * Follow-up with make Make.$(dbname).Terr *"
+
+#---
+$(specpath)/$(dbname).csv : 
+
+#===============================================================
+

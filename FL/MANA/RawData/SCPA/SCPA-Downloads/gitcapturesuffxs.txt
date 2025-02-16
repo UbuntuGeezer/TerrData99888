@@ -1,0 +1,16 @@
+# git capture file suffixes. 9/13/23.
+.back
+.bak
+.html
+.new
+.pdf
+.psq
+.psq.bak
+.sav
+.sh
+.sql
+.sql.bak
+.sql2
+.tmp
+.tmp.back
+.txt

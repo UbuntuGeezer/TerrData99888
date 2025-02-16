@@ -1,0 +1,63 @@
+-- * UnmatchedAddrs.psq/sql - Export list of unmatched addresses in datbase.
+. \nUnmatchedAddrs.psq-out-of-date-exiting\n
+.exit 1     -- UnmatchedAddrs.psq out of-date
+. \nUnmatchedAddrs.psq-out-of-date-exiting\n
+.exit 1     -- UnmatchedAddrs.psq out of-date
+. \nUnmatchedAddrs.psq-out-of-date-exiting\n
+.exit 1     -- UnmatchedAddrs.psq out of-date
+. \nUnmatchedAddrs.psq-out-of-date-exiting\n
+.exit 1     -- UnmatchedAddrs.psq out of-date
+. \nUnmatchedAddrs.psq-out-of-date-exiting\n
+.exit 1     -- UnmatchedAddrs.psq out of-date
+. \nUnmatchedAddrs.psq-out-of-date-exiting\n
+.exit 1     -- UnmatchedAddrs.psq out of-date
+. \nUnmatchedAddrs.psq-out-of-date-exiting\n
+.exit 1     -- UnmatchedAddrs.psq out of-date
+. \nUnmatchedAddrs.psq-out-of-date-exiting\n
+.exit 1     -- UnmatchedAddrs.psq out of-date
+-- 2023-09-11   wmk.   (automated) ver2.0 SQL fixes.
+-- * 	12/29/22.	wmk.
+-- *
+-- * Notes. *sed* sets the database name to be searched in the SQL queries. The
+-- * SQL searches the Spec_RUBridge table for entries where CongTerrID is empty.
+-- *;
+.open '$pathbase/DB-Dev/junk.db'
+.mode csv
+.separator ,
+ DROP TABLE IF EXISTS ListFlag;
+ CREATE TEMP TABLE ListFlag(
+  Type TEXT);
+.import '$pathbase/RawData/RefUSA/RefUSA-Downloads/Special/ListFlag.csv' ListFlag
+ATTACH '$pathbase/RawData/RefUSA/RefUSA-Downloads/Special'
+ || '/<spec-db>.db'
+ AS db29;
+.mode csv
+.separator ,
+.output '$pathbase/RawData/RefUSA/RefUSA-Downloads/Special/Un<spec-db>.txt'
+ WITH a AS (SELECT Type FROM ListFlag)
+SELECT
+CASE WHEN 'count' in (Select type from a)
+THEN  count() 
+else 'List of unassigned addresses'
+END Empties,
+CASE WHEN 'count' in (Select type from a)
+THEN '<spec-db>'
+END
+ from db29.Spec_RUBridge
+ WHERE CongTerrID IS '';
+-- *;
+ WITH a AS (SELECT Type FROM ListFlag)
+ SELECT 
+ CASE WHEN UnitAddress in (SELECT type from a)
+ then ''
+ ELSE UnitAddress
+ END UnitAddress,
+ CASE WHEN UnitAddress in (SELECT type from a)
+ then ''
+ ELSE Unit
+ END Unit
+ from db29.Spec_RUBridge
+ WHERE CongTerrID IS '';
+.quit
+ .. ** END UnmatchedAddrs.sql;
+

@@ -1,0 +1,55 @@
+# Make.AnyTIDList - Makefile template (RU) for AnyTIDList to extract TerrIDs from <special-db>.db.
+# 2023-11-25.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 2023-09-27   wmk.   (automated) ver2.0 Make fixes.
+#   5/4/22. wmk.	(automated) path corrections.
+#	11/10/21.	wmk.
+#
+# Primary target: /RefUSA-Downloads/Special/<special-db>.TIDList.txt
+#
+# Entry. 'sed' run to edit the <special-db> name w wwww into this makefile
+#	resulting in Make.AnyTIDList for make utility
+#
+# Exit.	/Special/<special-db>.TIDList.txt contains list of territories that
+#	will be affected whenever <special-db>.db is updated.
+#
+# Make.AnyTIDList runs a query to extract TerrIDs from the TerrList table in db
+# <special-db>.db. The query results are output to file <special-db>.TIDList.txt.
+# This file may then be copied into TIDList.txt files in projects such as
+# RemakeSpecTerrs. The TID list provides the list of territories to be re-made
+# whenever <special-db> is newer than either Specyyy_RU.db or Terryyy_RU.db in
+# each territory in the list.
+
+
+
+
+
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : ;
+.ONESHELL : ;
+
+projpath = $(codebase)/Projects-Geany/SpecialRUdb
+specpath = $(pathbase)/RawData/RefUSA/RefUSA-Downloads/Special
+bashpath = $(codebase)/Procs-Dev
+
+# <special-db>.TIDList.txt primary target.
+#=====================================================================================
+$(specpath)/WaterfordNW.TIDList.txt : $(specpath)/WaterfordNW.db $(specpath)/AnyTIDList.sql \
+ $(specpath)/AnyTIDList.sh
+	$(specpath)/AnyTIDList.sh
+	sed -i '1s?^?#?' $@
+
+$(specpath)/AnyTIDList.sh : $(specpath)/AnyTIDList.sq
+	cat $(bashpath)/hdrAnySQL_1.sh $(specpath)/AnyTIDList.sq \
+	 $(bashpath)/hdrAnySQL_2.sh > $@
+	sed -i 's?<filename>?AnyTIDList?g' $@
+
+$(specpath)/AnyTIDList.sq : $(specpath)/AnyTIDList.sql
+	$(bashpath)/AnySQLtoSQ.sh $(specpath)/ AnyTIDList
+
+
+$(specpath)/AnyTIDList.sql : ;
+
+# end Make.AnyTIDList

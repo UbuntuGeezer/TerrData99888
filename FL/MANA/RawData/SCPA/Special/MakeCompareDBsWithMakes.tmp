@@ -1,0 +1,47 @@
+# MakeCompareDBsWithMakes -  *make* file for CompareDBsWithMakes.sh.
+# 2023-09-13   wmk.   (automated) ver2.0 Make fixes.
+#	2/6/23.	wmk.
+#
+# Modification History.
+# ---------------------
+# 2/6/23.	wmk.	original code.
+#
+
+.ONESHELL : ;
+.NOTPARALLEL : ;
+
+ifndef folderbase
+ ifeq ($(USER),ubuntu)
+  folderbase = /media/ubuntu/Windows
+ else
+  folderbase = $(HOME)
+ endif
+endif
+
+ifndef codebase
+ codebase = $(folderbase)/GitHub/TerritoriesCB/FLsara86777
+endif
+
+ifndef pathbase
+ pathbase= $(folderbase)/Territories/FL/SARA/86777
+endif
+
+
+ projpath = $(codebase)/Projects-Geany/SyncAllData
+ altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+targpath = $(pathbase)/$(scpath)/Special
+
+.PHONY  : Always
+.ONESHELL : ;
+
+# primary target phony
+#==================================================================
+Always :
+	cd $(altproj);./DoSed.sh $(targpath) CompareDBsWithMakes
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+	if ! test -f $(targpath)/CompareDBsWithMakes.sh;then \
+	 echo "** CompareDBsWithMakes.sh generation failed **";exit 1;fi
+	echo "** CompareDBsWithMakes.sh to generate MissingMakes.csv **"
+	
+#==================================================================
+# end MakeCompareDBsWithMakes.tmp

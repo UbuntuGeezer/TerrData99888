@@ -1,0 +1,56 @@
+# MakeClearTerrSegs.tmp - Make ClearTerrSegsDB.sh from ClearTerrSegsDB.sql.
+# 2023-11-25.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 2023-09-27   wmk.   (automated) ver2.0 Make fixes.
+#	2/15/23.	wmk.
+#
+# Entry. Jumpto.std = standard postamble for SQL operations.
+#
+# Exit.	Jumpto.std executed to issue end messages.
+#
+# Modification History.
+# ---------------------
+# 11/25/23.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 2/15/23.	wmk.	original code; adapted from MakeListTerrSegs.
+#
+# Notes. ClearTerrSegs.psq should already have been edited into ClearTerrSegs.sql
+# prior to running this makefile (DoSedListTerrStreets.sh)
+
+# use *USER to determine host system.
+
+
+
+
+
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : Always
+.ONESHELL : ;
+
+projpath = $(codebase)/Projects-Geany/SpecialRUdb
+specpath = $(pathbase)/RawData/RefUSA/RefUSA-Downloads/Special
+bashpath = $(codebase)/Procs-Dev
+altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+targpath = $(pathbase)/$(rupath)/Terr264
+
+# ClearTerrSegsDB.sh primary target.
+# $(specpath)/preambleBldSt.sh
+#=======================================================================
+Always : $(specpath)/ClearSegDefs.sql
+	cd $(altproj);./DoSed.sh $(specpath) ClearSegDefs preambleClear.sh
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+	if ! test -f $(specpath)/ClearSegDefs.sh;then \
+	 echo " ** ClearSegDefs.sh build FAILED **";exit 1;fi
+	$(specpath)/ClearSegDefs.sh
+	sqlite3 < $(specpath)/Jumpto.std
+	if test -f  $(targpath)/segdefs.csv;then \
+	 echo "  /Terr264/segdefs.csv definitions remain...";fi
+
+	
+$(specpath)/ClearSegDefs.sql : ;
+	if ! test -f $@;then \
+	 echo "** missing ClearSegDefs.sql for ClearSegDefs.sh build **";exit 1;fi
+
+#=======================================================================
+

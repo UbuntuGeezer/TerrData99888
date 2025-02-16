@@ -1,0 +1,2 @@
+/inserthere/{f=1;print;while (getline < "/home/vncwmk3/temp/Terr264Streets.txt"){print}}/endwhere/{f=0}!f
+

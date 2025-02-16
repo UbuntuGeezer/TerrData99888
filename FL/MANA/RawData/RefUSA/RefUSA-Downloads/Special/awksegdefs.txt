@@ -1,0 +1,14 @@
+# awksegdefs - *mawk directives to process Terrxx/segdefs.csv  -> $TEMP_PATH/TerrxxxStreets.txt.
+#	2/9/23.	wmk.
+#
+# Entry. TerrIDData.SegDefs table entries extracted to file Terrxxx/segdefs.csv
+#
+# Notes. The segdefs.csv contains the "special" database name in the first line,
+#	then the SQL "SELECT" clauses to properly extract territory xxx's records
+#	from the named database. (The database name has no '.db' suffix in the .csv.
+END {print ";"}
+{
+ if(NR==1) print ".open '$pathbase/$rupath/Special/" $0 ".db'";;
+ if(NR==2) print "SELECT * FROM Spec_RUBridge\n" $0;;
+ if(NR>=3) print;;
+}

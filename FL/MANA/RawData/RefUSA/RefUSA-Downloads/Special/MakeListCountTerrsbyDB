@@ -1,0 +1,40 @@
+# MakeListCountTerrsbyDB.tmp - makefile for ListCountTerrsbyDB.sh
+#	10/18/24.	wmk.
+#
+# Modification History.
+# ---------------------
+# 10/18/24.	wmk.	original; adapted from MakeListTerrsDB.
+# Legacy mods.
+# 10/17/24.	wmk.	(automated) build 4.0.9 modifications.
+# 11/25/23.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 9/27/23.   wmk.   (automated) ver2.0 Make fixes.
+# 12/20/22.	wmk.	original.
+
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : AlwaysBuild
+.ONESHELL : ;
+
+projpath = $(codebase)/Projects-Geany/SpecialRUdb
+specpath = $(pathbase)/RawData/RefUSA/RefUSA-Downloads/Special
+bashpath = $(codebase)/Procs-Dev
+altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+
+# <special-db>Tidy.sh primary target.
+#=====================================================================================
+$(specpath)/ListCountTerrsbyDB.sh :  $(specpath)/ListCountTerrsbyDB.sql
+	cd $(altproj);./DoSed.sh $(specpath) ListCountTerrsbyDB nullpreamble.sh postListTerrsByDB.sh
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+	echo "  echo \"cat DBTerrList.txt to see list of territories...\"" >> $@
+	echo "** now run ListCountTerrsbyDB.sh to list territories using db. **"
+
+$(specpath)/ListCountTerrsbyDB.sql : ;
+	if ! test -f $@;then
+	 echo "** missing ListCountTerrsbyDB.sql for ListCountTerrsbyDB.sh build **";exit 1;fi
+
+AlwaysBuild : ;
+
+#====================================================================================
+

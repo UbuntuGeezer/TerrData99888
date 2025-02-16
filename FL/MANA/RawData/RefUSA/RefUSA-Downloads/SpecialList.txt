@@ -1,0 +1,17 @@
+AirportAveAll.csv		AlbaStAll.csv		AuroraStAll.csv
+AvenidaEstancias.csv	AvensCohosh.csv	   	BayIndies.csv
+BayIndies.db			BayIndiesN-1_RU.csv	BayIndiesN-2_RU.csv
+BayIndiesN-3_RU.csv		BayIndiesN-4_RU.csv	BayIndiesS-1_RU.csv
+BayIndiesS-2_RU.csv		BayLakeMHP.csv		BirdBayCir.csv
+BirdBayDrW.csv			BirdBayDrW.db		BirdBayWay.csv
+BirdBayWay.db			CapriIslesBlvd-1.csv	CapriIslesBlvd-2.csv
+CapriIslesBlvd-3.csv	CapriIslesBlvd.csv	CasaDelLagoWay.csv
+GondolaDiffs.txt		GondolaParkDr.csv	GondolaParkDr.db
+GondolaParkDrFull.csv	MalinaCt.csv		MalinaCt.db
+Previous				RUBayIndies_07-04.csv	RUBayIndies_07-04.db
+RUBayLakeMHP_07-04.csv  RUBayLakeMHP_07-04.db	RUPrevious.tar.gz
+RURidgewoodMHP_07-04.csvRURidgewoodMHP_07-04.db	RUSpecTerr_db.sh
+RidgewoodMHP.csv		SQLTemp.sql			SpecialList.txt
+Special_RU.db			TheEsplanade-1.csv	TheEsplanade-2.csv
+TheEsplanade.csv		TheEsplanade.db		VillageCir.csv
+VillageCir.db			VistaDelLagoWay.csv	junk.txt

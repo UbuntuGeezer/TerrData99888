@@ -1,0 +1,60 @@
+# Make.AnyTidy.tmp - Makefile template (RU) for AnyTidy <special-db>Tidy.sql to <special-db>Tidy.sh.
+#	5/1/24.	wmk.
+#
+# Primary target: /RefUSA-Downloads/Special/<special-db>.sh [w wwww]
+#
+# Entry. 'sed' run to edit the <special-db> name w wwww into this makefile
+#	resulting in Make.AnyTidy for make utility
+#
+# Modification History.
+# ---------------------
+# 5/1/24.	wmk.	(automated) build 4.0.8 modifications.
+# 5/1/24.	wmk.	*rupath replaces long path.
+# 4/26/24.	wmk.	(automated) build 4.0.1 modifications.
+# 11/25/23.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 9/27/23.  wmk.    (automated) ver2.0 Make fixes.
+# 12/5/22.	wmk.	*codebase support; recipes corrected to use *codebase.
+# 2/2/23.	wmk.	dead cat removed.
+# Legacy mods.
+# 9/9/22.	wmk.	main recipe updated to use AnySQLtoSH; comments tidied.
+# 5/4/22.	wmk.	(automated) path corrections.
+# Legacy mods.
+# 10/6/21.	wmk.	original code.
+# 12/29/21.	wmk.	chmod 700 added to recipe to allow .sh to execute.
+# 12/30/21.	wmk.	TidyPreamble.sh added to recipe.
+#
+# Make.AnyTidy takes /RefUSA-Downloads/Special/<special-db>Tidy.sql and 
+# processes it into a .sq, and ultimately a .sh shell that, when executed
+# will Tidy the <special-db>.db.Spec_SCBridge table records with
+# the correct RecordDate and RecordType fields.
+
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : AlwaysBuild
+.ONESHELL : ;
+
+incroot = $(codebase)/include/
+projpath = $(codebase)/Projects-Geany/SpecialRUdb
+specpath = $(pathbase)/$(rupath)/Special
+bashpath = $(codebase)/Procs-Dev
+altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+vpath %.i $(codebase)/include
+
+# <special-db>Tidy.sh primary target.
+#=====================================================================================
+$(specpath)/WatersideLnTidy.sh :  $(specpath)/WatersideLnTidy.sql \
+ $(specpath)/TidyPreamble.sh AlwaysBuild
+	cd $(altproj);./DoSed.sh $(specpath) WatersideLnTidy TidyPreamble.sh
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+	
+$(specpath)/WatersideLnTidy.sql : ;
+	if ! test -f $@;then
+	 echo "** missing WatersideLnTidy.sql for WatersideLnTidy.sh build **";exit 1;fi
+
+AlwaysBuild : ;
+	sed 's?<filename>?WatersideLnTidy?g' $(specpath)/TidyPreamble.psh \
+	 > $(specpath)/TidyPreamble.sh
+
+#=====================================================================================

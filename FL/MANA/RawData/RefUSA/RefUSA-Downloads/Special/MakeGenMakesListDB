@@ -1,0 +1,26 @@
+# MakeGenMakesListDB.tmp - *make* file for GenMakesListDB.sql build.
+#	10/21/24.	wmk.
+#
+# Modification History.
+# ---------------------
+# 10/21/24.	wmk.	original.
+#
+
+ projpath = $(pathbase)/$(rupath)/Special
+ altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+
+.PHONY  : Always
+.ONESHELL : ;
+.NOPARALLEL : ;
+
+# primary target phony
+#==================================================================
+Always :
+	cd $(altproj);./DoSed.sh $(projpath) GenMakesListDB
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+	if ! test -f $(projpath)/GenMakesListDB.sh;then \
+	 echo "** GenMakesListDB.sh generation failed **";exit 1;fi
+	echo "** ./GenMakesListDB.sh to generate MakesList.db **"
+	
+#==================================================================
+# end MakeGenMakesListDB.tmp

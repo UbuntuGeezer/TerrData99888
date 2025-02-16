@@ -1,0 +1,49 @@
+# MakeBuildStreets.tmp - Make BuildStreetsDB.sh from BuildStreetsDB.sql.
+$(error out-of-date)
+# 2023-11-25.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 2023-09-27   wmk.   (automated) ver2.0 Make fixes.
+#	9/9/22.	wmk.
+#
+# Modification History.
+# ---------------------
+# 11/25/23.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 9/9/22.	wmk.	original code.
+#
+# Notes. BuildStreets.psq should already have been edited to BuildStreets.sql
+# prior to running this makefile.
+
+# use *USER to determine host system.
+
+
+
+
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : AlwaysBuild
+.ONESHELL : ;
+
+incroot = $(codebase)/include/
+projpath = $(codebase)/Projects-Geany/SpecialRUdb
+specpath = $(pathbase)/RawData/RefUSA/RefUSA-Downloads/Special
+bashpath = $(codebase)/Procs-Dev
+altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+vpath %.i $(codebase)/include
+
+# BuildStreetsDB.sh primary target.
+#=======================================================================
+$(specpath)/BuildStreetsDB.sh :  $(specpath)/BuildStreetsDB.sql \
+ $(specpath)/preambleBldSt.sh
+	cd $(altproj);./DoSed.sh $(specpath) BuildStreetsDB preambleBldSt.sh
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+	
+$(specpath)/BuildStreetsDB.sql : ;
+	if ! test -f $@;then \
+	 echo "** missing BuildStreetsDB.sql for BuildStreetsDB.sh build **";exit 1;fi
+
+$(specpath)/preambleBldSt.sh : ;
+	if ! test -f $@;then \
+	 echo "** missing preambleBldSt.sh for BuildStreetsDB.sh build **";exit 1;fi
+#=======================================================================
+

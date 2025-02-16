@@ -1,0 +1,4 @@
+s?AS Acct FROM Spec_RUBridge?AS Acct FROM Terr611 _SCBridge?g
+s? _SCBridge?_SCBridge?g
+16a-- * 11/9/21.   wmk.    bug fix setting territory ID in Specials.
+

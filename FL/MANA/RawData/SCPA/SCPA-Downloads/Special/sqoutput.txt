@@ -1,0 +1,17 @@
+0|OwningParcel|TEXT|1||0
+1|UnitAddress|TEXT|1||0
+2|Unit|TEXT|0||0
+3|Resident1|TEXT|0||0
+4|Phone1|TEXT|0||0
+5|Phone2|TEXT|0||0
+6|RefUSA-Phone|TEXT|0||0
+7|SubTerritory|TEXT|0||0
+8|CongTerrID|TEXT|0||0
+9|DoNotCall|INTEGER|0|0|0
+10|RSO|INTEGER|0|0|0
+11|Foreign|INTEGER|0|0|0
+12|RecordDate|REAL|0|0|0
+13|SitusAddress|TEXT|0||0
+14|PropUse|TEXT|0||0
+15|DelPending|INTEGER|0|0|0
+16|RecordType|TEXT|0||0

@@ -1,0 +1,50 @@
+# MakeLoadSegDefs - *make* file for LoadSegDefs.sh.
+# 2023-11-25.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 2023-09-27   wmk.   (automated) ver2.0 Make fixes.
+#	2/16/23.	wmk.
+#
+# Exit. loadsegsfailed semaphore file present if LoadSegsDefs.sh failed.
+#	Jumpto.sql message(s) issued.
+#
+# Modification History.
+# ---------------------
+# 11/25/23.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 2/11/23.	wmk.	original code.
+# 2/12/23.	wmk.	add code to run sqlite on Jumpto.sql.; loadsegsfailed
+#			 semaphore set at startup; cleared on success.
+# 2/16/23.	wmk.	Exit documentation added.
+
+.ONESHELL : ;
+.NOTPARALLEL : ;
+
+
+
+
+
+ projpath = $(pathbase)/$(rupath)/Special
+ altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+
+
+.PHONY  : Always
+.ONESHELL : ;
+
+# primary target phony
+#==================================================================
+Always :
+	if ! test -f $(projpath)/loadsegsfailed;then \
+	 echo "" > $(projpath)/loadsegsfailed;fi
+	cd $(altproj);./DoSed.sh $(projpath) LoadSegDefs
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+	if ! test -f $(projpath)/LoadSegDefs.sh;then \
+	 echo "** LoadSegDefs.sh generation failed **";exit 1;fi
+	echo "** LoadSegDefs.sh to load territory segment definitions **"
+	if test -f $(projpath)/loadfailed;then rm $(projpath)/loadfailed;fi
+	$(projpath)/LoadSegDefs.sh
+	sed -i 's/"//g' $(projpath)/Jumpto.sql
+	sqlite3 < $(projpath)/Jumpto.sql
+	if [ $$? -eq 0 ];then \
+	 if test -f $(projpath)/loadsegsfailed;then \
+	  rm $(projpath)/loadsegsfailed;fi;fi
+	
+#==================================================================
+# end MakeLoadSegDefs.tmp

@@ -1,0 +1,42 @@
+# MakeListDBTerrs.tmp - makefile for ListDBTerrs.sh
+#	10/17/24.	wmk.
+#
+# Modification History.
+# ---------------------
+# 10/17/24.	wmk.	(automated) build 4.0.9 modifications.
+# 11/25/23.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 9/27/23.   wmk.   (automated) ver2.0 Make fixes.
+# 12/20/22.	wmk.	original.
+#
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : AlwaysBuild
+.ONESHELL : ;
+
+projpath = $(codebase)/Projects-Geany/SpecialRUdb
+specpath = $(pathbase)/RawData/RefUSA/RefUSA-Downloads/Special
+bashpath = $(codebase)/Procs-Dev
+altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+
+# <special-db>Tidy.sh primary target.
+#=====================================================================================
+$(specpath)/ListDBTerrs.sh :  $(specpath)/ListDBTerrs.sql
+	if test -s $(specpath)/DBTerrList.txt;then rm $(specpath)/DBTerrList.txt;fi
+	cd $(altproj);./DoSed.sh $(specpath) ListDBTerrs
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+	if ! test -f $@;then \
+	 echo " ** ListDBTerrs.sh build failed - make terminating **";exit 1;fi
+	echo "  echo \"cat DBTerrList.txt to see list of territories...\"" >> $@
+	$@
+	cat $(specpath)/DBTerrList.txt
+
+$(specpath)/ListDBTerrs.sql : ;
+	if ! test -f $@;then
+	 echo "** missing ListDBTerrs.sql for ListDBTerrs.sh build **";exit 1;fi
+
+AlwaysBuild : ;
+
+#====================================================================================
+

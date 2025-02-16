@@ -1,0 +1,36 @@
+-- * ListDBTerrs.psq/sql - List territories using special database.
+. \nListDBTerrs.sql-out-of-date-exiting\n
+.exit 1     -- ListDBTerrs.sql out of-date
+. \nListDBTerrs.sql-out-of-date-exiting\n
+.exit 1     -- ListDBTerrs.sql out of-date
+. \nListDBTerrs.sql-out-of-date-exiting\n
+.exit 1     -- ListDBTerrs.sql out of-date
+. \nListDBTerrs.sql-out-of-date-exiting\n
+.exit 1     -- ListDBTerrs.sql out of-date
+. \nListDBTerrs.sql-out-of-date-exiting\n
+.exit 1     -- ListDBTerrs.sql out of-date
+. \nListDBTerrs.sql-out-of-date-exiting\n
+.exit 1     -- ListDBTerrs.sql out of-date
+. \nListDBTerrs.sql-out-of-date-exiting\n
+.exit 1     -- ListDBTerrs.sql out of-date
+. \nListDBTerrs.sql-out-of-date-exiting\n
+.exit 1     -- ListDBTerrs.sql out of-date
+-- *	10/20/24.
+-- *
+-- * Modification History.
+-- * ---------------------
+-- * 10/20/24.	wmk.	(automated) *rupath, *scpath replace long paths.
+-- * 10/20/24.	wmk.	(automated) build 4.0.9 updates.
+-- * 10/20/24.	wmk.	<spec-db> changed to < spec-short> to match DoSed.
+-- * 9/11/23.   wmk.   (automated) ver2.0 SQL fixes.
+-- * 12/20/22.	wmk.	original.
+-- *;
+.open '$pathbase/$rupath/Special/NippinoTrl.db'
+.output '$pathbase/$rupath/Special/DBTerrList.txt'
+select TerrID from TerrList
+ where length(trim(counts)) > 0 
+  AND cast(Counts as integer) > 0
+  order by TerrID;
+
+.quit
+-- * end ListDBTerrs.psq/sql

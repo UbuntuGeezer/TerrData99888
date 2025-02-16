@@ -1,0 +1,23 @@
+-- * Jumpto.psq - Jump to code for LoadSegDefs.psq.;
+. \nJumpto.psq-out-of-date-exiting\n
+.exit 1     -- Jumpto.psq out of-date
+. \nJumpto.psq-out-of-date-exiting\n
+.exit 1     -- Jumpto.psq out of-date
+-- *	4/4/24.	wmk.
+-- * Modification History.
+-- * ---------------------
+-- * 4/4/24.	wmk.	(automated) build 4.0.1 udpates.
+-- * 9/11/24    wmk.    (automated) ver2.0 SQL fixes.
+-- * 2/11/23.   wmk.	original.
+-- *;
+DROP TABLE IF EXISTS "yyyDefs";
+CREATE TABLE "yyyDefs"(
+ newsql TEXT)
+;
+.mode csv
+.headers OFF
+.separator |
+.import '$pathbase/$rupath/Terryyy/sqldefs.csv' "yyyDefs"
+.quit
+-- end Jumpto.psq
+

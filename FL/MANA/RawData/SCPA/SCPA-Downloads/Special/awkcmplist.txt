@@ -1,0 +1,11 @@
+# awkcmplist.txt - mawk directives for CmpList shell.
+#awk -F "." '
+#{print "grep -e \" MakeList.txt" $2  
+#   "> scratchfile;if test -s scratchfile;then echo \"$2 not in TerrMakeList.txt\";fi"
+#   }
+# DBList.txt > $TEMP_PATH/MakeList.sh
+#awk -F "." '
+{ print "grep -e \"" $1  "\" TerrMakeList.txt > scratchfile;if [ $? -ne 0 ];then echo \" " $1 " not in TerrMakeList.txt\";fi"
+  }
+#  ' DBList.txt > $TEMP_PATH/MakeList.sh
+

@@ -1,0 +1,43 @@
+-- * ListTerrStreets.psq/sql - module description.
+. \nListTerrStreets.sql-out-of-date-exiting\n
+.exit 1     -- ListTerrStreets.sql out of-date
+. \nListTerrStreets.sql-out-of-date-exiting\n
+.exit 1     -- ListTerrStreets.sql out of-date
+. \nListTerrStreets.sql-out-of-date-exiting\n
+.exit 1     -- ListTerrStreets.sql out of-date
+. \nListTerrStreets.sql-out-of-date-exiting\n
+.exit 1     -- ListTerrStreets.sql out of-date
+. \nListTerrStreets.sql-out-of-date-exiting\n
+.exit 1     -- ListTerrStreets.sql out of-date
+. \nListTerrStreets.sql-out-of-date-exiting\n
+.exit 1     -- ListTerrStreets.sql out of-date
+. \nListTerrStreets.sql-out-of-date-exiting\n
+.exit 1     -- ListTerrStreets.sql out of-date
+. \nListTerrStreets.sql-out-of-date-exiting\n
+.exit 1     -- ListTerrStreets.sql out of-date
+-- 2023-09-11   wmk.   (automated) ver2.0 SQL fixes.
+-- * 2/8/23.	wmk.
+-- *
+-- * Modification History.
+-- * ---------------------
+-- * 2/7/23.	wmk.	original code.
+-- * 2/8/23.	wmk.	mod to write SQL "WHERE" snippet.
+-- * Notes.
+-- *;
+.open '$pathbase/$rupath/Terr264/Terr264_RU.db'
+DROP TABLE IF EXISTS StreetNames;
+CREATE TABLE StreetNames(
+ RecNo INTEGER PRIMARY KEY AUTOINCREMENT, SName TEXT );
+INSERT INTO StreetNames (SName)
+SELECT DISTINCT TRIM(SUBSTR(UnitAddress,instr(UnitAddress,' '))) Streets
+ FROM Terr264_RUBridge
+ ORDER BY Streets;
+.mode csv
+.headers off
+.output '$TEMP_PATH/Terr264Streets.txt'
+SELECT CASE WHEN RecNo IS 1
+ THEN "WHERE UnitAddress LIKE '%" || SName || "%'"
+ELSE  "   OR UnitAddress LIKE '%" || SName || "%'"
+END FROM StreetNames;
+.quit
+-- * END ListTerrStreets.sql;

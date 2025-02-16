@@ -1,0 +1,68 @@
+<p>README - SCPA-Downloads/Special folder documentation.<br>
+6/30/22.    wmk.
+<em>*</em>Modification History.</p>
+
+<pre><code>6/30/22.    wmk.   original document.
+</code></pre>
+
+<h3 id="IX">Document Sections.</h3>
+
+<pre><code><a href="#1.0">link</a> 1.0 Project Description.
+<a href="#2.0">link</a> 2.0 Dependencies.
+<a href="#3.0">link</a> 3.0 Setup.
+<a href="#4.0">link</a> 4.0 Supporting Shells and Files.
+<a href="#5.0">link</a> 5.0 etc.
+<a href="#IX">Index</a>
+</code></pre>
+
+<h3 id="1.0">Project Description.</h3>
+
+<p>SCPA-Downloads/Special contains databases, utility shells, and files that support
+"special" downloads of SCPA data. These downloads may be single streets or entire
+areas that need unique treatment because of the layout of the publisher territories.</p>
+
+<p>The databases themselves have a dedicated management project <em>SpecialSCdb</em> that is
+used whenever publisher territories need unique treatment. That project "builds"
+and updates any of the /Special databases.
+<a href="file:///media/ubuntu/Windows/Users/Bill/Territories/FL/SARA/86777/Projects-Geany/SpecialSCdb/README.html">SpecialSCdb</a></p>
+
+<p>The /Special folder serves as sort of a "central clearing house" for all territories
+that need unique treatment. Some territories may need to use the data from more than
+one special database. A special database may also need to be used for several territories.
+The supporting shells and files within the /Special folder provide a standardized method
+that allows for coordinating which territory(ies) need to be updated when a special
+database is updated.</p>
+
+<p>For example, suppose a street is long enough so that is crosses publisher territory
+boundaries. Suppose further, that the territory boundary that crosses this street
+is in the middle of a "block" (like in condominium complexes). The /Special download
+will include all addresses along the street, but the territories will only include
+their subset of the street addresses. The /Special databases and supporting files make this
+situation quite manageable.</p>
+
+<p>Whenever the /Special database for the street is updated with a fresh download, all
+territories using that street will need to be updated as well. In turn, whenever the
+SCPA master data is updated for the entire congregation territory, the /Special
+database for the street will need to be updated with the newest SCPA data from the
+master.<br><a href="#IX">Index</a></p>
+
+<h3 id="2.0">Dependencies.</h3>
+
+<p><br><a href="#IX">Index</a></p>
+
+<h3 id="3.0">Setup.</h3>
+
+<p><br><a href="#IX">Index</a></p>
+
+<h3 id="4.0">Supporting Shells and Files.</h3>
+
+<p>XrefMakes.sh - shell file that produces a list of territories that are dependent upon
+ any given &lt; special-db >.</p>
+
+<p>GenDBList.sh - generate list of .db files on file DBList.txt</p>
+
+<p><br><a href="#IX">Index</a></p>
+
+<h3 id="5.0">etc.</h3>
+
+<p><br><a href="#IX">Index</a></p>

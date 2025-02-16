@@ -1,0 +1,16 @@
+BEGIN{cnt=0}
+END{ncnt=asort(suffxs,sortdsuffx)
+ prev=""
+ for(i=0;i<=ncnt;i++){
+ if(sortdsuffx[i] != prev){print sortdsuffx[i];prev=sortdsuffx[i]};
+ } 
+}
+{ len=length($NF)
+ if(substr($NF,len-3,1)=="." || substr($NF,len-4,1)=="."){hassuffx=1
+  for(j=0;j<cnt;j++) if(suffxs[j] == substr($NF,index($NF,"."),99))foundit=1;foundit=0
+ }
+ else
+  hassuffx=0
+ if(foundit == 0 && hassuffx == 1) {suffxs[cnt]=substr($NF,index($NF,"."),99)
+   cnt++};
+}

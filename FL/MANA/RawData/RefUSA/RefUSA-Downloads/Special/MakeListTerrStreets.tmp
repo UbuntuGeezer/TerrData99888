@@ -1,0 +1,52 @@
+# MakeListTerrStreets.tmp - Make ListTerrStreetsDB.sh from ListTerrStreetsDB.sql.
+# 2023-11-25.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 2023-09-27   wmk.   (automated) ver2.0 Make fixes.
+#	9/9/22.	wmk.
+#
+# Modification History.
+# ---------------------
+# 11/25/23.	wmk.	(automated) Version 3.0.6 Make old paths removed.
+# 9/9/22.	wmk.	original code.
+#
+# Notes. ListTerrStreets.psq should already have been edited to ListTerrStreets.sql
+# prior to running this makefile.
+
+# use *USER to determine host system.
+
+
+
+
+
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : AlwaysBuild
+.ONESHELL : ;
+
+projpath = $(codebase)/Projects-Geany/SpecialRUdb
+specpath = $(pathbase)/RawData/RefUSA/RefUSA-Downloads/Special
+bashpath = $(codebase)/Procs-Dev
+altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+
+# ListTerrStreetsDB.sh primary target.
+# $(specpath)/preambleBldSt.sh
+#=======================================================================
+$(specpath)/ListTerrStreets.sh :  $(specpath)/ListTerrStreets.sql
+	cd $(altproj);./DoSed.sh $(specpath) ListTerrStreets
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+	if ! test -f $@;then \
+	 echo " ** ListTerrStreets.sh build FAILED **";exit 1;fi
+	$(specpath)/ListTerrStreets.sh
+	sed -i 's?\"??g' $$TEMP_PATH/TerryyyStreets.txt
+	cat $$TEMP_PATH/TerryyyStreets.txt
+	
+$(specpath)/ListTerrStreets.sql : ;
+	if ! test -f $@;then \
+	 echo "** missing ListTerrStreets.sql for ListTerrStreets.sh build **";exit 1;fi
+
+#$(specpath)/preambleBldSt.sh : ;
+#	if ! test -f $@;then \
+#	 echo "** missing preambleBldSt.sh for ListTerrStreetsDB.sh build **";exit 1;fi
+#=======================================================================
+

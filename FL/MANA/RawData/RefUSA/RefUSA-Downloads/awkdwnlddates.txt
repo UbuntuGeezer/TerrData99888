@@ -1,0 +1,3 @@
+BEGIN{ cnt = 0 }
+END{m=asort(dates);for(i=0; i <= m;i++)print dates[i]}
+{terrstrt=index($8,"/");dates[cnt] =  substr($8,1,terrstrt-1) "|" $6 "|" $8;cnt++}

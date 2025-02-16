@@ -1,0 +1,26 @@
+-- AnyTIDList.psq/sql - Extract TID list from TerrList in <special-db>.
+. \nAnyTIDList.psq-out-of-date-exiting\n
+.exit 1     -- AnyTIDList.psq out of-date
+-- 2023-09-11   wmk.   (automated) ver2.0 SQL fixes.
+--	5/7/22.	wmk.
+-- *
+-- * Modification History.
+-- * ---------------------
+-- * 11/10/21.	wmk.	original code.
+-- * 5/7/22.	wmk.	DISTINCT added to SELECT; *pathbase* support.
+-- *
+-- * Notes. This is used to make a list of territory IDs affected by any
+-- * change to /Special/vvvvv.db. The list is saved on file vvvvv.TIDList.txt
+-- *;
+
+.open '$pathbase/RawData/RefUSA/RefUSA-Downloads/Special/vvvvv.db'
+.mode csv
+.headers ON
+.separator ,
+.output '$pathbase/RawData/RefUSA/RefUSA-Downloads/Special/vvvvv.TIDList.txt'
+SELECT DISTINCT TerrID from TerrList
+ WHERE TerrID NOTNULL
+   AND Length(TRIM(TerrID)) > 0
+ORDER BY TerrID;
+.quit
+-- ** end AnyTIDList.sql *****;

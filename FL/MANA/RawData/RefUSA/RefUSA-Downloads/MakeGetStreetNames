@@ -1,0 +1,37 @@
+# MakeGetStreetNames - Make GetStreetNamesDB.sh from GetStreetNamesDB.sql.
+#	5/23/24.	wmk.
+#
+# Modification History.
+# ---------------------
+# 5/23/24.	wmk.	original.
+#
+# Notes. GetStreetNames.psq should already have been edited to GetStreetNames.sql
+# prior to running this makefile (DoSedGetAreaStreets.sh)
+
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : AlwaysBuild
+.ONESHELL : ;
+
+projpath = $(codebase)/Projects-Geany/SpecialRUdb
+specpath = $(pathbase)/$(rupath)/Special
+bashpath = $(codebase)/Procs-Dev
+altproj = $(codebase)/Projects-Geany/AnySQLtoSH
+targpath = $(pathbase)/$(rupath)/Special
+
+# GetStreetNames.sh primary target.
+#=======================================================================
+$(specpath)/GetStreetNames.sh :  $(specpath)/GetStreetNames.sql
+	cd $(altproj);./DoSed.sh $(specpath) GetStreetNames
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+	if ! test -f $@;then \
+	 echo " ** GetStreetNames.sh build FAILED **";exit 1;fi
+	$(specpath)/GetStreetNames.sh
+	
+$(specpath)/GetStreetNames.sql : ;
+	if ! test -f $@;then \
+	 echo "** missing GetStreetNames.sql for GetStreetNames.sh build **";exit 1;fi
+
+#=======================================================================

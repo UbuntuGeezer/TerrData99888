@@ -1,0 +1,55 @@
+SPECIAL - /SCPA-Downloads/Special folder documentation.
+	9/5/21.	wmk.
+
+Modification History.
+---------------------
+9/4/21.		wmk.	original document.
+9/5/21.		wmk.	Significant Notes section added.
+
+
+SPECIAL documents the use of the SCPA-Downloads/Special folder files.
+
+There are n categories of files saved in the Special folder:
+
+	.db			databases; special downloads of areas or streets processed
+				 into databases with area/streetname.db as the name
+	.csv		 .csv downloads of data from a given street or area (e.g
+				 Bay Indies or CapriIslesBlvd)
+	.sql		SQL query files for processing downloads
+	.sq			SQL queries converted to shell 'echo' commands
+	.sh			shell files created from .sql files
+'	Make.*		makefiles used in managing Special file updates
+	.txt		text files used in provessing (e.g. sed directives)
+
+makefiles that start with 'Make.' and end in .Terr are tied to a given .db special
+download. Running 'make' on one of these makefiles will regenerate all the Specxxx_SC.db
+databases in the territory SCPA-Downloads/Terrxxx folders for all affected territories
+that are dependent upon the area/streetname .db.
+
+
+Significant Notes.
+------------------
+<special-db>.sql provides the SQL for the SpecialSCdb project build that extracts the
+records for <special-db>.db from VeniceNTerritory.NVenAll table. These records are
+placed in table <special-db> with an additional column "TID" added. This SQL also
+builds the tables PropTerr, TerrList, and Spec_SCBridge, populating the Spec_SCBridge
+records fron the extracted <special-db> table records.
+
+<special-db>New.sql provides the SQL that extracts the records for <special-db>.db
+from VeniceNTerritory.NVenAll table into <special-db>.csv. The makefile Make.<special-db>.csv
+uses the <special-db>New.sql to generate the .csv file. The resultant .csv file has
+no header information, and can be used in an SQL import operation to rebuild the
+<special-db>.db tables if necessary.
+
+Makefiles.
+----------
+Make.<special-db>.csv - extracts all records for <special-db> from VeniceNTerritory.db
+	table NVenAll
+
+Make.<special-db>.Dwnld - remakes the <special-db> from a new download. The makefile must
+	be edited with the month and day of the new download set in the mm and dd vars. This
+	is a shortcut to invoke	the SpecialSCdb project build without having to enter the
+	project through Geany.
+
+
+

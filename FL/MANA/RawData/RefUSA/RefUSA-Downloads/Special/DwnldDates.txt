@@ -1,0 +1,13 @@
+-rw-r--r-- 1 vncwmk3 vncwmk3 116K 2024-12-26 12:05 BayIndiesMHP.csv
+-rw-r--r-- 1 vncwmk3 vncwmk3  26K 2024-12-26 08:46 BayIndiesN-1.csv
+-rw-r--r-- 1 vncwmk3 vncwmk3  26K 2024-12-26 08:49 BayIndiesN-2.csv
+-rw-r--r-- 1 vncwmk3 vncwmk3  26K 2024-12-26 08:51 BayIndiesN-3.csv
+-rw-r--r-- 1 vncwmk3 vncwmk3 1.7K 2024-12-26 08:54 BayIndiesN-4.csv
+-rw-r--r-- 1 vncwmk3 vncwmk3  79K 2024-12-26 11:22 BayIndiesN.csv
+-rw-r--r-- 1 vncwmk3 vncwmk3  26K 2024-12-26 08:57 BayIndiesS-1.csv
+-rw-r--r-- 1 vncwmk3 vncwmk3  12K 2024-12-26 08:58 BayIndiesS-2.csv
+-rw-r--r-- 1 vncwmk3 vncwmk3  38K 2024-12-26 11:23 BayIndiesS.csv
+-rw-r--r-- 1 vncwmk3 vncwmk3  963 2024-12-26 09:27 BayIndiesStreets.csv
+-rw-r--r-- 1 vncwmk3 vncwmk3  12K 2024-12-26 07:43 Map801.csv
+-rw-r--r-- 1 vncwmk3 vncwmk3 6.3K 2024-12-26 07:43 Map806.csv
+-rw-r--r-- 1 vncwmk3 vncwmk3 2.8K 2024-12-26 07:43 Maptest.csv

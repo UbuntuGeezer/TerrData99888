@@ -1,0 +1,2 @@
+BEGIN {F=","}
+{if(substr($2,1,1) == "'")print $1","substr($2,2,99);;}

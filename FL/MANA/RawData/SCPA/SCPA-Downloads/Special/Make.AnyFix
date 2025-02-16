@@ -1,0 +1,61 @@
+# Make.AnyFix.tmp - Makefile template for AnyFix to convert Fix..sql to Fix..sh.
+# 2023-09-21   wmk.   (automated) ver2.0 Make fixes.
+#	9/9/22.	wmk.
+#
+# Primary target: /SCPA-Downloads/Special/<special-db>.sh [w wwww]
+#
+# Entry. 'sed' run to edit the <special-db> name w wwww into this makefile
+#	resulting in Make.AnyFix for make utility
+#
+# Modification History.
+# ---------------------
+# 9/9/22.	wmk.	main recipe updated to use AnySQLtoSH; comments tidied.
+# 5/4/22. wmk.	(automated) path corrections.
+# Legacy mods.
+# 10/6/21.	wmk.	original makefile.
+# 12/30/21.	wmk.	corrections saved to Make.AnyFix.tmp
+#
+# Make.AnyFix takes /SCPA-Downloads/Special/<special-db>Fix.sql and 
+# processes it into a .sq, and ultimately a .sh shell that, when executed
+# will fix the <special-db>.db.Spec_SCBridge table records with
+# the correct RecordDate and RecordType fields.
+
+# use *USER to determine host system.
+
+ifndef folderbase
+ ifeq ($(USER),ubuntu)
+  folderbase = /media/ubuntu/Windows
+ else
+  folderbase = $(HOME)
+ endif
+endif
+
+ifndef pathbase
+ pathbase = $(folderbase)/Territories/FL/SARA/86777
+endif
+
+
+ifndef AWK
+ AWK = mawk
+endif
+
+.PHONY : ;
+.ONESHELL : ;
+
+incroot = $(pathbase)/include/
+projpath = $(pathbase)/Projects-Geany/SpecialSCdb
+specpath = $(pathbase)/RawData/SCPA/SCPA-Downloads/Special
+bashpath = $(pathbase)/Procs-Dev
+altproj = $(pathbase)/Projects-Geany/AnySQLtoSH
+vpath %.i $(pathbase)/include
+
+# <special-db>Fix.sh primary target.
+#=====================================================================================
+$(specpath)/Fix.TheEsplanade.sh :  $(specpath)/Fix.TheEsplanade.sql
+	cd $(altproj);./DoSed.sh $(specpath) Fix.TheEsplanade
+	$(MAKE) -f $(altproj)/MakeAnySQLtoSH
+
+$(specpath)/Fix.TheEsplanade.sql : ;
+	if ! test -f $@;then \
+	 echo "** Fix.TheEsplanade.sql missing for Fix.TheEsplanade.sh build **";exit 1;fi
+

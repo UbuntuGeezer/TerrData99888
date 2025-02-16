@@ -1,0 +1,13 @@
+./Terr129/MakeRegenSpecDB
+./Terr139/MakeRegenSpecDB
+./Terr140/MakeRegenSpecDB
+./Terr201/MakeRegenSpecDB
+./Terr205/MakeRegenSpecDB
+./Terr206/MakeRegenSpecDB
+./Terr233/MakeRegenSpecDB
+./Terr234/MakeRegenSpecDB
+./Terr266/MakeRegenSpecDB
+./Terr274/MakeRegenSpecDB
+./Terr288/MakeRegenSpecDB
+./Terr290/MakeRegenSpecDB
+./Terr289/MakeRegenSpecDB

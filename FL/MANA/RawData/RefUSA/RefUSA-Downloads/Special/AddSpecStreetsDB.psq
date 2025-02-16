@@ -1,0 +1,30 @@
+-- * AddSpecStreetsDB.psq/sql - Build Streets table from SC and RU territory dbs.
+. \nAddSpecStreetsDB.psq-out-of-date-exiting\n
+.exit 1     -- AddSpecStreetsDB.psq out of-date
+-- *	5/2/24.	wmk.
+-- *
+-- * Modification History.
+-- * ---------------------
+-- * 5/2/24.	wmk.	(automated) build 4.0.8 udpates.
+-- * 9/11/23.   wmk.    (automated) ver2.0 SQL fixes.
+-- * Legacy mods.
+-- * 9/9/22.	wmk.	original.
+-- *
+-- * Notes. xx x will be changed to a territory ID throuth by DoSedBldStreets.sh
+-- * RefUSA-Downloads/Special/StreeNames.db . Streets is the target table.
+-- *
+.open '$pathbase/$rupath/Special/StreetNames.db
+ATTACH '$pathbase/$scpath/Terrxxx/Terrxxx_SC.db'
+ AS db14;
+ATTACH '$pathbase/$rupath/Terrxxx/Terrxxx_RU.db'
+ AS db15;
+INSERT or IGNORE INTO Streets
+select distinct trim(substr(unitaddress,
+ instr(unitaddress,' '))) Streets, '*scpath/Terrxxx_SC.db'
+ from db14.Terrxxx_SCBridge;
+INSERT or IGNORE INTO Streets
+select distinct trim(substr(unitaddress,
+ instr(unitaddress,' '))) Streets, '*rupath/Terrxxx_RU.db'
+ from db15.Terrxxx_RUBridge;
+.quit
+-- * END AddSpecStreetsDB.sql

@@ -1,0 +1,9 @@
+# sedbldstreets.txt
+s?/Terrxxx/?/Special/?g
+s?Terrxxx_RU.db?BayIndiesMHP.db?g
+s?Terrxxx_SC.db?BayIndiesMHP.db?g
+s?Terrxxx_RUBridge?Spec_RUBridge?g
+s?Terrxxx_SCBridge?Spec_SCBridge?g
+s?*scpath/?*scpath/Special/?g
+s?*rupath/?*rupath/Special/?g
+# end sedbldstreets.txt

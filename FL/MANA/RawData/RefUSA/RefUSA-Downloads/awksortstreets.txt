@@ -1,0 +1,14 @@
+BEGIN{cnt=0}
+END{nsrted=asort(stnames,srtdnames);for(i=0;i<=nsrted;i++)print srtdnames[i]}
+{if(cnt == 0)stnames[cnt]=$0;;
+ fnd=0
+ for(i=0;i<=cnt;i++){
+  if(stnames[i] == $1)
+   fnd=1
+   
+  }
+ if(fnd==0){
+  stnames[cnt]=$0
+  cnt++
+  }
+}

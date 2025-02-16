@@ -1,0 +1,3 @@
+# awklistterrdbs.tmp - template to list dbs used by territory.
+#	12/12/22.	wmk.
+{if(substr($1,5,3) == "602" && $2 == "||")print $3;;}

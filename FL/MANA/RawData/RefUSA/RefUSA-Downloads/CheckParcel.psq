@@ -1,0 +1,50 @@
+-- * CheckParcel.psq/sql - Check Terr86777 for parcel ID present.
+. \nCheckParcel.psq-out-of-date-exiting\n
+.exit 1     -- CheckParcel.psq out of-date
+. \nCheckParcel.psq-out-of-date-exiting\n
+.exit 1     -- CheckParcel.psq out of-date
+. \nCheckParcel.psq-out-of-date-exiting\n
+.exit 1     -- CheckParcel.psq out of-date
+. \nCheckParcel.psq-out-of-date-exiting\n
+.exit 1     -- CheckParcel.psq out of-date
+. \nCheckParcel.psq-out-of-date-exiting\n
+.exit 1     -- CheckParcel.psq out of-date
+. \nCheckParcel.psq-out-of-date-exiting\n
+.exit 1     -- CheckParcel.psq out of-date
+. \nCheckParcel.psq-out-of-date-exiting\n
+.exit 1     -- CheckParcel.psq out of-date
+. \nCheckParcel.psq-out-of-date-exiting\n
+.exit 1     -- CheckParcel.psq out of-date
+. \nCheckParcel.psq-out-of-date-exiting\n
+.exit 1     -- CheckParcel.psq out of-date
+. \nCheckParcel.psq-out-of-date-exiting\n
+.exit 1     -- CheckParcel.psq out of-date
+. \nCheckParcel.psq-out-of-date-exiting\n
+.exit 1     -- CheckParcel.psq out of-date
+-- 2023-09-11   wmk.   (automated) ver2.0 SQL fixes.
+-- *	4/12/23.	wmk.
+-- *
+-- * Modification History.
+-- * ---------------------
+-- * 4/12/23.	wmk.	original code.
+-- *
+-- * Notes. < parcel > and < tid > are substituted by *sed.
+-- *;
+
+.open '$pathbase/$rupath/Terr<tid>/Terr<tid>_RU.db' 
+drop table if exists counter;
+create temp table counter(nrecs integer,propid TEXT);
+insert into counter(nrecs,propid)
+VALUES(0,'<parcel>');
+UPDATE counter
+SET nrecs =
+CASE WHEN (SELECT COUNT() OwningParcel FROM Terr<tid>_RUBridge
+ where OwningParcel is '<parcel>') > 0
+ THEN 1
+ELSE nrecs
+END
+WHERE propid IS '<parcel>';
+.separator " "
+select 'Terr<tid>_RU.db', propid, case when nrecs > 0 then 'exists' else 'does not exist' end
+from counter where propid is '<parcel>';
+.quit
