@@ -1,0 +1,29 @@
+# gitignore - ignore list for TerrDataxxx repositories.
+#	2/15/25.	wmk.
+# Note. .csv files are now included to support tracking of segdefs.csv files.
+#  .csv exceptions are listed below.
+*.db
+*.db.*
+*.dbx
+Data*.csv
+SCPA*.csv
+SCPA*.xlsx
+*.csv.*
+.fuse*
+*.imp
+SQLT*
+junk.txt
+CSV_TEMP
+*.zip
+*.tar
+*.gz
+*.ods
+*.pdf
+*.xls
+*.xlsx
+*.zip
+*.pdf
+*.png 
+/Preview
+*/code
+*/Old

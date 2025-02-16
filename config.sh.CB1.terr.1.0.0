@@ -1,0 +1,26 @@
+# config.sh.CB1.terr.1.0.0 - initial Terr99888 configuration file.
+#   2/15/25.   wmk.
+export RU_BUILD=1.0.0
+export SC_BUILD=1.0.0
+export DB_BUILD=1.0.0
+export CB_BUILD=1.0.1
+export PT_BUILD=1.0.0
+export congno=99888
+export APPCONFIG_PATH=/home/vncwmk3/.config/Terr99888
+export TERR_VERSION=1.0.5
+export state=FL
+export county=MANA
+export thisyr=2025
+export dwnldmm=02
+export dwnlddd=14
+export pathbase=/home/vncwmk3/TerrData99888/FL/MANA
+export congterr=99888FLMANA
+export conglib=FLmana99888
+export pathbase=/home/vncwmk3/TerrData99888/FL/MANA
+export verpath=/home/vncwmk3/TerrData99888/TerrVer18852P3
+export codebase=/home/vncwmk3/GitHub/TerrCode99888/FLmana99888cb
+export relbase=/home/vncwmk3/TerrData99888/FL/MANA/ReleaseData
+export libbase=/home/vncwmk3/GitHub/TerrCode99888/FLmana99888lib
+export libbase2=/home/vncwmk3/GitHub/TerrCode99888/Territorieslib
+export rupath=RawData/RefUSA/RefUSA-Downloads
+export scpath=RawData/SCPA/SCPA-Downloads
