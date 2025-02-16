@@ -1,0 +1,21 @@
+-- * CheckParcel.psq/sql - Check Terr$congno for parcel ID present.
+. \nCheckParcel.psq-out-of-date-exiting\n
+.exit 1     -- CheckParcel.psq out of-date
+-- *	2/16/25.	wmk.
+-- *
+-- * Modification History.
+-- * ---------------------
+-- * 2/16/25.	wmk.	original code.
+-- *;
+
+.open '$pathbase/DB-Dev/Terr$congno.db' 
+drop table if exists counter;
+create temp table counter(nrecs integer,propid TEXT);
+insert into counter(nrecs,propid)
+select count() "account #", "<parcel>"
+from Terr$congno
+where "account #" is '<parcel>';
+.separator " "
+select propid, case when nrecs > 0 then 'exists' else 'does not exist' end
+from counter;
+.quit
