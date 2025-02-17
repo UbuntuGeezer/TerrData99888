@@ -1,0 +1,10 @@
+# gawksort.txt 2/23/23. wmk.
+BEGIN{ix = 0}
+
+{
+ terr_start = index($1,"QTerr")
+ tlist[ix] = substr($1,terr_start+5,3)
+ }
+ END{ n = asort(tlist)
+ for ( i = 1; i <= n; i++){
+  print tlist[i] }

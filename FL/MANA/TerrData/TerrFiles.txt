@@ -1,0 +1,3834 @@
+.:
+total 78M
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 AllFiles.txt
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2020-10-19 12:04 BayIndies
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2020-10-19 09:20 BizTerr
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2020-10-19 09:23 Condos
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2020-11-09 11:58 DoNotCalls
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-06-25 17:00 FullList.txt
+-rwxrwxrwx 1 ubuntu ubuntu 6.8M 2021-07-01 20:24 GTerr101-199.tar.gz
+-rwxrwxrwx 1 ubuntu ubuntu  11M 2021-07-01 20:27 GTerr201-299.tar.gz
+-rwxrwxrwx 1 ubuntu ubuntu 3.0M 2021-07-01 20:28 GTerr301-399.tar.gz
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2020-10-19 09:20 MHPs
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-10-23 08:49 PubTerrList.ods
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-10-23 08:29 PubTerrList.txt
+-rwxrwxrwx 1 ubuntu ubuntu    0 2021-07-16 20:40 QTerr227.csv
+-rwxrwxrwx 1 ubuntu ubuntu    0 2021-07-16 20:40 QTerr227.db
+-rwxrwxrwx 1 ubuntu ubuntu   25 2021-07-16 20:40 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  209 2021-06-25 17:00 Search.txt
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 SearchFiles.txt
+-rwxrwxrwx 1 ubuntu ubuntu  352 2021-06-25 17:00 SuperList.txt
+-rwxrwxrwx 1 ubuntu ubuntu  36M 2021-06-28 21:05 TDAllTerr.tar.gz
+-rwxrwxrwx 1 ubuntu ubuntu  22M 2021-06-28 21:32 TDPubTerrs.tar.gz
+-rwxrwxrwx 1 ubuntu ubuntu 6.8K 2021-06-25 17:00 TerDataFiles.txt
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-19 16:50 Terr101
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-18 06:21 Terr102
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-14 20:57 Terr103
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-17 23:27 Terr104
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 16:18 Terr105
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:02 Terr106
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-22 19:42 Terr107
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-19 20:47 Terr108
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 04:46 Terr109
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-22 19:42 Terr110
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-28 09:18 Terr111
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 04:47 Terr112
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-24 15:36 Terr113
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 10:22 Terr114
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-01 16:00 Terr115
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 10:48 Terr116
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-17 23:31 Terr117
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 13:34 Terr118
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-17 23:31 Terr119
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-17 18:04 Terr120
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 04:49 Terr121
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 15:53 Terr122
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-10 20:05 Terr123
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-20 15:33 Terr124
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 16:29 Terr125
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-14 20:59 Terr126
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 17:39 Terr127
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-17 21:40 Terr128
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 04:51 Terr129
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-03-19 21:46 Terr130
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-22 07:09 Terr131
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-22 07:47 Terr132
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:16 Terr135
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:16 Terr136
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 21:56 Terr137
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-22 10:01 Terr138
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-22 11:44 Terr139
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-02 20:29 Terr140
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-23 07:03 Terr141
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-31 07:55 Terr201
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-08 17:45 Terr202
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 04:44 Terr203
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-03 23:55 Terr204
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 04:42 Terr205
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:17 Terr206
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 04:40 Terr207
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-14 21:00 Terr208
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 04:53 Terr209
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:18 Terr210
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:19 Terr211
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 22:09 Terr212
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:20 Terr213
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:20 Terr214
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:20 Terr215
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-30 10:59 Terr216
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-30 11:00 Terr217
+-rwxrwxrwx 1 ubuntu ubuntu  234 2021-08-27 02:33 Terr217Hdr.csv
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-30 19:23 Terr218
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 22:30 Terr219
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-08 23:00 Terr220
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 04:38 Terr221
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-09 09:22 Terr222
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-24 11:43 Terr223
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 04:56 Terr224
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 04:58 Terr225
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-24 12:13 Terr226
+drwxrwxrwx 1 ubuntu ubuntu    0 2020-11-08 06:42 Terr227
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 05:00 Terr228
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:25 Terr229
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 05:02 Terr230
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-11 12:58 Terr232
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-06 19:21 Terr233
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-06 19:19 Terr234
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-31 22:04 Terr235
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 20:59 Terr236
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-31 17:00 Terr237
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-12 07:59 Terr238
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 18:39 Terr239
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-12 14:02 Terr240
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 19:28 Terr241
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-12 15:10 Terr242
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 20:21 Terr243
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 12:18 Terr244
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-09 11:21 Terr245
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-09 23:40 Terr246
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-09 18:44 Terr247
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-10 20:47 Terr248
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 16:41 Terr249
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 17:57 Terr250
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 17:52 Terr251
+drwxrwxrwx 1 ubuntu ubuntu    0 2020-11-09 05:10 Terr252
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:27 Terr254
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:27 Terr255
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:28 Terr256
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:28 Terr257
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 05:05 Terr258
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:29 Terr259
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-23 07:45 Terr260
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 08:42 Terr261
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 08:49 Terr262
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 10:40 Terr263
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 10:44 Terr264
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 14:03 Terr265
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-02 21:43 Terr266
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-02 21:43 Terr267
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-10 13:05 Terr268
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-14 21:02 Terr269
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-11 15:23 Terr270
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-22 19:14 Terr271
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-04 10:44 Terr272
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 05:08 Terr273
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-06 14:18 Terr274
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-14 21:02 Terr275
+drwxrwxrwx 1 ubuntu ubuntu    0 2020-11-09 05:11 Terr276
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-16 13:32 Terr277
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-16 13:50 Terr278
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-01 22:58 Terr279
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-02 12:14 Terr280
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-02 19:19 Terr281
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-16 14:59 Terr282
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-18 13:32 Terr283
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-07 23:05 Terr284
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 05:10 Terr285
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 05:13 Terr286
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:31 Terr287
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 05:16 Terr288
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-07 11:55 Terr289
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-09 12:59 Terr290
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-07 11:37 Terr291
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 05:18 Terr301
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-16 20:14 Terr302
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-14 11:16 Terr303
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-05 09:43 Terr304
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 16:49 Terr305
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 17:21 Terr306
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 17:40 Terr307
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-12 10:50 Terr308
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-11 13:22 Terr309
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-14 15:36 Terr310
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-18 23:44 Terr311
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-13 10:26 Terr312
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-22 13:04 Terr313
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 16:36 Terr314
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-15 19:00 Terr315
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-05-08 11:57 Terr316
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 11:08 Terr317
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 11:12 Terr318
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 17:06 Terr319
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-23 13:19 Terr320
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 12:10 Terr321
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-26 20:56 Terr502
+drwxrwxrwx 1 ubuntu ubuntu    0 2021-02-17 14:52 Terr503
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-28 06:55 Terr504
+drwxrwxrwx 1 ubuntu ubuntu    0 2021-09-27 13:43 Terr505
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 05:56 Terr603
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 12:09 Terr604
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 12:11 Terr605
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 12:13 Terr606
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 12:17 Terr607
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 11:44 Terr609
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-13 10:19 Terr611
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 11:23 Terr612
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 11:20 Terr614
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 11:18 Terr615
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 11:16 Terr616
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-11 18:36 Terr626
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-14 18:40 Terr632
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-14 18:38 Terr642
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-14 18:34 Terr647
+drwxrwxrwx 1 ubuntu ubuntu    0 2021-08-29 13:47 Terr9000
+drwxrwxrwx 1 ubuntu ubuntu    0 2020-12-19 09:08 Terr997
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-02-21 00:24 Terr998
+drwxrwxrwx 1 ubuntu ubuntu    0 2020-11-17 07:16 Terr999
+drwxrwxrwx 1 ubuntu ubuntu    0 2021-07-09 04:19 Terr9997
+-rwxrwxrwx 1 ubuntu ubuntu    0 2021-10-23 10:10 TerrFiles.txt
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 TerrGenerationTable_Old.ods
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-04 21:30 TerrHdr
+-rwxrwxrwx 1 ubuntu ubuntu 2.2K 2021-06-25 17:00 TerrKeys.cfg
+-rwxrwxrwx 1 ubuntu ubuntu    0 2021-06-25 17:00 Terrfiles.txt
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 11:48 Terrtle
+drwxrwxrwx 1 ubuntu ubuntu    0 2021-08-27 02:33 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  108 2021-10-14 17:41 junk.txt
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-06-28 21:30 pubterrlist.txt
+-rwxrwxrwx 1 ubuntu ubuntu 5.6K 2021-07-01 20:14 targoogle101.txt
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-07-01 20:16 targoogle201.txt
+-rwxrwxrwx 1 ubuntu ubuntu 3.0K 2021-07-01 20:19 targoogle301.txt
+-rwxrwxrwx 1 ubuntu ubuntu    0 2021-07-01 22:49 targoogle4xx.txt
+-rwxrwxrwx 1 ubuntu ubuntu 1.5K 2021-06-28 21:04 tarlist_1.txt
+-rwxrwxrwx 1 ubuntu ubuntu 2.4K 2021-06-28 21:25 tarlist_2.txt
+-rwxrwxrwx 1 ubuntu ubuntu 3.0K 2021-07-01 20:28 taroutput.txt
+-rwxrwxrwx 1 ubuntu ubuntu   14 2021-06-28 21:14 testfile.txt
+
+./BayIndies:
+total 1.8M
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 BIAndros.ods
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-06-25 17:00 BIAndros.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-06-25 17:00 Bay-Indes-SQLCSV-A_L.ods
+-rwxrwxrwx 1 ubuntu ubuntu  93K 2021-06-25 17:00 Bay-Indes.xls
+-rwxrwxrwx 1 ubuntu ubuntu  71K 2021-06-25 17:00 Bay-Indies-A_L.ods
+-rwxrwxrwx 1 ubuntu ubuntu 663K 2021-06-25 17:00 Bay-Indies-A_L.xls
+-rwxrwxrwx 1 ubuntu ubuntu  87K 2021-06-25 17:00 Bay-Indies-M_Z.ods
+-rwxrwxrwx 1 ubuntu ubuntu 744K 2021-06-25 17:00 Bay-Indies-M_Z.xls
+-rwxrwxrwx 1 ubuntu ubuntu  389 2021-06-25 17:00 BayIndiesTest.csv
+-rwxrwxrwx 1 ubuntu ubuntu 3.7K 2021-06-25 17:00 RefUSAandros.csv
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 RefUSAandros.ods
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-06-25 17:00 RefUSAandrosFull.ods
+
+./BizTerr:
+total 780K
+-rwxrwxrwx 1 ubuntu ubuntu 3.8K 2021-06-25 17:00 275Biz.txt
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-06-25 17:00 275Biz.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-06-25 17:00 285Biz.txt
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-06-25 17:00 285Biz.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-06-25 17:00 292Biz.txt
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-06-25 17:00 292Biz.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu 592K 2021-06-25 17:00 NVeniceBIZ.ods
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-06-25 17:00 NVeniceBIZ_2.ods
+-rwxrwxrwx 1 ubuntu ubuntu 6.6K 2021-06-25 17:00 NVeniceBIZ_2.xlsx
+
+./Condos:
+total 516K
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-06-25 17:00 0Eslplanade.ods
+-rwxrwxrwx 1 ubuntu ubuntu 1.7K 2021-06-25 17:00 125-Airport-Ave-Venice.csv
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-06-25 17:00 125-Airport-Ave-Venice.ods
+-rwxrwxrwx 1 ubuntu ubuntu 8.3K 2021-06-25 17:00 125-Airport-Ave-Venice.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-06-25 17:00 500EsplanadeNR.ods
+-rwxrwxrwx 1 ubuntu ubuntu 1019 2021-06-25 17:00 620-Guild-Dr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-06-25 17:00 620-Guild-Dr.ods
+-rwxrwxrwx 1 ubuntu ubuntu 9.1K 2021-06-25 17:00 620-Guild-Dr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 CIAdams-Giordano.ods
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-06-25 17:00 CIGiovanetti-Martorana.ods
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 CIMartos-Tanner.ods
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 CITatarko-Zeh.ods
+-rwxrwxrwx 1 ubuntu ubuntu  73K 2021-06-25 17:00 Capri-Isles-Blvd.ods
+-rwxrwxrwx 1 ubuntu ubuntu  98K 2021-06-25 17:00 Capri-Isles-Blvd.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-06-25 17:00 Capri-Isles-Golf_Terrace.ods
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-06-25 17:00 Capri-Isles-Golf_Terrace.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu 1.6K 2021-06-25 17:00 CapriIsles-Multi.csv
+-rwxrwxrwx 1 ubuntu ubuntu  63K 2021-06-25 17:00 CapriIslesRU.ods
+
+./DoNotCalls:
+total 29K
+-rwxrwxrwx 1 ubuntu ubuntu 27K 2021-06-25 17:00 DoNotCallList.ods
+-rwxrwxrwx 1 ubuntu ubuntu 117 2021-06-25 17:00 Terr101DNC.csv
+
+./MHPs:
+total 148K
+-rwxrwxrwx 1 ubuntu ubuntu 38K 2021-06-25 17:00 Bay Lake Estates-Nokomis.ods
+-rwxrwxrwx 1 ubuntu ubuntu 23K 2021-06-25 17:00 Bay Lake Estates-Nokomis.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu 26K 2021-06-25 17:00 VeniceRanch.ods
+-rwxrwxrwx 1 ubuntu ubuntu 15K 2021-06-25 17:00 VeniceRanch.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu 12K 2021-06-25 17:00 VeniceRanchRU.csv
+-rwxrwxrwx 1 ubuntu ubuntu 26K 2021-06-25 17:00 VeniceRanchRU.ods
+
+./Terr101:
+total 202K
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-09-19 16:50 Terr101_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-09-19 16:50 Terr101_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-09-19 16:50 Terr101_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-09-19 16:29 Terr101_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-09-19 16:29 Terr101_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-27 23:23 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-09-22 10:26 junk.txt
+-rwxrwxrwx 1 ubuntu ubuntu   15 2021-06-29 07:51 testfile.txt
+-rwxrwxrwx 1 ubuntu ubuntu   13 2021-06-29 08:02 testfile2.txt
+-rwxrwxrwx 1 ubuntu ubuntu   20 2021-06-29 12:34 testfile3.txt
+
+./Terr101/Working-Files:
+total 289K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-19 16:48 QTerr101.csv
+-rwxrwxrwx 1 ubuntu ubuntu 116K 2021-09-19 16:48 QTerr101.db
+-rwxrwxrwx 1 ubuntu ubuntu  73K 2021-09-19 16:50 QTerr101.ods
+-rwxrwxrwx 1 ubuntu ubuntu  53K 2021-06-25 17:00 QTerr101_Devel.ods
+-rwxrwxrwx 1 ubuntu ubuntu  180 2021-06-25 17:00 Terr101Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.5K 2021-06-25 17:00 Terr101Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  152 2021-09-27 23:23 junk.txt
+
+./Terr102:
+total 361K
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-09-18 06:19 Terr102_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  95K 2021-09-18 06:21 Terr102_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-09-18 06:21 Terr102_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  70K 2021-09-18 06:19 Terr102_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  94K 2021-09-18 06:21 Terr102_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-18 06:19 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-07-14 20:52 junk.txt
+-rwxrwxrwx 1 ubuntu ubuntu   15 2021-06-29 12:14 testfile.txt
+
+./Terr102/Working-Files:
+total 518K
+-rwxrwxrwx 1 ubuntu ubuntu  69K 2021-09-18 06:17 QTerr102.csv
+-rwxrwxrwx 1 ubuntu ubuntu 280K 2021-09-18 06:17 QTerr102.db
+-rwxrwxrwx 1 ubuntu ubuntu 149K 2021-09-18 06:19 QTerr102.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-18 06:17 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  234 2021-06-25 17:00 Terr102Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr102Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr103:
+total 188K
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-07-14 20:57 Terr103_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-07-14 20:57 Terr103_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-07-14 20:57 Terr103_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-07-14 20:57 Terr103_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-07-14 20:57 Terr103_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-14 20:57 Working-Files
+
+./Terr103/Working-Files:
+total 354K
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-07-04 07:58 QTerr103.csv
+-rwxrwxrwx 1 ubuntu ubuntu 128K 2021-07-04 07:52 QTerr103.db
+-rwxrwxrwx 1 ubuntu ubuntu  66K 2021-07-14 20:57 QTerr103.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-07-04 07:52 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-06-25 17:00 Terr103.csv
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 Terr103.ods
+-rwxrwxrwx 1 ubuntu ubuntu  209 2021-06-25 17:00 Terr103Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr103Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-06-25 17:00 Terr103_Bridge.csv
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-06-25 17:00 Terr103_Bridge.ods
+-rwxrwxrwx 1 ubuntu ubuntu  117 2021-06-25 17:00 Terr103_Def.csv
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-06-25 17:00 Terr103_IBridge.csv
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr104:
+total 189K
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-09-17 23:24 Terr104_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  55K 2021-09-17 23:27 Terr104_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-09-17 23:27 Terr104_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-09-17 23:24 Terr104_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-09-17 23:27 Terr104_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-17 23:24 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-06-25 17:00 junk.txt
+
+./Terr104/Working-Files:
+total 210K
+drwxrwxrwx 1 ubuntu ubuntu    0 2020-12-08 06:39 Old
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-17 23:17 QTerr104.csv
+-rwxrwxrwx 1 ubuntu ubuntu 104K 2021-09-17 23:17 QTerr104.db
+-rwxrwxrwx 1 ubuntu ubuntu  67K 2021-09-17 23:24 QTerr104.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-17 23:17 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  233 2021-06-25 17:00 Terr104Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr104Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr104/Working-Files/Old:
+total 45K
+-rwxrwxrwx 1 ubuntu ubuntu 5.6K 2021-06-25 17:00 Terr104.csv
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-06-25 17:00 Terr104.ods
+-rwxrwxrwx 1 ubuntu ubuntu  141 2021-06-25 17:00 Terr104_Def.csv
+-rwxrwxrwx 1 ubuntu ubuntu 6.3K 2021-06-25 17:00 Terr104_IBridge.csv
+
+./Terr105:
+total 188K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-09-11 16:10 Terr105_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  53K 2021-09-11 16:12 Terr105_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-09-11 16:11 Terr105_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-09-11 16:10 Terr105_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-09-11 16:11 Terr105_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 16:10 Working-Files
+
+./Terr105/Working-Files:
+total 206K
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-09-11 16:09 QTerr105.csv
+-rwxrwxrwx 1 ubuntu ubuntu  92K 2021-09-11 16:09 QTerr105.db
+-rwxrwxrwx 1 ubuntu ubuntu  66K 2021-09-11 16:10 QTerr105.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-11 16:09 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu 7.4K 2021-06-25 17:00 Terr105.csv
+-rwxrwxrwx 1 ubuntu ubuntu  219 2021-06-25 17:00 Terr105Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  10K 2021-06-25 17:00 Terr105Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr106:
+total 224K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-07-16 21:02 Terr106_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  54K 2021-07-16 21:02 Terr106_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-07-16 21:02 Terr106_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-07-16 21:02 Terr106_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  53K 2021-07-16 21:02 Terr106_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:02 Working-Files
+
+./Terr106/Working-Files:
+total 298K
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-07-16 20:39 QTerr106.csv
+-rwxrwxrwx 1 ubuntu ubuntu 140K 2021-07-16 20:39 QTerr106.db
+-rwxrwxrwx 1 ubuntu ubuntu  89K 2021-07-16 21:02 QTerr106.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:39 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-06-25 17:00 Terr106.csv
+-rwxrwxrwx 1 ubuntu ubuntu  234 2021-06-25 17:00 Terr106Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr106Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr107:
+total 396K
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-06-25 17:00 Terr107_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu 101K 2021-06-25 17:00 Terr107_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  55K 2021-06-25 17:00 Terr107_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  75K 2021-06-25 17:00 Terr107_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu 111K 2021-06-25 17:00 Terr107_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:47 Working-Files
+
+./Terr107/Working-Files:
+total 798K
+-rwxrwxrwx 1 ubuntu ubuntu  91K 2021-07-17 23:47 QTerr107.csv
+-rwxrwxrwx 1 ubuntu ubuntu 332K 2021-07-17 23:47 QTerr107.db
+-rwxrwxrwx 1 ubuntu ubuntu 171K 2021-06-25 17:00 QTerr107.ods
+-rwxrwxrwx 1 ubuntu ubuntu  67K 2021-06-25 17:00 QTerr107_Old.ods
+-rwxrwxrwx 1 ubuntu ubuntu  80K 2021-06-25 17:00 QTerr107_earlier.csv
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:47 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  218 2021-06-25 17:00 Terr107Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-06-25 17:00 Terr107Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-06-25 17:00 Terr107_1.csv
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-06-25 17:00 Terr107_2.csv
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr108:
+total 217K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-06-25 17:00 Terr108_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  55K 2021-06-25 17:00 Terr108_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 Terr108_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-06-25 17:00 Terr108_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-06-25 17:00 Terr108_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:47 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr108/Working-Files:
+total 258K
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-07-17 23:47 QTerr108.csv
+-rwxrwxrwx 1 ubuntu ubuntu 128K 2021-07-17 23:47 QTerr108.db
+-rwxrwxrwx 1 ubuntu ubuntu  80K 2021-06-25 17:00 QTerr108.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:47 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  231 2021-06-25 17:00 Terr108Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr108Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr109:
+total 225K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-10-01 19:19 Terr109_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  64K 2021-10-02 04:45 Terr109_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-10-02 04:45 Terr109_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-10-01 19:19 Terr109_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-10-02 04:45 Terr109_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:19 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr109/Working-Files:
+total 270K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-10-01 19:08 QTerr109.csv
+-rwxrwxrwx 1 ubuntu ubuntu 140K 2021-10-01 19:08 QTerr109.db
+-rwxrwxrwx 1 ubuntu ubuntu  84K 2021-10-01 19:19 QTerr109.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:08 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  220 2021-06-25 17:00 Terr109Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr109Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr110:
+total 281K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-06-25 17:00 Terr110_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-06-25 17:00 Terr110_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-06-25 17:00 Terr110_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-06-25 17:00 Terr110_PubTerr_Old.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-06-25 17:00 Terr110_PubTerr_Old.xls
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 Terr110_PubTerr_new.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-06-25 17:00 Terr110_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-06-25 17:00 Terr110_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:47 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   62 2021-06-25 17:00 junk.txt
+
+./Terr110/Working-Files:
+total 258K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-07-17 23:47 QTerr110.csv
+-rwxrwxrwx 1 ubuntu ubuntu 104K 2021-07-17 23:47 QTerr110.db
+-rwxrwxrwx 1 ubuntu ubuntu  71K 2021-06-25 17:00 QTerr110.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:47 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu 9.2K 2021-06-25 17:00 Terr110.csv
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-06-25 17:00 Terr110.ods
+-rwxrwxrwx 1 ubuntu ubuntu  241 2021-06-25 17:00 Terr110Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr110Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr111:
+total 197K
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-08-28 09:18 Terr111_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-08-28 09:17 Terr111_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-08-28 09:17 Terr111_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-08-28 09:17 Terr111_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-08-28 09:17 Terr111_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-28 09:17 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-08-28 10:27 junk.txt
+
+./Terr111/Working-Files:
+total 234K
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-08-28 07:38 QTerr111.csv
+-rwxrwxrwx 1 ubuntu ubuntu 116K 2021-08-28 07:38 QTerr111.db
+-rwxrwxrwx 1 ubuntu ubuntu  76K 2021-08-28 09:17 QTerr111.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-08-28 07:38 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  218 2021-06-25 17:00 Terr111Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr111Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr112:
+total 172K
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-10-01 19:20 Terr112_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-10-02 04:47 Terr112_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-10-02 04:47 Terr112_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-10-01 19:20 Terr112_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-10-02 04:46 Terr112_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:20 Working-Files
+
+./Terr112/Working-Files:
+total 166K
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-10-01 19:08 QTerr112.csv
+-rwxrwxrwx 1 ubuntu ubuntu  80K 2021-10-01 19:08 QTerr112.db
+-rwxrwxrwx 1 ubuntu ubuntu  55K 2021-10-01 19:20 QTerr112.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:08 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  219 2021-06-25 17:00 Terr112Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr112Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr113:
+total 268K
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-06-25 17:00 Terr113SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-06-25 17:00 Terr113SuperTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-09-24 15:31 Terr113_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  53K 2021-09-24 15:36 Terr113_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-09-24 15:36 Terr113_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-09-24 15:31 Terr113_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-09-24 15:36 Terr113_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-24 15:31 Working-Files
+
+./Terr113/Working-Files:
+total 198K
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-09-24 15:29 QTerr113.csv
+-rwxrwxrwx 1 ubuntu ubuntu 100K 2021-09-24 15:29 QTerr113.db
+-rwxrwxrwx 1 ubuntu ubuntu  63K 2021-09-24 15:31 QTerr113.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-24 15:29 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-06-25 17:00 Terr113Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr113Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr114:
+total 229K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-09-22 10:20 Terr114_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  63K 2021-09-22 10:22 Terr114_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-22 10:22 Terr114_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-09-22 10:20 Terr114_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  51K 2021-09-22 10:21 Terr114_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 10:20 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr114/Working-Files:
+total 258K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-07-17 23:47 QTerr114.csv
+-rwxrwxrwx 1 ubuntu ubuntu 128K 2021-07-17 23:47 QTerr114.db
+-rwxrwxrwx 1 ubuntu ubuntu  84K 2021-09-22 10:20 QTerr114.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:47 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  220 2021-06-25 17:00 Terr114Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr114Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr115:
+total 213K
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 Terr115_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-06-25 17:00 Terr115_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-06-25 17:00 Terr115_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-06-25 17:00 Terr115_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-06-25 17:00 Terr115_SuperTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 Terr115__PubTerr_Old.ods
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:47 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   62 2021-06-25 17:00 junk.txt
+
+./Terr115/Working-Files:
+total 214K
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2020-12-07 17:46 Old
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-07-17 23:47 QTerr115.csv
+-rwxrwxrwx 1 ubuntu ubuntu  96K 2021-07-17 23:47 QTerr115.db
+-rwxrwxrwx 1 ubuntu ubuntu  64K 2021-06-25 17:00 QTerr115.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:47 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  10K 2021-06-25 17:00 Terr115Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  204 2021-06-25 17:00 Terr115_Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  10K 2021-06-25 17:00 Terr115_Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr115/Working-Files/Old:
+total 168K
+-rwxrwxrwx 1 ubuntu ubuntu 8.2K 2021-06-25 17:00 Terr115.csv
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-06-25 17:00 Terr115.ods
+-rwxrwxrwx 1 ubuntu ubuntu 3.7K 2021-06-25 17:00 Terr115.txt
+-rwxrwxrwx 1 ubuntu ubuntu 6.9K 2021-06-25 17:00 Terr115Bridge.csv
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-06-25 17:00 Terr115Bridge.ods
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-06-25 17:00 Terr115Q.ods
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-06-25 17:00 Terr115_Edit.ods
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 Terr115__PubTerr.ods
+
+./Terr116:
+total 373K
+-rwxrwxrwx 1 ubuntu ubuntu  342 2021-06-25 17:00 Terr116DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-09-22 10:46 Terr116_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu 100K 2021-09-22 10:48 Terr116_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-09-22 10:48 Terr116_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  72K 2021-09-22 10:47 Terr116_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  98K 2021-09-22 10:48 Terr116_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 10:47 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr116/Working-Files:
+total 530K
+-rwxrwxrwx 1 ubuntu ubuntu  75K 2021-09-22 10:44 QTerr116.csv
+-rwxrwxrwx 1 ubuntu ubuntu 280K 2021-09-22 10:44 QTerr116.db
+-rwxrwxrwx 1 ubuntu ubuntu 158K 2021-09-22 10:47 QTerr116.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-22 10:44 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  229 2021-06-25 17:00 Terr116Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr116Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr117:
+total 225K
+-rwxrwxrwx 1 ubuntu ubuntu  331 2021-06-25 17:00 Terr117DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-09-17 23:22 Terr117_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  63K 2021-09-17 23:31 Terr117_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-17 23:31 Terr117_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-09-17 23:22 Terr117_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-09-17 23:30 Terr117_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-17 23:22 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr117/Working-Files:
+total 254K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-09-17 23:17 QTerr117.csv
+-rwxrwxrwx 1 ubuntu ubuntu 128K 2021-09-17 23:17 QTerr117.db
+-rwxrwxrwx 1 ubuntu ubuntu  79K 2021-09-17 23:22 QTerr117.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-17 23:17 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  227 2021-06-25 17:00 Terr117Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr117Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr118:
+total 221K
+-rwxrwxrwx 1 ubuntu ubuntu  298 2021-06-25 17:00 Terr118DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-09-22 13:29 Terr118_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  61K 2021-09-22 13:31 Terr118_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-22 13:31 Terr118_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-09-22 13:29 Terr118_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-09-22 13:30 Terr118_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 13:29 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr118/Working-Files:
+total 238K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-09-22 13:28 QTerr118.csv
+-rwxrwxrwx 1 ubuntu ubuntu 116K 2021-09-22 13:28 QTerr118.db
+-rwxrwxrwx 1 ubuntu ubuntu  76K 2021-09-22 13:29 QTerr118.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-22 13:28 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  241 2021-06-25 17:00 Terr118Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr118Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr119:
+total 213K
+-rwxrwxrwx 1 ubuntu ubuntu  214 2021-06-25 17:00 Terr119DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-09-17 23:23 Terr119_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  60K 2021-09-17 23:29 Terr119_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-17 23:29 Terr119_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-09-17 23:23 Terr119_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-09-17 23:28 Terr119_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-17 23:23 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-07-17 09:50 junk.txt
+
+./Terr119/Working-Files:
+total 222K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-17 23:17 QTerr119.csv
+-rwxrwxrwx 1 ubuntu ubuntu 104K 2021-09-17 23:17 QTerr119.db
+-rwxrwxrwx 1 ubuntu ubuntu  74K 2021-09-17 23:23 QTerr119.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-17 23:17 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  178 2021-06-25 17:00 Terr119Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr119Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr120:
+total 209K
+-rwxrwxrwx 1 ubuntu ubuntu  108 2021-06-25 17:00 Terr120DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-06-25 17:00 Terr120_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  51K 2021-06-25 17:00 Terr120_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 Terr120_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-06-25 17:00 Terr120_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-06-25 17:00 Terr120_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 8.0K 2021-07-17 23:47 Working-Files
+
+./Terr120/Working-Files:
+total 434K
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2020-10-31 12:09 OldFiles
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-07-17 23:47 QTerr120.csv
+-rwxrwxrwx 1 ubuntu ubuntu 116K 2021-07-17 23:47 QTerr120.db
+-rwxrwxrwx 1 ubuntu ubuntu  74K 2021-06-25 17:00 QTerr120.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:47 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  235 2021-06-25 17:00 Terr120Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-06-25 17:00 Terr120Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 Terr120New.ods
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 Terr120_Map.ods
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-06-25 17:00 Terr120_RUBridge.csv
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 Terr120_SCBridge.db
+-rwxrwxrwx 1 ubuntu ubuntu  92K 2021-06-25 17:00 Terr_120.db
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr120/Working-Files/OldFiles:
+total 346K
+-rwxrwxrwx 1 ubuntu ubuntu 9.5K 2021-06-25 17:00 708Tamiami_Bridge.csv
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 708Tamiami_Bridge.ods
+-rwxrwxrwx 1 ubuntu ubuntu 1.2K 2021-06-25 17:00 828Rialto
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-06-25 17:00 828Rialto.ods
+-rwxrwxrwx 1 ubuntu ubuntu  275 2021-06-25 17:00 828Rialto_Bridge.csv
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-06-25 17:00 828Rialto_Bridge.ods
+-rwxrwxrwx 1 ubuntu ubuntu 9.0K 2021-06-25 17:00 Not708.csv
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 Not708.ods
+-rwxrwxrwx 1 ubuntu ubuntu   16 2021-06-25 17:00 Terr120.csv
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-06-25 17:00 Terr120.ods
+-rwxrwxrwx 1 ubuntu ubuntu 9.5K 2021-06-25 17:00 Terr120Bridge.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr120Holiday.csv
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-06-25 17:00 Terr120Holiday_H
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-06-25 17:00 Terr120Holiday_N.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr120New.csv
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-06-25 17:00 Terr120PubTerr_H.ods
+-rwxrwxrwx 1 ubuntu ubuntu 7.6K 2021-06-25 17:00 Terr120VMHP.csv
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 Terr120VMHP.ods
+-rwxrwxrwx 1 ubuntu ubuntu  177 2021-06-25 17:00 Terr120VMHPHdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 7.8K 2021-06-25 17:00 Terr120VenMuniMHP
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-06-25 17:00 Terr120_H.csv
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-06-25 17:00 Terr120_H.ods
+-rwxrwxrwx 1 ubuntu ubuntu 2.9K 2021-06-25 17:00 Terr120_N
+-rwxrwxrwx 1 ubuntu ubuntu 6.5K 2021-06-25 17:00 VeniceMuniMHP.csv
+
+./Terr121:
+total 230K
+-rwxrwxrwx 1 ubuntu ubuntu  569 2021-06-25 17:00 Terr121DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-10-01 19:20 Terr121_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  62K 2021-10-02 04:49 Terr121_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-10-02 04:49 Terr121_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-01 19:21 Terr121_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  50K 2021-10-02 04:48 Terr121_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:21 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr121/Working-Files:
+total 270K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-10-01 19:08 QTerr121.csv
+-rwxrwxrwx 1 ubuntu ubuntu 140K 2021-10-01 19:08 QTerr121.db
+-rwxrwxrwx 1 ubuntu ubuntu  84K 2021-10-01 19:21 QTerr121.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:08 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  238 2021-06-25 17:00 Terr121Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr121Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr122:
+total 173K
+-rwxrwxrwx 1 ubuntu ubuntu  247 2021-06-25 17:00 Terr122DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-09-22 15:51 Terr122_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-09-22 15:53 Terr122_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-09-22 15:53 Terr122_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-09-22 15:51 Terr122_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-09-22 15:52 Terr122_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 15:51 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr122/Working-Files:
+total 218K
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-09-22 15:50 QTerr122.csv
+-rwxrwxrwx 1 ubuntu ubuntu 128K 2021-09-22 15:50 QTerr122.db
+-rwxrwxrwx 1 ubuntu ubuntu  56K 2021-09-22 15:51 QTerr122.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-22 15:50 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  244 2021-06-25 17:00 Terr122Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr122Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr123:
+total 241K
+-rwxrwxrwx 1 ubuntu ubuntu  350 2021-06-25 17:00 Terr123DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-06-25 17:00 Terr123_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  61K 2021-06-25 17:00 Terr123_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 Terr123_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-06-25 17:00 Terr123_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  59K 2021-06-25 17:00 Terr123_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-10 19:30 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-06-25 17:00 junk.txt
+
+./Terr123/Working-Files:
+total 314K
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-06-25 17:00 Bridge123.db
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-06-25 17:00 QTerr123.csv
+-rwxrwxrwx 1 ubuntu ubuntu 148K 2021-06-25 17:00 QTerr123.db
+-rwxrwxrwx 1 ubuntu ubuntu  90K 2021-06-25 17:00 QTerr123.ods
+-rwxrwxrwx 1 ubuntu ubuntu  145 2021-06-25 17:00 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  224 2021-06-25 17:00 Terr123Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr123Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr124:
+total 213K
+-rwxrwxrwx 1 ubuntu ubuntu  305 2021-06-25 17:00 Terr124DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 Terr124_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  55K 2021-06-25 17:00 Terr124_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 Terr124_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-06-25 17:00 Terr124_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-06-25 17:00 Terr124_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:47 Working-Files
+
+./Terr124/Working-Files:
+total 242K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-07-17 23:47 QTerr124.csv
+-rwxrwxrwx 1 ubuntu ubuntu 116K 2021-07-17 23:47 QTerr124.db
+-rwxrwxrwx 1 ubuntu ubuntu  79K 2021-06-25 17:00 QTerr124.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:47 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  229 2021-06-25 17:00 Terr124Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr124Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr125:
+total 257K
+-rwxrwxrwx 1 ubuntu ubuntu  394 2021-06-25 17:00 Terr125DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-09-22 16:27 Terr125_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  70K 2021-09-22 16:29 Terr125_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-09-22 16:29 Terr125_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-09-22 16:27 Terr125_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  59K 2021-09-22 16:29 Terr125_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 16:27 Working-Files
+
+./Terr125/Working-Files:
+total 330K
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-09-22 16:26 QTerr125.csv
+-rwxrwxrwx 1 ubuntu ubuntu 168K 2021-09-22 16:26 QTerr125.db
+-rwxrwxrwx 1 ubuntu ubuntu 101K 2021-09-22 16:27 QTerr125.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-22 16:26 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  242 2021-06-25 17:00 Terr125Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr125Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr126:
+total 325K
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-03-14 19:55 Previous
+-rwxrwxrwx 1 ubuntu ubuntu  264 2021-06-25 17:00 Terr126DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-06-25 17:00 Terr126_PubTer.ods
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-06-25 17:00 Terr126_PubTer.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 8.2K 2021-06-25 17:00 Terr126_PubTer.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-07-14 20:59 Terr126_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  59K 2021-07-14 20:59 Terr126_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-07-14 20:59 Terr126_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  53K 2021-07-14 20:59 Terr126_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  63K 2021-07-14 20:59 Terr126_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:48 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr126/Previous:
+total 137K
+-rwxrwxrwx 1 ubuntu ubuntu  264 2021-06-25 17:00 Terr126DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 Terr126_PubTer.ods
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-06-25 17:00 Terr126_PubTer.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 8.2K 2021-06-25 17:00 Terr126_PubTer.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 Terr126_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-06-25 17:00 Terr126_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 7.8K 2021-06-25 17:00 Terr126_PubTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu    0 2021-03-14 19:55 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr126/Previous/Working-Files:
+total 64K
+-rwxrwxrwx 1 ubuntu ubuntu 6.1K 2021-06-25 17:00 QTerr126.csv
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-06-25 17:00 QTerr126.db
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-06-25 17:00 QTerr126.ods
+
+./Terr126/Working-Files:
+total 318K
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-07-17 23:48 QTerr126.csv
+-rwxrwxrwx 1 ubuntu ubuntu 168K 2021-07-17 23:48 QTerr126.db
+-rwxrwxrwx 1 ubuntu ubuntu 105K 2021-07-14 20:59 QTerr126.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:48 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  237 2021-06-25 17:00 Terr126Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr126Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr127:
+total 258K
+-rwxrwxrwx 1 ubuntu ubuntu  521 2021-06-25 17:00 Terr127DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-09-22 17:37 Terr127_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  70K 2021-09-22 17:39 Terr127_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-09-22 17:38 Terr127_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  50K 2021-09-22 17:37 Terr127_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  61K 2021-09-22 17:38 Terr127_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 17:37 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr127/Working-Files:
+total 302K
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-22 17:36 QTerr127.csv
+-rwxrwxrwx 1 ubuntu ubuntu 152K 2021-09-22 17:36 QTerr127.db
+-rwxrwxrwx 1 ubuntu ubuntu  96K 2021-09-22 17:37 QTerr127.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-22 17:36 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  225 2021-06-25 17:00 Terr127Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr127Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr128:
+total 248K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-06-25 17:00 Terr128_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  67K 2021-06-25 17:00 Terr128_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-06-25 17:00 Terr128_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-06-25 17:00 Terr128_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  58K 2021-06-25 17:00 Terr128_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:48 Working-Files
+
+./Terr128/Working-Files:
+total 366K
+-rwxrwxrwx 1 ubuntu ubuntu 7.5K 2021-06-25 17:00 Bridge128.csv
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-07-17 23:48 QTerr128.csv
+-rwxrwxrwx 1 ubuntu ubuntu 168K 2021-07-17 23:48 QTerr128.db
+-rwxrwxrwx 1 ubuntu ubuntu 100K 2021-06-25 17:00 QTerr128.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:48 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu 7.1K 2021-06-25 17:00 Terr128.csv
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-06-25 17:00 Terr128.ods
+-rwxrwxrwx 1 ubuntu ubuntu  220 2021-06-25 17:00 Terr128Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr128Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr129:
+total 188K
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-10-01 19:21 Terr129_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  56K 2021-10-02 04:51 Terr129_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-10-02 04:51 Terr129_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-10-01 19:21 Terr129_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-10-02 04:50 Terr129_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:21 Working-Files
+
+./Terr129/Working-Files:
+total 206K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-10-01 19:08 QTerr129.csv
+-rwxrwxrwx 1 ubuntu ubuntu 100K 2021-10-01 19:08 QTerr129.db
+-rwxrwxrwx 1 ubuntu ubuntu  68K 2021-10-01 19:21 QTerr129.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:08 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  230 2021-06-25 17:00 Terr129Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  10K 2021-06-25 17:00 Terr129Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr130:
+total 185K
+-rwxrwxrwx 1 ubuntu ubuntu  107 2021-06-25 17:00 Terr130DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 Terr130_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-06-25 17:00 Terr130_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-06-25 17:00 Terr130_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-06-25 17:00 Terr130_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-06-25 17:00 Terr130_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-01 16:00 Working-Files
+
+./Terr130/Working-Files:
+total 214K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 QTerr130.csv
+-rwxrwxrwx 1 ubuntu ubuntu 104K 2021-06-25 17:00 QTerr130.db
+-rwxrwxrwx 1 ubuntu ubuntu  70K 2021-06-25 17:00 QTerr130.ods
+-rwxrwxrwx 1 ubuntu ubuntu  145 2021-06-25 17:00 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  182 2021-06-25 17:00 Terr130Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr130Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr131:
+total 204K
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-06-25 17:00 Terr131_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  57K 2021-06-25 17:00 Terr131_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-06-25 17:00 Terr131_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-06-25 17:00 Terr131_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-06-25 17:00 Terr131_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:48 Working-Files
+
+./Terr131/Working-Files:
+total 266K
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-07-17 23:48 QTerr131.csv
+-rwxrwxrwx 1 ubuntu ubuntu 132K 2021-07-17 23:48 QTerr131.db
+-rwxrwxrwx 1 ubuntu ubuntu  82K 2021-06-25 17:00 QTerr131.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:48 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  180 2021-06-25 17:00 Terr131Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr131Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr132:
+total 204K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-06-25 17:00 Terr132_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  54K 2021-06-25 17:00 Terr132_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-06-25 17:00 Terr132_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-06-25 17:00 Terr132_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-06-25 17:00 Terr132_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:48 Working-Files
+
+./Terr132/Working-Files:
+total 254K
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-07-17 23:48 QTerr132.csv
+-rwxrwxrwx 1 ubuntu ubuntu 128K 2021-07-17 23:48 QTerr132.db
+-rwxrwxrwx 1 ubuntu ubuntu  79K 2021-06-25 17:00 QTerr132.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:48 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  182 2021-06-25 17:00 Terr132Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr132Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr135:
+total 221K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-07-16 21:16 Terr135_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  54K 2021-07-16 21:16 Terr135_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-07-16 21:16 Terr135_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-07-16 21:16 Terr135_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-07-16 21:16 Terr135_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:16 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr135/Working-Files:
+total 277K
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-07-16 20:39 QTerr135.csv
+-rwxrwxrwx 1 ubuntu ubuntu 140K 2021-07-16 20:39 QTerr135.db
+-rwxrwxrwx 1 ubuntu ubuntu  87K 2021-07-16 21:16 QTerr135.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:39 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  216 2021-06-25 17:00 Terr135Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-06-25 17:00 Terr135Hdr.ods
+
+./Terr136:
+total 213K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-07-16 21:16 Terr136_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-07-16 21:16 Terr136_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-07-16 21:16 Terr136_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-07-16 21:16 Terr136_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-07-16 21:16 Terr136_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:16 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr136/Working-Files:
+total 278K
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-07-16 20:39 QTerr136.csv
+-rwxrwxrwx 1 ubuntu ubuntu 140K 2021-07-16 20:39 QTerr136.db
+-rwxrwxrwx 1 ubuntu ubuntu  86K 2021-07-16 21:16 QTerr136.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:39 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  189 2021-06-25 17:00 Terr136Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr136Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr137:
+total 161K
+-rwxrwxrwx 1 ubuntu ubuntu  106 2021-06-25 17:00 Terr137DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-23 21:52 Terr137_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-09-23 21:54 Terr137_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-09-23 21:54 Terr137_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-09-23 21:52 Terr137_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-23 21:56 Terr137_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 21:52 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr137/Working-Files:
+total 150K
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-09-23 21:51 QTerr137.csv
+-rwxrwxrwx 1 ubuntu ubuntu  68K 2021-09-23 21:51 QTerr137.db
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-09-23 21:52 QTerr137.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-23 21:51 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  211 2021-06-25 17:00 Terr137Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr137Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr138:
+total 173K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 Terr138_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-06-25 17:00 Terr138_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-06-25 17:00 Terr138_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-06-25 17:00 Terr138_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-06-25 17:00 Terr138_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:52 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr138/Working-Files:
+total 182K
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-07-17 23:52 QTerr138.csv
+-rwxrwxrwx 1 ubuntu ubuntu  88K 2021-07-17 23:52 QTerr138.db
+-rwxrwxrwx 1 ubuntu ubuntu  59K 2021-06-25 17:00 QTerr138.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:52 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  214 2021-06-25 17:00 Terr138Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr138Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr139:
+total 153K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 Terr139_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-06-25 17:00 Terr139_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-06-25 17:00 Terr139_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 Terr139_Search.ods
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-06-25 17:00 Terr139_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-06-25 17:00 Terr139_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:52 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr139/Working-Files:
+total 114K
+-rwxrwxrwx 1 ubuntu ubuntu 7.8K 2021-07-17 23:52 QTerr139.csv
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-07-17 23:52 QTerr139.db
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-06-25 17:00 QTerr139.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:52 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  221 2021-06-25 17:00 Terr139Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-06-25 17:00 Terr139Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr140:
+total 184K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 Terr140_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-06-25 17:00 Terr140_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-06-25 17:00 Terr140_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-06-25 17:00 Terr140_PubTerr_Kelsie.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 Terr140_PubTerr_Liz.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-06-25 17:00 Terr140_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-06-25 17:00 Terr140_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:52 Working-Files
+
+./Terr140/Working-Files:
+total 306K
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-07-17 23:52 QTerr140.csv
+-rwxrwxrwx 1 ubuntu ubuntu 128K 2021-07-17 23:52 QTerr140.db
+-rwxrwxrwx 1 ubuntu ubuntu  83K 2021-06-25 17:00 QTerr140.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:52 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu 5.3K 2021-06-25 17:00 Terr140.csv
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-06-25 17:00 Terr140.ods
+-rwxrwxrwx 1 ubuntu ubuntu  136 2021-06-25 17:00 Terr140Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.5K 2021-06-25 17:00 Terr140Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu 4.9K 2021-06-25 17:00 Terr140_IBridge.csv
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr141:
+total 349K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 Terr141_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-06-25 17:00 Terr141_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-06-25 17:00 Terr141_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 Terr141_Search.ods
+-rwxrwxrwx 1 ubuntu ubuntu 147K 2021-06-25 17:00 Terr141_Search.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-06-25 17:00 Terr141_Search.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-06-25 17:00 Terr141_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-06-25 17:00 Terr141_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:52 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr141/Working-Files:
+total 162K
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-07-17 23:52 QTerr141.csv
+-rwxrwxrwx 1 ubuntu ubuntu  76K 2021-07-17 23:52 QTerr141.db
+-rwxrwxrwx 1 ubuntu ubuntu  54K 2021-06-25 17:00 QTerr141.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:52 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-06-25 17:00 Terr141Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr141Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr201:
+total 225K
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-03-03 12:39 Previous
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-08-31 07:53 Terr201_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  53K 2021-08-31 07:55 Terr201_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-08-31 07:55 Terr201_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-08-31 07:53 Terr201_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-08-31 07:54 Terr201_SuperTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 Untitled 1.ods
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-31 07:53 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr201/Previous:
+total 140K
+-rwxrwxrwx 1 ubuntu ubuntu 33K 2021-06-25 17:00 Terr201_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu 46K 2021-06-25 17:00 Terr201_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 14K 2021-06-25 17:00 Terr201_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu 38K 2021-06-25 17:00 Terr201_SuperTerr.ods
+
+./Terr201/Working-Files:
+total 370K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-08-31 07:49 QTerr201.csv
+-rwxrwxrwx 1 ubuntu ubuntu 104K 2021-08-31 07:49 QTerr201.db
+-rwxrwxrwx 1 ubuntu ubuntu  63K 2021-08-31 07:53 QTerr201.ods
+-rwxrwxrwx 1 ubuntu ubuntu  78K 2021-06-25 17:00 QTerr201_PubSearch.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-08-31 07:49 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  183 2021-06-25 17:00 Terr201Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr201Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  78K 2021-06-25 17:00 Terr201_PubSearch.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr202:
+total 173K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 Terr202_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-06-25 17:00 Terr202_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-06-25 17:00 Terr202_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-06-25 17:00 Terr202_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-06-25 17:00 Terr202_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-08 17:44 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr202/Working-Files:
+total 194K
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-06-25 17:00 QTerr202.csv
+-rwxrwxrwx 1 ubuntu ubuntu  92K 2021-06-25 17:00 QTerr202.db
+-rwxrwxrwx 1 ubuntu ubuntu  61K 2021-06-25 17:00 QTerr202.ods
+-rwxrwxrwx 1 ubuntu ubuntu  145 2021-06-25 17:00 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  184 2021-06-25 17:00 Terr202Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr202Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr203:
+total 149K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-10-01 22:24 Terr203_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-10-02 04:43 Terr203_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-10-02 04:43 Terr203_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-10-01 22:25 Terr203_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-10-02 04:43 Terr203_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 22:25 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr203/Working-Files:
+total 126K
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-10-01 22:23 QTerr203.csv
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-10-01 22:23 QTerr203.db
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-10-01 22:25 QTerr203.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 22:23 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  178 2021-06-25 17:00 Terr203Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr203Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr204:
+total 149K
+-rwxrwxrwx 1 ubuntu ubuntu  126 2021-06-25 17:00 Terr204DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-06-25 17:00 Terr204_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-06-25 17:00 Terr204_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-06-25 17:00 Terr204_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 Terr204_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 Terr204_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:52 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr204/Working-Files:
+total 162K
+-rwxrwxrwx 1 ubuntu ubuntu 9.3K 2021-07-17 23:52 QTerr204.csv
+-rwxrwxrwx 1 ubuntu ubuntu  76K 2021-07-17 23:52 QTerr204.db
+-rwxrwxrwx 1 ubuntu ubuntu  57K 2021-06-25 17:00 QTerr204.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:52 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  210 2021-06-25 17:00 Terr204Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr204Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr205:
+total 217K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-10-01 22:37 Terr205_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  58K 2021-10-02 04:41 Terr205_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-10-02 04:41 Terr205_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-01 22:38 Terr205_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-02 04:41 Terr205_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 22:38 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr205/Working-Files:
+total 258K
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-10-01 22:36 QTerr205.csv
+-rwxrwxrwx 1 ubuntu ubuntu 128K 2021-10-01 22:36 QTerr205.db
+-rwxrwxrwx 1 ubuntu ubuntu  79K 2021-10-01 22:38 QTerr205.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 22:36 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  237 2021-06-25 17:00 Terr205Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr205Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr206:
+total 209K
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-07-16 21:17 Terr206_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  50K 2021-07-16 21:17 Terr206_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-07-16 21:17 Terr206_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-07-16 21:17 Terr206_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-07-16 21:17 Terr206_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:17 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr206/Working-Files:
+total 274K
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-07-16 20:39 QTerr206.csv
+-rwxrwxrwx 1 ubuntu ubuntu 144K 2021-07-16 20:39 QTerr206.db
+-rwxrwxrwx 1 ubuntu ubuntu  79K 2021-07-16 21:17 QTerr206.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:39 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  189 2021-06-25 17:00 Terr206Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr206Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr207:
+total 292K
+-rwxrwxrwx 1 ubuntu ubuntu 7.7K 2021-06-25 17:00 Terr207H_Pub..xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-06-25 17:00 Terr207H_Pub.odx.ods
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 Terr207N_Pub.ods
+-rwxrwxrwx 1 ubuntu ubuntu 9.4K 2021-06-25 17:00 Terr207N_Pub.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-06-25 17:00 Terr207_Pub.ods
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-06-25 17:00 Terr207_Pub.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-10-02 04:11 Terr207_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-10-02 04:39 Terr207_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-10-02 04:39 Terr207_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-10-02 04:11 Terr207_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-10-02 04:39 Terr207_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 04:11 Working-Files
+
+./Terr207/Working-Files:
+total 434K
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-10-02 04:08 QTerr207.csv
+-rwxrwxrwx 1 ubuntu ubuntu  84K 2021-10-02 04:08 QTerr207.db
+-rwxrwxrwx 1 ubuntu ubuntu  55K 2021-10-02 04:11 QTerr207.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-02 04:08 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu 1.1K 2021-06-25 17:00 Terr207.csv
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-06-25 17:00 Terr207.ods
+-rwxrwxrwx 1 ubuntu ubuntu  886 2021-06-25 17:00 Terr207Bridge-I.csv
+-rwxrwxrwx 1 ubuntu ubuntu 1.1K 2021-06-25 17:00 Terr207Bridge.csv
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-06-25 17:00 Terr207Bridge.ods
+-rwxrwxrwx 1 ubuntu ubuntu 6.1K 2021-06-25 17:00 Terr207BridgeSCQ-H.csv
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-06-25 17:00 Terr207BridgeSCQ-H.ods
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-06-25 17:00 Terr207BridgeSCQ-N.csv
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-06-25 17:00 Terr207BridgeSCQ-N.ods
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-06-25 17:00 Terr207BridgeSCQ.csv
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-06-25 17:00 Terr207BridgeSCQ.ods
+-rwxrwxrwx 1 ubuntu ubuntu  178 2021-06-25 17:00 Terr207Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr207Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-06-25 17:00 Terr207_Edit.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr208:
+total 261K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-07-14 21:00 Terr208_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-07-14 21:00 Terr208_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-07-14 21:00 Terr208_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 Terr208_SupTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-06-25 17:00 Terr208_SupTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-06-25 17:00 Terr208_SupTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-07-14 21:00 Terr208_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-06-25 17:00 Terr208_SuperTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-07-14 21:00 Terr208_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:52 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr208/Working-Files:
+total 142K
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-07-17 23:52 QTerr208.csv
+-rwxrwxrwx 1 ubuntu ubuntu  64K 2021-07-17 23:52 QTerr208.db
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-07-14 21:00 QTerr208.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:52 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  180 2021-06-25 17:00 Terr208Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr208Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr209:
+total 189K
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-10-01 19:25 Terr209_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  55K 2021-10-02 04:53 Terr209_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-10-02 04:53 Terr209_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-10-01 19:25 Terr209_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-10-02 04:52 Terr209_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:25 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr209/Working-Files:
+total 214K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-10-01 19:08 QTerr209.csv
+-rwxrwxrwx 1 ubuntu ubuntu 104K 2021-10-01 19:08 QTerr209.db
+-rwxrwxrwx 1 ubuntu ubuntu  65K 2021-10-01 19:25 QTerr209.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:08 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  198 2021-06-25 17:00 Terr209Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr209Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr210:
+total 185K
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-07-16 21:18 Terr210_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-07-16 21:18 Terr210_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-07-16 21:18 Terr210_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-07-16 21:18 Terr210_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-07-16 21:18 Terr210_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:18 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr210/Working-Files:
+total 230K
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-07-16 20:39 QTerr210.csv
+-rwxrwxrwx 1 ubuntu ubuntu 116K 2021-07-16 20:39 QTerr210.db
+-rwxrwxrwx 1 ubuntu ubuntu  71K 2021-07-16 21:18 QTerr210.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:39 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  172 2021-06-25 17:00 Terr210Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr210Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr211:
+total 177K
+-rwxrwxrwx 1 ubuntu ubuntu  107 2021-06-25 17:00 Terr211DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-07-16 21:18 Terr211_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-07-16 21:18 Terr211_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-07-16 21:18 Terr211_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-07-16 21:18 Terr211_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-07-16 21:19 Terr211_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:18 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr211/Working-Files:
+total 202K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-07-16 20:39 QTerr211.csv
+-rwxrwxrwx 1 ubuntu ubuntu 100K 2021-07-16 20:39 QTerr211.db
+-rwxrwxrwx 1 ubuntu ubuntu  63K 2021-07-16 21:18 QTerr211.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:39 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  231 2021-06-25 17:00 Terr211Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr211Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr212:
+total 178K
+-rwxrwxrwx 1 ubuntu ubuntu  403 2021-06-25 17:00 Terr212DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  221 2021-06-25 17:00 Terr212Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-23 22:05 Terr212_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  50K 2021-09-23 22:07 Terr212_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-09-23 22:08 Terr212_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-09-23 22:05 Terr212_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-09-23 22:09 Terr212_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 22:05 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr212/Working-Files:
+total 186K
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-09-23 22:04 QTerr212.csv
+-rwxrwxrwx 1 ubuntu ubuntu  92K 2021-09-23 22:04 QTerr212.db
+-rwxrwxrwx 1 ubuntu ubuntu  58K 2021-09-23 22:05 QTerr212.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-23 22:04 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  221 2021-06-25 17:00 Terr212Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr212Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr213:
+total 233K
+-rwxrwxrwx 1 ubuntu ubuntu  667 2021-06-25 17:00 Terr213DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-07-16 21:19 Terr213_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  53K 2021-07-16 21:19 Terr213_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-07-16 21:19 Terr213_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-07-16 21:20 Terr213_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  56K 2021-07-16 21:20 Terr213_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:19 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr213/Working-Files:
+total 282K
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-07-16 20:39 QTerr213.csv
+-rwxrwxrwx 1 ubuntu ubuntu 144K 2021-07-16 20:39 QTerr213.db
+-rwxrwxrwx 1 ubuntu ubuntu  87K 2021-07-16 21:19 QTerr213.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:39 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  207 2021-06-25 17:00 Terr213Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr213Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr214:
+total 149K
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-07-16 21:20 Terr214_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-07-16 21:20 Terr214_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-07-16 21:20 Terr214_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-07-16 21:20 Terr214_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-07-16 21:20 Terr214_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:20 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr214/Working-Files:
+total 166K
+-rwxrwxrwx 1 ubuntu ubuntu 17K 2021-07-16 20:39 QTerr214.csv
+-rwxrwxrwx 1 ubuntu ubuntu 76K 2021-07-16 20:39 QTerr214.db
+-rwxrwxrwx 1 ubuntu ubuntu 54K 2021-07-16 21:20 QTerr214.ods
+-rwxrwxrwx 1 ubuntu ubuntu 213 2021-07-16 20:39 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu 202 2021-06-25 17:00 Terr214Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 11K 2021-06-25 17:00 Terr214Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  90 2021-06-25 17:00 junk.txt
+
+./Terr215:
+total 149K
+-rwxrwxrwx 1 ubuntu ubuntu  229 2021-06-25 17:00 Terr215DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-07-16 21:20 Terr215_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-07-16 21:20 Terr215_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-07-16 21:20 Terr215_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-06-25 17:00 Terr215_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 Terr215_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:36 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr215/Working-Files:
+total 146K
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-07-16 20:40 QTerr215.csv
+-rwxrwxrwx 1 ubuntu ubuntu  76K 2021-07-16 20:40 QTerr215.db
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-07-16 21:20 QTerr215.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:40 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  231 2021-06-25 17:00 Terr215Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr215Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr216:
+total 197K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-08-30 10:59 Terr216_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-07-16 21:22 Terr216_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-07-16 21:22 Terr216_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-07-16 21:22 Terr216_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-07-16 21:22 Terr216_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:22 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr216/Working-Files:
+total 242K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-07-16 20:40 QTerr216.csv
+-rwxrwxrwx 1 ubuntu ubuntu 120K 2021-07-16 20:40 QTerr216.db
+-rwxrwxrwx 1 ubuntu ubuntu  74K 2021-07-16 21:22 QTerr216.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:40 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  214 2021-06-25 17:00 Terr216Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-06-25 17:00 Terr216Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  152 2021-08-28 10:51 junk.txt
+
+./Terr217:
+total 265K
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-08-29 07:45 Terr217_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  71K 2021-08-29 07:48 Terr217_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-08-29 07:47 Terr217_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-08-30 11:00 Terr217_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  65K 2021-08-29 07:52 Terr217_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-29 07:46 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-08-29 08:01 junk.txt
+
+./Terr217/Working-Files:
+total 265K
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-08-29 07:44 QTerr217.csv
+-rwxrwxrwx 1 ubuntu ubuntu 108K 2021-08-29 07:44 QTerr217.db
+-rwxrwxrwx 1 ubuntu ubuntu  97K 2021-08-29 07:46 QTerr217.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-08-29 07:44 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  234 2021-08-27 02:50 Terr217Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-08-28 10:52 Terr217Hdr.ods
+
+./Terr218:
+total 213K
+-rwxrwxrwx 1 ubuntu ubuntu  299 2021-06-25 17:00 Terr218DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-08-30 19:21 Terr218_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  60K 2021-08-30 19:23 Terr218_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-08-30 19:23 Terr218_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-08-30 19:21 Terr218_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-08-30 19:22 Terr218_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-30 19:21 Working-Files
+
+./Terr218/Working-Files:
+total 194K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-08-30 19:19 QTerr218.csv
+-rwxrwxrwx 1 ubuntu ubuntu  76K 2021-08-30 19:19 QTerr218.db
+-rwxrwxrwx 1 ubuntu ubuntu  72K 2021-08-30 19:21 QTerr218.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-08-30 19:19 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  236 2021-08-29 22:01 Terr218Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-08-29 22:01 Terr218Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  152 2021-08-30 11:19 junk.txt
+
+./Terr219:
+total 114K
+-rwxrwxrwx 1 ubuntu ubuntu  140 2021-06-25 17:00 Terr219DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  219 2021-06-25 17:00 Terr219Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-23 22:27 Terr219_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-09-23 22:29 Terr219_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 7.6K 2021-09-23 22:30 Terr219_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-23 22:27 Terr219_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-09-23 22:28 Terr219_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 22:27 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  169 2021-06-25 17:00 junk.txt
+
+./Terr219/Working-Files:
+total 66K
+-rwxrwxrwx 1 ubuntu ubuntu    0 2021-06-25 17:00 QTerr
+-rwxrwxrwx 1 ubuntu ubuntu    0 2021-06-25 17:00 QTerr219
+-rwxrwxrwx 1 ubuntu ubuntu 2.7K 2021-09-23 22:26 QTerr219.csv
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-09-23 22:26 QTerr219.db
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-09-23 22:27 QTerr219.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-23 22:26 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  219 2021-06-25 17:00 Terr219Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr219Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr220:
+total 345K
+-rwxrwxrwx 1 ubuntu ubuntu  218 2021-06-25 17:00 Terr220Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-06-25 17:00 Terr220_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  87K 2021-06-25 17:00 Terr220_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  50K 2021-06-25 17:00 Terr220_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  62K 2021-06-25 17:00 Terr220_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  97K 2021-06-25 17:00 Terr220_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:52 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr220/Working-Files:
+total 466K
+-rwxrwxrwx 1 ubuntu ubuntu  67K 2021-07-17 23:52 QTerr220.csv
+-rwxrwxrwx 1 ubuntu ubuntu 244K 2021-07-17 23:52 QTerr220.db
+-rwxrwxrwx 1 ubuntu ubuntu 138K 2021-06-25 17:00 QTerr220.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:52 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  218 2021-06-25 17:00 Terr220Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr220Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr221:
+total 265K
+-rwxrwxrwx 1 ubuntu ubuntu  104 2021-06-25 17:00 Terr221DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-10-02 04:35 Terr221_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  72K 2021-10-02 04:37 Terr221_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-10-02 04:37 Terr221_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  50K 2021-10-02 04:35 Terr221_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  62K 2021-10-02 04:37 Terr221_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-02 04:35 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  169 2021-06-25 17:00 junk.txt
+
+./Terr221/Working-Files:
+total 302K
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-10-02 04:32 QTerr221.csv
+-rwxrwxrwx 1 ubuntu ubuntu 152K 2021-10-02 04:32 QTerr221.db
+-rwxrwxrwx 1 ubuntu ubuntu  95K 2021-10-02 04:35 QTerr221.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-02 04:32 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  238 2021-06-25 17:00 Terr221Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr221Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr222:
+total 181K
+-rwxrwxrwx 1 ubuntu ubuntu  209 2021-06-25 17:00 Terr222DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 Terr222_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-06-25 17:00 Terr222_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-06-25 17:00 Terr222_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-06-25 17:00 Terr222_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-06-25 17:00 Terr222_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:52 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  169 2021-06-25 17:00 junk.txt
+
+./Terr222/Working-Files:
+total 230K
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 QSplit.csv
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-07-17 23:52 QTerr222.csv
+-rwxrwxrwx 1 ubuntu ubuntu 100K 2021-07-17 23:52 QTerr222.db
+-rwxrwxrwx 1 ubuntu ubuntu  61K 2021-06-25 17:00 QTerr222.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:52 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  228 2021-06-25 17:00 Terr222Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr222Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr223:
+total 162K
+-rwxrwxrwx 1 ubuntu ubuntu  312 2021-06-25 17:00 Terr223DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  226 2021-06-25 17:00 Terr223Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-24 11:41 Terr223_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-09-24 11:43 Terr223_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-09-24 11:42 Terr223_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-09-24 11:41 Terr223_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-24 11:42 Terr223_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-24 11:41 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  169 2021-06-25 17:00 junk.txt
+
+./Terr223/Working-Files:
+total 146K
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-09-24 11:39 QTerr223.csv
+-rwxrwxrwx 1 ubuntu ubuntu  64K 2021-09-24 11:39 QTerr223.db
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-09-24 11:41 QTerr223.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-24 11:39 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  226 2021-06-25 17:00 Terr223Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr223Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr224:
+total 569K
+-rwxrwxrwx 1 ubuntu ubuntu  297 2021-06-25 17:00 Terr224DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-06-25 17:00 Terr224_PubSearch_New.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-10-01 19:27 Terr224_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  55K 2021-10-02 04:55 Terr224_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-10-02 04:55 Terr224_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-06-25 17:00 Terr224_Search.ods
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-06-25 17:00 Terr224_Search.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 Terr224_Search_EB.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-06-25 17:00 Terr224_Search_New.ods
+-rwxrwxrwx 1 ubuntu ubuntu 214K 2021-06-25 17:00 Terr224_Search_New.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-06-25 17:00 Terr224_Search_New.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-10-01 19:27 Terr224_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-10-02 04:54 Terr224_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 8.0K 2021-10-01 19:27 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr224/Working-Files:
+total 670K
+-rwxrwxrwx 1 ubuntu ubuntu  50K 2021-06-25 17:00 QTerr224 (copy).ods
+-rwxrwxrwx 1 ubuntu ubuntu  89K 2021-06-25 17:00 QTerr224(new).ods
+-rwxrwxrwx 1 ubuntu ubuntu  61K 2021-06-25 17:00 QTerr224(new)_PubSearch.ods
+-rwxrwxrwx 1 ubuntu ubuntu  66K 2021-06-25 17:00 QTerr224(new)_PubSearch_PubSearch.ods
+-rwxrwxrwx 1 ubuntu ubuntu  67K 2021-06-25 17:00 QTerr224(new)_PubSearch_PubSearch_PubSearch.ods
+-rwxrwxrwx 1 ubuntu ubuntu  66K 2021-06-25 17:00 QTerr224(new)_PubSearch_PubSearch_PubSearch_PubSearch.ods
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-10-01 19:08 QTerr224.csv
+-rwxrwxrwx 1 ubuntu ubuntu 104K 2021-10-01 19:08 QTerr224.db
+-rwxrwxrwx 1 ubuntu ubuntu  67K 2021-10-01 19:27 QTerr224.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-06-25 17:00 QTerr224_PubSearch.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:08 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  227 2021-06-25 17:00 Terr224Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr224Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr225:
+total 234K
+-rwxrwxrwx 1 ubuntu ubuntu  591 2021-06-25 17:00 Terr225DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-10-01 19:28 Terr225_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  62K 2021-10-02 04:58 Terr225_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-10-02 04:58 Terr225_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-01 19:28 Terr225_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  53K 2021-10-02 04:57 Terr225_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:28 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr225/Working-Files:
+total 290K
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-10-01 19:08 QTerr225.csv
+-rwxrwxrwx 1 ubuntu ubuntu 156K 2021-10-01 19:08 QTerr225.db
+-rwxrwxrwx 1 ubuntu ubuntu  82K 2021-10-01 19:28 QTerr225.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:08 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  214 2021-06-25 17:00 Terr225Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr225Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr226:
+total 221K
+-rwxrwxrwx 1 ubuntu ubuntu  204 2021-06-25 17:00 Terr226DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-09-24 12:09 Terr226_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  61K 2021-09-24 12:12 Terr226_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-09-24 12:12 Terr226_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-09-24 12:09 Terr226_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-09-24 12:11 Terr226_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-04 21:31 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr226/Working-Files:
+total 250K
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-10-04 21:31 QTerr226.csv
+-rwxrwxrwx 1 ubuntu ubuntu 128K 2021-10-04 21:31 QTerr226.db
+-rwxrwxrwx 1 ubuntu ubuntu  74K 2021-09-24 12:09 QTerr226.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-04 21:31 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  236 2021-06-25 17:00 Terr226Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr226Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr227:
+total 4.0K
+-rwxrwxrwx 1 ubuntu ubuntu 687 2021-06-25 17:00 Terr227DNC.csv
+
+./Terr228:
+total 326K
+-rwxrwxrwx 1 ubuntu ubuntu  607 2021-06-25 17:00 Terr228DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-10-01 19:28 Terr228_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  89K 2021-10-02 05:00 Terr228_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-10-02 05:00 Terr228_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  60K 2021-10-01 19:28 Terr228_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  84K 2021-10-02 04:59 Terr228_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:28 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr228/Working-Files:
+total 446K
+-rwxrwxrwx 1 ubuntu ubuntu  61K 2021-10-01 19:08 QTerr228.csv
+-rwxrwxrwx 1 ubuntu ubuntu 244K 2021-10-01 19:08 QTerr228.db
+-rwxrwxrwx 1 ubuntu ubuntu 124K 2021-10-01 19:28 QTerr228.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:08 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  223 2021-06-25 17:00 Terr228Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr228Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr229:
+total 173K
+-rwxrwxrwx 1 ubuntu ubuntu  344 2021-06-25 17:00 Terr229DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-07-16 21:25 Terr229_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-07-16 21:25 Terr229_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-07-16 21:25 Terr229_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-07-16 21:25 Terr229_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-07-16 21:25 Terr229_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:25 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr229/Working-Files:
+total 186K
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-07-16 20:40 QTerr229.csv
+-rwxrwxrwx 1 ubuntu ubuntu  92K 2021-07-16 20:40 QTerr229.db
+-rwxrwxrwx 1 ubuntu ubuntu  59K 2021-07-16 21:25 QTerr229.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:40 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  239 2021-06-25 17:00 Terr229Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr229Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr230:
+total 181K
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-10-01 19:29 Terr230_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  55K 2021-10-02 05:02 Terr230_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-10-02 05:02 Terr230_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-10-01 19:29 Terr230_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-10-02 05:01 Terr230_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:29 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr230/Working-Files:
+total 186K
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-10-01 19:09 QTerr230.csv
+-rwxrwxrwx 1 ubuntu ubuntu  88K 2021-10-01 19:09 QTerr230.db
+-rwxrwxrwx 1 ubuntu ubuntu  59K 2021-10-01 19:29 QTerr230.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:09 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  237 2021-06-25 17:00 Terr230Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr230Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr232:
+total 237K
+-rwxrwxrwx 1 ubuntu ubuntu  272 2021-06-25 17:00 Terr232DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-06-25 17:00 Terr232_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  64K 2021-06-25 17:00 Terr232_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-06-25 17:00 Terr232_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-06-25 17:00 Terr232_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  60K 2021-06-25 17:00 Terr232_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-11 12:12 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr232/Working-Files:
+total 338K
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-06-25 17:00 QTerr232.csv
+-rwxrwxrwx 1 ubuntu ubuntu 180K 2021-06-25 17:00 QTerr232.db
+-rwxrwxrwx 1 ubuntu ubuntu  95K 2021-06-25 17:00 QTerr232.ods
+-rwxrwxrwx 1 ubuntu ubuntu  145 2021-06-25 17:00 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  198 2021-06-25 17:00 Terr232Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr232Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr233:
+total 241K
+-rwxrwxrwx 1 ubuntu ubuntu  445 2021-06-25 17:00 Terr233DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-09-06 19:16 Terr233_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  60K 2021-09-06 19:21 Terr233_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-09-06 19:21 Terr233_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 Terr233_Search.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-09-06 19:16 Terr233_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-09-06 19:20 Terr233_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-06 19:16 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-06-25 17:00 junk.txt
+
+./Terr233/Working-Files:
+total 258K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-09-06 19:14 QTerr233.csv
+-rwxrwxrwx 1 ubuntu ubuntu 132K 2021-09-06 19:14 QTerr233.db
+-rwxrwxrwx 1 ubuntu ubuntu  80K 2021-09-06 19:16 QTerr233.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-06 19:14 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  211 2021-06-25 17:00 Terr233Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr233Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr234:
+total 233K
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-09-06 19:17 Terr234_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  64K 2021-09-06 19:19 Terr234_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-09-06 19:18 Terr234_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-09-06 19:17 Terr234_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-09-06 19:18 Terr234_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-06 19:17 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr234/Working-Files:
+total 234K
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-09-06 19:14 QTerr234.csv
+-rwxrwxrwx 1 ubuntu ubuntu  96K 2021-09-06 19:14 QTerr234.db
+-rwxrwxrwx 1 ubuntu ubuntu  83K 2021-09-06 19:17 QTerr234.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-06 19:14 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  208 2021-06-25 17:00 Terr234Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr234Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr235:
+total 172K
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-07-14 13:30 Terr235_PubTerr..pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-07-14 13:30 Terr235_PubTerr..xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-08-31 22:01 Terr235_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-08-31 22:04 Terr235_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-08-31 22:03 Terr235_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-08-31 22:01 Terr235_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-08-31 22:03 Terr235_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-31 22:01 Working-Files
+
+./Terr235/Working-Files:
+total 122K
+-rwxrwxrwx 1 ubuntu ubuntu 7.8K 2021-08-31 21:55 QTerr235.csv
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-08-31 21:55 QTerr235.db
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-08-31 22:01 QTerr235.ods
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-06-25 17:00 QTerr235_SAVE.db
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-08-31 21:55 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  224 2021-06-25 17:00 Terr235Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr235Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  152 2021-07-07 13:04 junk.txt
+
+./Terr236:
+total 129K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-11 20:51 Terr236_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-11 20:53 Terr236_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-09-11 20:55 Terr236_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-09-11 20:51 Terr236_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-09-11 20:52 Terr236_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 20:51 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-09-11 20:59 junk.txt
+
+./Terr236/Working-Files:
+total 98K
+-rwxrwxrwx 1 ubuntu ubuntu 7.0K 2021-09-11 20:49 QTerr236.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-11 20:49 QTerr236.db
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-09-11 20:51 QTerr236.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-11 20:49 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  224 2021-06-25 17:00 Terr236Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr236Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr237:
+total 165K
+-rwxrwxrwx 1 ubuntu ubuntu  216 2021-06-25 17:00 Terr237DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-07-14 13:30 Terr237_PubTerr..pdf
+-rwxrwxrwx 1 ubuntu ubuntu 8.8K 2021-07-14 13:30 Terr237_PubTerr..xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-08-31 16:46 Terr237_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-08-31 16:54 Terr237_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 9.4K 2021-08-31 16:53 Terr237_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-08-31 17:00 Terr237_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-08-31 16:53 Terr237_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-31 16:47 Working-Files
+
+./Terr237/Working-Files:
+total 98K
+-rwxrwxrwx 1 ubuntu ubuntu 5.5K 2021-08-31 16:45 QTerr237.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-08-31 16:45 QTerr237.db
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-08-31 16:47 QTerr237.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-08-31 16:45 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  222 2021-06-25 17:00 Terr237Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-07-08 11:56 Terr237Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr238:
+total 153K
+-rwxrwxrwx 1 ubuntu ubuntu  292 2021-06-25 17:00 Terr238DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-09-12 07:56 Terr238_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-12 07:59 Terr238_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-09-12 07:59 Terr238_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-12 07:56 Terr238_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-09-12 07:59 Terr238_SuperTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-07-08 13:42 Untitled 1.ods
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-12 07:56 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-07-14 08:06 junk.txt
+
+./Terr238/Working-Files:
+total 98K
+-rwxrwxrwx 1 ubuntu ubuntu 6.9K 2021-09-12 07:44 QTerr238.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-12 07:44 QTerr238.db
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-09-12 07:56 QTerr238.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-12 07:44 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  222 2021-06-25 17:00 Terr238Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr238Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr239:
+total 133K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-11 18:37 Terr239_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-09-11 18:39 Terr239_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-09-11 18:39 Terr239_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-09-11 18:37 Terr239_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-09-11 18:38 Terr239_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 18:37 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr239/Working-Files:
+total 110K
+-rwxrwxrwx 1 ubuntu ubuntu 9.3K 2021-09-11 18:36 QTerr239.csv
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-09-11 18:36 QTerr239.db
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-09-11 18:37 QTerr239.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-11 18:36 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  219 2021-06-25 17:00 Terr239Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr239Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr240:
+total 129K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-12 14:00 Terr240_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-12 14:02 Terr240_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-09-12 14:02 Terr240_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-12 14:00 Terr240_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-09-12 14:02 Terr240_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-12 14:00 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr240/Working-Files:
+total 102K
+-rwxrwxrwx 1 ubuntu ubuntu 6.6K 2021-09-12 13:57 QTerr240.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-12 13:57 QTerr240.db
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-09-12 14:00 QTerr240.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-12 13:57 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  219 2021-06-25 17:00 Terr240Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-07-11 09:05 Terr240Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  219 2021-07-08 16:29 TestFile.csv
+-rwxrwxrwx 1 ubuntu ubuntu  152 2021-07-11 19:57 junk.txt
+
+./Terr241:
+total 133K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-11 19:26 Terr241_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-09-11 19:28 Terr241_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-09-11 19:28 Terr241_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-09-11 19:26 Terr241_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-09-11 19:27 Terr241_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 19:26 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr241/Working-Files:
+total 106K
+-rwxrwxrwx 1 ubuntu ubuntu  210 2021-07-09 13:52 NewTerr241Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 8.1K 2021-09-11 19:25 QTerr241.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-11 19:25 QTerr241.db
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-09-11 19:26 QTerr241.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-11 19:25 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  210 2021-07-09 13:47 Terr241Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr241Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  152 2021-07-12 12:06 junk.txt
+
+./Terr242:
+total 153K
+-rwxrwxrwx 1 ubuntu ubuntu  140 2021-06-25 17:00 Terr242DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-06-25 17:00 Terr242_PubTerr..ods
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-12 15:07 Terr242_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-12 15:10 Terr242_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-09-12 15:10 Terr242_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-09-12 15:08 Terr242_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-09-12 15:10 Terr242_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-12 15:08 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr242/Working-Files:
+total 102K
+-rwxrwxrwx 1 ubuntu ubuntu 6.6K 2021-09-12 15:06 QTerr242.csv
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-09-12 15:06 QTerr242.db
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-09-12 15:08 QTerr242.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-12 15:06 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  219 2021-06-25 17:00 Terr242Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr242Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr243:
+total 137K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-09-11 20:18 Terr243_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-11 20:20 Terr243_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-09-11 20:21 Terr243_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-09-11 20:18 Terr243_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-09-11 20:21 Terr243_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-02-27 07:37 Version2
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 20:18 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-07-07 13:23 junk.txt
+
+./Terr243/Version2:
+total 117K
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-06-25 17:00 QTerr243.db
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-06-25 17:00 QTerr243.ods
+-rwxrwxrwx 1 ubuntu ubuntu  185 2021-06-25 17:00 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  149 2021-06-25 17:00 Terr243DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-06-25 17:00 Terr243_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 Terr243_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 7.6K 2021-06-25 17:00 Terr243_PubTerr.xlsx
+
+./Terr243/Working-Files:
+total 98K
+-rwxrwxrwx 1 ubuntu ubuntu 6.9K 2021-09-11 20:14 QTerr243.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-11 20:14 QTerr243.db
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-09-11 20:18 QTerr243.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-11 20:14 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  221 2021-06-25 17:00 Terr243Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr243Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr244:
+total 117K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-23 12:10 Terr244_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-09-23 12:10 Terr244_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-09-23 12:14 Terr244_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-09-23 12:10 Terr244_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-09-23 12:14 Terr244_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 12:10 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr244/Working-Files:
+total 106K
+-rwxrwxrwx 1 ubuntu ubuntu 6.1K 2021-09-23 12:05 QTerr244.csv
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-09-23 12:05 QTerr244.db
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-09-23 12:10 QTerr244.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-23 12:05 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  221 2021-06-25 17:00 Terr244Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr244Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr245:
+total 137K
+-rwxrwxrwx 1 ubuntu ubuntu  119 2021-06-25 17:00 Terr245DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-09-09 11:20 Terr245_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-09-09 08:54 Terr245_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-09-09 08:56 Terr245_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-09-09 08:51 Terr245_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-09-09 11:21 Terr245_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-09 08:51 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr245/Working-Files:
+total 110K
+-rwxrwxrwx 1 ubuntu ubuntu 6.6K 2021-09-09 08:49 QTerr245.csv
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-09-09 08:49 QTerr245.db
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-09-09 08:51 QTerr245.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-09 08:49 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  223 2021-06-25 17:00 Terr245Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr245Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr246:
+total 129K
+-rwxrwxrwx 1 ubuntu ubuntu  220 2021-06-25 17:00 Terr246DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-09-09 23:39 Terr246_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-09 23:40 Terr246_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-09-09 23:40 Terr246_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-09 23:39 Terr246_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-09-09 23:40 Terr246_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-09 23:39 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr246/Working-Files:
+total 98K
+-rwxrwxrwx 1 ubuntu ubuntu 6.9K 2021-09-09 23:37 QTerr246.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-09 23:37 QTerr246.db
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-09-09 23:39 QTerr246.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-09 23:37 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  223 2021-06-25 17:00 Terr246Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr246Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr247:
+total 129K
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-09-09 18:42 Terr247_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-09 18:43 Terr247_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-09-09 18:44 Terr247_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-09 18:42 Terr247_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-09-09 18:43 Terr247_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-09 18:42 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr247/Working-Files:
+total 98K
+-rwxrwxrwx 1 ubuntu ubuntu 6.5K 2021-09-09 18:41 QTerr247.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-09 18:41 QTerr247.db
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-09-09 18:42 QTerr247.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-09 18:41 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  211 2021-06-25 17:00 Terr247Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr247Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr248:
+total 157K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-09-10 20:44 Terr248_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-09-10 20:46 Terr248_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-09-10 20:46 Terr248_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-09-10 20:44 Terr248_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-09-10 20:45 Terr248_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-10 20:44 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr248/Working-Files:
+total 130K
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-09-10 20:42 QTerr248.csv
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-09-10 20:42 QTerr248.db
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-09-10 20:44 QTerr248.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-10 20:42 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  242 2021-06-25 17:00 Terr248Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr248Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr249:
+total 149K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-09-11 16:37 Terr249_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-09-11 16:39 Terr249_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-09-11 16:39 Terr249_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-09-11 16:37 Terr249_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-09-11 16:39 Terr249_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 16:37 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-09-11 16:41 junk.txt
+
+./Terr249/Working-Files:
+total 122K
+-rwxrwxrwx 1 ubuntu ubuntu  10K 2021-09-11 16:34 QTerr249.csv
+-rwxrwxrwx 1 ubuntu ubuntu  56K 2021-09-11 16:34 QTerr249.db
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-11 16:37 QTerr249.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-11 16:34 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-06-25 17:00 Terr249Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr249Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr250:
+total 121K
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-09-11 17:57 Terr250_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-09-11 17:57 Terr250_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-09-11 17:57 Terr250_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-11 17:57 Terr250_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-09-11 17:57 Terr250_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 17:57 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr250/Working-Files:
+total 98K
+-rwxrwxrwx 1 ubuntu ubuntu 6.9K 2021-09-11 16:48 QTerr250.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-11 16:48 QTerr250.db
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-09-11 17:57 QTerr250.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-11 16:48 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  210 2021-06-25 17:00 Terr250Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr250Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr251:
+total 129K
+-rwxrwxrwx 1 ubuntu ubuntu  415 2021-06-25 17:00 Terr251DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-09-11 17:49 Terr251_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-11 17:52 Terr251_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-09-11 17:52 Terr251_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-11 17:49 Terr251_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-09-11 17:51 Terr251_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-11 17:49 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   62 2021-06-25 17:00 junk.txt
+
+./Terr251/Working-Files:
+total 98K
+-rwxrwxrwx 1 ubuntu ubuntu 7.0K 2021-09-11 17:47 QTerr251.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-11 17:47 QTerr251.db
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-09-11 17:49 QTerr251.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-11 17:47 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  212 2021-06-25 17:00 Terr251Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr251Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr252:
+total 512
+-rwxrwxrwx 1 ubuntu ubuntu 355 2021-06-25 17:00 Terr252DNC.csv
+
+./Terr254:
+total 117K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-07-16 21:26 Terr254_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-07-16 21:27 Terr254_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 8.8K 2021-07-16 21:27 Terr254_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-07-16 21:27 Terr254_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-07-16 21:27 Terr254_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:27 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr254/Working-Files:
+total 98K
+-rwxrwxrwx 1 ubuntu ubuntu 4.5K 2021-07-16 20:40 QTerr254.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-07-16 20:40 QTerr254.db
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-07-16 21:27 QTerr254.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:40 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  208 2021-06-25 17:00 Terr254Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr254Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr255:
+total 121K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-07-16 21:27 Terr255_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-07-16 21:27 Terr255_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 9.5K 2021-07-16 21:27 Terr255_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-07-16 21:27 Terr255_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-07-16 21:27 Terr255_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:27 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr255/Working-Files:
+total 102K
+-rwxrwxrwx 1 ubuntu ubuntu 5.7K 2021-07-16 20:40 QTerr255.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-07-16 20:40 QTerr255.db
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-07-16 21:27 QTerr255.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:40 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  203 2021-06-25 17:00 Terr255Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr255Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr256:
+total 117K
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-07-16 21:27 Terr256_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-07-16 21:27 Terr256_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-07-16 21:27 Terr256_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-07-16 21:28 Terr256_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-07-16 21:28 Terr256_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:28 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr256/Working-Files:
+total 102K
+-rwxrwxrwx 1 ubuntu ubuntu 5.9K 2021-07-16 20:40 QTerr256.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-07-16 20:40 QTerr256.db
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-07-16 21:27 QTerr256.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:40 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  208 2021-06-25 17:00 Terr256Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr256Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr257:
+total 141K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-07-16 21:28 Terr257_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-07-16 21:28 Terr257_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-07-16 21:28 Terr257_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-07-16 21:28 Terr257_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-07-16 21:28 Terr257_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:28 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr257/Working-Files:
+total 130K
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-07-16 20:40 QTerr257.csv
+-rwxrwxrwx 1 ubuntu ubuntu  56K 2021-07-16 20:40 QTerr257.db
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-07-16 21:28 QTerr257.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:40 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  196 2021-06-25 17:00 Terr257Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr257Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr258:
+total 140K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-10-01 19:29 Terr258_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-10-02 05:04 Terr258_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-10-02 05:04 Terr258_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-10-01 19:30 Terr258_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-10-02 05:04 Terr258_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:30 Working-Files
+
+./Terr258/Working-Files:
+total 118K
+-rwxrwxrwx 1 ubuntu ubuntu 7.1K 2021-10-01 19:09 QTerr258.csv
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-10-01 19:09 QTerr258.db
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-10-01 19:30 QTerr258.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:09 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  230 2021-06-25 17:00 Terr258Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr258Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr259:
+total 129K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-07-16 21:29 Terr259_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-07-16 21:29 Terr259_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-07-16 21:29 Terr259_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-07-16 21:29 Terr259_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-07-16 21:29 Terr259_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:29 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr259/Working-Files:
+total 118K
+-rwxrwxrwx 1 ubuntu ubuntu 6.7K 2021-07-16 20:40 QTerr259.csv
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-07-16 20:40 QTerr259.db
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-07-16 21:29 QTerr259.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:40 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  255 2021-06-25 17:00 Terr259Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr259Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr260:
+total 185K
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 Terr260_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-06-25 17:00 Terr260_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-06-25 17:00 Terr260_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-06-25 17:00 Terr260_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-06-25 17:00 Terr260_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:52 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr260/Working-Files:
+total 214K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-07-17 23:52 QTerr260.csv
+-rwxrwxrwx 1 ubuntu ubuntu 104K 2021-07-17 23:52 QTerr260.db
+-rwxrwxrwx 1 ubuntu ubuntu  68K 2021-06-25 17:00 QTerr260.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:52 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  241 2021-06-25 17:00 Terr260Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr260Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr261:
+total 117K
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-07-07 08:40 Terr261_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-07-07 08:42 Terr261_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 9.2K 2021-07-07 08:42 Terr261_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-07-07 08:41 Terr261_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-07-07 08:42 Terr261_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 08:41 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr261/Working-Files:
+total 102K
+-rwxrwxrwx 1 ubuntu ubuntu 5.0K 2021-07-07 08:38 QTerr261.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-07-07 08:35 QTerr261.db
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-07-07 08:41 QTerr261.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-07-07 08:35 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  234 2021-06-25 17:00 Terr261Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-06-25 17:00 Terr261Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr262:
+total 121K
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-07-07 08:47 Terr262_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-07-07 08:47 Terr262_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-07-07 08:47 Terr262_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-07-07 08:49 Terr262_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-07-07 08:49 Terr262_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 08:48 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-06-25 17:00 junk.txt
+
+./Terr262/Working-Files:
+total 102K
+-rwxrwxrwx 1 ubuntu ubuntu 6.3K 2021-07-07 08:35 QTerr262.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-07-07 08:35 QTerr262.db
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-07-07 08:48 QTerr262.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-07-07 08:35 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  242 2021-06-25 17:00 Terr262Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr262Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr263:
+total 113K
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-07-07 10:37 Terr263_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-07-07 10:37 Terr263_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 8.9K 2021-07-07 10:37 Terr263_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-07-07 10:39 Terr263_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-07-07 10:38 Terr263_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 10:38 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr263/Working-Files:
+total 102K
+-rwxrwxrwx 1 ubuntu ubuntu 4.5K 2021-07-07 08:35 QTerr263.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-07-07 08:35 QTerr263.db
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-07-07 10:38 QTerr263.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-07-07 08:35 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  228 2021-06-25 17:00 Terr263Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr263Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr264:
+total 113K
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-07-07 10:42 Terr264_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-07-07 10:42 Terr264_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 9.0K 2021-07-07 10:42 Terr264_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-07-07 10:44 Terr264_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-07-07 10:44 Terr264_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 10:43 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr264/Working-Files:
+total 102K
+-rwxrwxrwx 1 ubuntu ubuntu 4.8K 2021-07-07 08:35 QTerr264.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-07-07 08:35 QTerr264.db
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-07-07 10:43 QTerr264.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-07-07 08:35 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  246 2021-06-25 17:00 Terr264Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-06-25 17:00 Terr264Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr265:
+total 437K
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-06-25 17:00 QTerr265.ods
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 QTerr265_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-06-25 17:00 QTerr265_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-06-25 17:00 QTerr265_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-06-25 17:00 Terr265.ods
+-rwxrwxrwx 1 ubuntu ubuntu  499 2021-06-25 17:00 Terr265DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-09-23 14:00 Terr265_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  59K 2021-09-23 14:02 Terr265_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-09-23 14:02 Terr265_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 Terr265_PubTerr_New.ods
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-09-23 14:00 Terr265_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-09-23 14:01 Terr265_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 14:01 Working-Files
+
+./Terr265/Working-Files:
+total 250K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-09-23 13:59 QTerr265.csv
+-rwxrwxrwx 1 ubuntu ubuntu 128K 2021-09-23 13:59 QTerr265.db
+-rwxrwxrwx 1 ubuntu ubuntu  74K 2021-09-23 14:00 QTerr265.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-23 13:59 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  226 2021-06-25 17:00 Terr265Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr265Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr266:
+total 177K
+-rwxrwxrwx 1 ubuntu ubuntu  334 2021-06-25 17:00 Terr266DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-02 21:38 Terr266_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-09-02 21:43 Terr266_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-09-02 21:42 Terr266_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 Terr266_SuperTerr,ods.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-09-02 21:38 Terr266_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-09-02 21:42 Terr266_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-02 21:38 Working-Files
+
+./Terr266/Working-Files:
+total 130K
+-rwxrwxrwx 1 ubuntu ubuntu 11K 2021-09-02 21:36 QTerr266.csv
+-rwxrwxrwx 1 ubuntu ubuntu 56K 2021-09-02 21:36 QTerr266.db
+-rwxrwxrwx 1 ubuntu ubuntu 48K 2021-09-02 21:38 QTerr266.ods
+-rwxrwxrwx 1 ubuntu ubuntu 213 2021-09-02 21:36 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu 189 2021-06-25 17:00 Terr266Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 11K 2021-06-25 17:00 Terr266Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  90 2021-06-25 17:00 junk.txt
+
+./Terr267:
+total 152K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-02 21:39 Terr267_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-09-02 21:41 Terr267_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-09-02 21:41 Terr267_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-09-02 21:39 Terr267_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-09-02 21:40 Terr267_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-02 21:39 Working-Files
+
+./Terr267/Working-Files:
+total 130K
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-09-02 21:37 QTerr267.csv
+-rwxrwxrwx 1 ubuntu ubuntu  56K 2021-09-02 21:36 QTerr267.db
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-09-02 21:39 QTerr267.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-02 21:37 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  204 2021-06-25 17:00 Terr267Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr267Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr268:
+total 133K
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-09-10 13:03 Terr268_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-09-10 13:05 Terr268_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-09-10 13:05 Terr268_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-10 13:03 Terr268_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-09-10 13:04 Terr268_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-10 13:03 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-09-10 06:29 junk.txt
+
+./Terr268/Working-Files:
+total 85K
+-rwxrwxrwx 1 ubuntu ubuntu 7.2K 2021-09-10 12:57 QTerr268.csv
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-09-10 12:57 QTerr268.db
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-09-10 13:03 QTerr268.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-10 12:57 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  216 2021-09-10 06:29 Terr268Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-09-10 06:30 Terr268Hdr.ods
+
+./Terr269:
+total 117K
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-07-14 21:02 Terr269_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-07-14 21:02 Terr269_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 9.5K 2021-07-14 21:02 Terr269_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-07-14 21:02 Terr269_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-07-14 21:02 Terr269_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:52 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr269/Working-Files:
+total 98K
+-rwxrwxrwx 1 ubuntu ubuntu 5.6K 2021-07-17 23:52 QTerr269.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-07-17 23:52 QTerr269.db
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-07-14 21:02 QTerr269.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:52 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  219 2021-06-25 17:00 Terr269Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr269Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr270:
+total 165K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 Terr270_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-06-25 17:00 Terr270_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-06-25 17:00 Terr270_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-06-25 17:00 Terr270_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-06-25 17:00 Terr270_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-11 15:22 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr270/Working-Files:
+total 178K
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-06-25 17:00 QTerr270.csv
+-rwxrwxrwx 1 ubuntu ubuntu  88K 2021-06-25 17:00 QTerr270.db
+-rwxrwxrwx 1 ubuntu ubuntu  56K 2021-06-25 17:00 QTerr270.ods
+-rwxrwxrwx 1 ubuntu ubuntu  145 2021-06-25 17:00 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  212 2021-06-25 17:00 Terr270Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr270Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr271:
+total 201K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-08-22 19:04 Terr271_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-08-22 19:04 Terr271_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-08-22 19:04 Terr271_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-08-22 19:04 Terr271_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-08-22 19:04 Terr271_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-08-22 19:04 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr271/Working-Files:
+total 246K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-07-16 20:41 QTerr271.csv
+-rwxrwxrwx 1 ubuntu ubuntu 120K 2021-07-16 20:41 QTerr271.db
+-rwxrwxrwx 1 ubuntu ubuntu  78K 2021-08-22 19:04 QTerr271.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-16 20:41 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  219 2021-06-25 17:00 Terr271Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr271Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr272:
+total 205K
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-09-04 10:41 Terr272_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  57K 2021-09-04 10:44 Terr272_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-09-04 10:43 Terr272_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-09-04 10:42 Terr272_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-09-04 10:43 Terr272_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-04 10:42 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr272/Working-Files:
+total 230K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-04 10:39 QTerr272.csv
+-rwxrwxrwx 1 ubuntu ubuntu 116K 2021-09-04 10:39 QTerr272.db
+-rwxrwxrwx 1 ubuntu ubuntu  69K 2021-09-04 10:42 QTerr272.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-04 10:39 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  210 2021-06-25 17:00 Terr272Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr272Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr273:
+total 181K
+-rwxrwxrwx 1 ubuntu ubuntu  351 2021-06-25 17:00 Terr273DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-10-01 19:30 Terr273_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  54K 2021-10-02 05:08 Terr273_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-10-02 05:08 Terr273_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-10-01 19:30 Terr273_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-10-02 05:07 Terr273_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:30 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr273/Working-Files:
+total 258K
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-10-01 19:09 QTerr273.csv
+-rwxrwxrwx 1 ubuntu ubuntu 156K 2021-10-01 19:09 QTerr273.db
+-rwxrwxrwx 1 ubuntu ubuntu  63K 2021-10-01 19:30 QTerr273.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:09 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  239 2021-06-25 17:00 Terr273Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr273Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr274:
+total 433K
+-rwxrwxrwx 1 ubuntu ubuntu  290 2021-06-25 17:00 Terr274DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-06-25 17:00 Terr274_PubTerr (SAVE).ods
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-06-25 17:00 Terr274_PubTerr(new).ods
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-06-25 17:00 Terr274_PubTerr(sample).ods
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 Terr274_PubTerr(sample).pdf
+-rwxrwxrwx 1 ubuntu ubuntu 7.2K 2021-06-25 17:00 Terr274_PubTerr(sample).xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-09-06 14:18 Terr274_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  74K 2021-09-06 14:18 Terr274_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-09-06 14:16 Terr274_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  60K 2021-09-06 14:16 Terr274_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  74K 2021-09-06 14:17 Terr274_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-06 14:16 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-07-17 07:14 junk.txt
+
+./Terr274/Working-Files:
+total 606K
+-rwxrwxrwx 1 ubuntu ubuntu  65K 2021-06-25 17:00 QTerr274 (SAVE).ods
+-rwxrwxrwx 1 ubuntu ubuntu  56K 2021-09-06 14:14 QTerr274.csv
+-rwxrwxrwx 1 ubuntu ubuntu 244K 2021-09-06 14:14 QTerr274.db
+-rwxrwxrwx 1 ubuntu ubuntu 122K 2021-09-06 14:16 QTerr274.ods
+-rwxrwxrwx 1 ubuntu ubuntu  97K 2021-06-25 17:00 QTerr274_New.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-06 14:14 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  233 2021-06-25 17:00 Terr274Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr274Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr275:
+total 161K
+-rwxrwxrwx 1 ubuntu ubuntu  439 2021-06-25 17:00 Terr275DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-07-14 21:02 Terr275_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-07-14 21:02 Terr275_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-07-14 21:02 Terr275_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-07-14 21:02 Terr275_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-07-14 21:02 Terr275_SuperTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-06-25 17:00 TerrGenerationTable.ods
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-14 21:02 Working-Files
+
+./Terr275/Working-Files:
+total 126K
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-06-25 17:00 QTerr275.csv
+-rwxrwxrwx 1 ubuntu ubuntu  56K 2021-06-25 17:00 QTerr275.db
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-07-14 21:02 QTerr275.ods
+-rwxrwxrwx 1 ubuntu ubuntu  145 2021-06-25 17:00 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  259 2021-06-25 17:00 Terr275Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr275Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr276:
+total 512
+-rwxrwxrwx 1 ubuntu ubuntu 283 2021-06-25 17:00 Terr276DNC.csv
+
+./Terr277:
+total 161K
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-16 13:17 Terr277_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-09-16 13:19 Terr277_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-09-16 13:31 Terr277_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-09-16 13:17 Terr277_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-16 13:31 Terr277_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-16 13:17 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-09-16 12:13 junk.txt
+
+./Terr277/Working-Files:
+total 141K
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-09-16 13:16 QTerr277.csv
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-09-16 13:16 QTerr277.db
+-rwxrwxrwx 1 ubuntu ubuntu  53K 2021-09-16 13:17 QTerr277.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-16 13:16 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  219 2021-09-16 12:13 Terr277Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-09-16 12:16 Terr277Hdr.ods
+
+./Terr278:
+total 141K
+-rwxrwxrwx 1 ubuntu ubuntu  184 2021-06-25 17:00 Terr278DNC.csv
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-16 13:48 Terr278_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-09-16 13:50 Terr278_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-09-16 13:50 Terr278_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-09-16 13:48 Terr278_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-09-16 13:50 Terr278_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-16 13:48 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-09-16 12:30 junk.txt
+
+./Terr278/Working-Files:
+total 89K
+-rwxrwxrwx 1 ubuntu ubuntu 7.0K 2021-09-16 13:47 QTerr278.csv
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-09-16 13:47 QTerr278.db
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-16 13:48 QTerr278.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-16 13:47 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  198 2021-09-16 13:45 Terr278Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-09-16 13:46 Terr278Hdr.ods
+
+./Terr279:
+total 133K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-09-01 22:56 Terr279_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-01 22:58 Terr279_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 9.4K 2021-09-01 22:58 Terr279_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-09-01 22:56 Terr279_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-09-01 22:57 Terr279_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-01 22:56 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr279/Working-Files:
+total 206K
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-06-25 17:00 Fix279.sql
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-06-25 17:00 Fix279PubUnits.sql
+-rwxrwxrwx 1 ubuntu ubuntu 6.0K 2021-09-01 22:54 QTerr279.csv
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-09-01 22:54 QTerr279.db
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-09-01 22:56 QTerr279.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-01 22:54 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  294 2021-06-25 17:00 ShortSort.csv
+-rwxrwxrwx 1 ubuntu ubuntu  199 2021-06-25 17:00 Terr279Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr279Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu 8.3K 2021-06-25 17:00 Terr279_MSorted.csv
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-06-25 17:00 Terr279_Merge.db
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr280:
+total 125K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-02 12:14 Terr280_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-09-02 12:08 Terr280_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-09-02 12:08 Terr280_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-09-02 12:13 Terr280_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-09-02 12:07 Terr280_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-02 12:04 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr280/Working-Files:
+total 106K
+-rwxrwxrwx 1 ubuntu ubuntu 7.1K 2021-09-02 12:02 QTerr280.csv
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-09-02 12:02 QTerr280.db
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-09-02 12:04 QTerr280.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-02 12:02 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  199 2021-06-25 17:00 Terr280Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr280Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr281:
+total 213K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-02 19:15 Terr281_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-09-02 19:18 Terr281_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-09-02 19:18 Terr281_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-06-25 17:00 Terr281_PubTerr_old.ods
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-06-25 17:00 Terr281_PubTerr_old.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 7.8K 2021-06-25 17:00 Terr281_PubTerr_old.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-09-02 19:15 Terr281_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-09-02 19:17 Terr281_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-02 19:15 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr281/Working-Files:
+total 242K
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-06-25 17:00 Fix281PubUnits.sql
+-rwxrwxrwx 1 ubuntu ubuntu 9.3K 2021-09-02 19:13 QTerr281.csv
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-09-02 19:13 QTerr281.db
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-09-02 19:15 QTerr281.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-02 19:13 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  220 2021-06-25 17:00 Terr281Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr281Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu 7.4K 2021-06-25 17:00 Terr281_MBridge.csv
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 Terr281_MBridge.ods
+-rwxrwxrwx 1 ubuntu ubuntu 7.9K 2021-06-25 17:00 Terr281_MSorted.csv
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-06-25 17:00 Terr281_MSorted.ods
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-06-25 17:00 Terr281_Merge.db
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr282:
+total 141K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-09-16 14:54 Terr282_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-09-16 14:56 Terr282_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-09-16 14:59 Terr282_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-09-16 14:54 Terr282_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-09-16 14:59 Terr282_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-16 14:54 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  169 2021-06-25 17:00 junk.txt
+
+./Terr282/Working-Files:
+total 122K
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-09-16 14:52 QTerr282.csv
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-09-16 14:52 QTerr282.db
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-09-16 14:54 QTerr282.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-16 14:52 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  187 2021-06-25 17:00 Terr282Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  10K 2021-06-25 17:00 Terr282Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr283:
+total 141K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-18 13:28 Terr283_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-09-18 13:31 Terr283_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-09-18 13:32 Terr283_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-09-18 13:28 Terr283_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-09-18 13:32 Terr283_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-18 13:28 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  169 2021-06-25 17:00 junk.txt
+
+./Terr283/Working-Files:
+total 122K
+-rwxrwxrwx 1 ubuntu ubuntu  10K 2021-09-18 13:25 QTerr283.csv
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-09-18 13:25 QTerr283.db
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-09-18 13:28 QTerr283.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-18 13:25 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  199 2021-06-25 17:00 Terr283Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr283Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr284:
+total 125K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 Terr284_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-06-25 17:00 Terr284_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-06-25 17:00 Terr284_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-06-25 17:00 Terr284_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-06-25 17:00 Terr284_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:55 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr284/Working-Files:
+total 114K
+-rwxrwxrwx 1 ubuntu ubuntu 4.6K 2021-07-17 23:55 QTerr284.csv
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-07-17 23:55 QTerr284.db
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-06-25 17:00 QTerr284.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:55 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  225 2021-06-25 17:00 Terr284Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr284Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr285:
+total 141K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-10-01 19:30 Terr285_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-10-02 05:10 Terr285_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-10-02 05:10 Terr285_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-10-01 19:31 Terr285_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-10-02 05:09 Terr285_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:31 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr285/Working-Files:
+total 106K
+-rwxrwxrwx 1 ubuntu ubuntu 7.3K 2021-10-01 19:09 QTerr285.csv
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-10-01 19:09 QTerr285.db
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-10-01 19:31 QTerr285.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:09 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  214 2021-06-25 17:00 Terr285Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr285Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr286:
+total 125K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-10-01 19:31 Terr286_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-10-02 05:13 Terr286_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 8.3K 2021-10-02 05:13 Terr286_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-10-01 19:31 Terr286_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-10-02 05:12 Terr286_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:31 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr286/Working-Files:
+total 102K
+-rwxrwxrwx 1 ubuntu ubuntu 4.5K 2021-10-01 19:09 QTerr286.csv
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-10-01 19:09 QTerr286.db
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-10-01 19:31 QTerr286.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:09 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  216 2021-06-25 17:00 Terr286Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr286Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr287:
+total 153K
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-07-16 21:31 Terr287_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-07-16 21:31 Terr287_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-07-16 21:31 Terr287_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-06-25 17:00 Terr287_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-06-25 17:00 Terr287_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-16 21:36 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr287/Working-Files:
+total 190K
+-rwxrwxrwx 1 ubuntu ubuntu 14K 2021-06-25 17:00 QTerr287 (copy).csv
+-rwxrwxrwx 1 ubuntu ubuntu 34K 2021-06-25 17:00 QTerr287 (copy).ods
+-rwxrwxrwx 1 ubuntu ubuntu 15K 2021-07-16 20:41 QTerr287.csv
+-rwxrwxrwx 1 ubuntu ubuntu 68K 2021-07-16 20:41 QTerr287.db
+-rwxrwxrwx 1 ubuntu ubuntu 37K 2021-07-16 21:31 QTerr287.ods
+-rwxrwxrwx 1 ubuntu ubuntu 213 2021-07-16 20:41 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu 223 2021-06-25 17:00 Terr287Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 12K 2021-06-25 17:00 Terr287Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  90 2021-06-25 17:00 junk.txt
+
+./Terr288:
+total 157K
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-10-01 19:32 Terr288_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-02 05:15 Terr288_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-10-02 05:15 Terr288_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-10-01 19:32 Terr288_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-10-02 05:14 Terr288_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:32 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-08-14 07:03 junk.txt
+
+./Terr288/Working-Files:
+total 162K
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-10-01 19:09 QTerr288.csv
+-rwxrwxrwx 1 ubuntu ubuntu  80K 2021-10-01 19:09 QTerr288.db
+-rwxrwxrwx 1 ubuntu ubuntu  50K 2021-10-01 19:32 QTerr288.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:09 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  174 2021-06-25 17:00 Terr288Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr288Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr289:
+total 161K
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-09-07 11:53 Terr289_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-09-07 11:55 Terr289_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-09-07 11:55 Terr289_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-09-07 11:53 Terr289_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-07 11:55 Terr289_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-07 11:53 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr289/Working-Files:
+total 154K
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-09-07 11:52 QTerr289.csv
+-rwxrwxrwx 1 ubuntu ubuntu  68K 2021-09-07 11:52 QTerr289.db
+-rwxrwxrwx 1 ubuntu ubuntu  53K 2021-09-07 11:53 QTerr289.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-07 11:52 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  250 2021-06-25 17:00 Terr289Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr289Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr290:
+total 145K
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-10-09 12:56 Terr290_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-10-09 12:58 Terr290_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-10-09 12:58 Terr290_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-10-09 12:57 Terr290_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-07 11:38 Terr290_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-07 11:34 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr290/Working-Files:
+total 146K
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-09-07 11:29 QTerr290.csv
+-rwxrwxrwx 1 ubuntu ubuntu  64K 2021-09-07 11:29 QTerr290.db
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-09-07 11:34 QTerr290.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-07 11:29 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  214 2021-06-25 17:00 Terr290Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr290Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr291:
+total 153K
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-07 11:34 Terr291_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-09-07 11:37 Terr291_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-09-07 11:36 Terr291_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-09-07 11:35 Terr291_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-09-07 11:36 Terr291_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-07 11:35 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr291/Working-Files:
+total 114K
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-09-07 11:29 QTerr291.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-09-07 11:29 QTerr291.db
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-09-07 11:35 QTerr291.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-07 11:29 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  247 2021-06-25 17:00 Terr291Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr291Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr301:
+total 200K
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-10-01 19:32 Terr301_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  54K 2021-10-02 05:18 Terr301_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-10-02 05:18 Terr301_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-10-01 19:32 Terr301_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-10-02 05:17 Terr301_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-01 19:32 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu 1.5K 2021-06-25 17:00 junk.txt
+
+./Terr301/Working-Files:
+total 198K
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-10-01 19:09 QTerr301.csv
+-rwxrwxrwx 1 ubuntu ubuntu  92K 2021-10-01 19:09 QTerr301.db
+-rwxrwxrwx 1 ubuntu ubuntu  66K 2021-10-01 19:32 QTerr301.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-01 19:09 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  231 2021-06-25 17:00 Terr301Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr301Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr302:
+total 173K
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-09-16 20:08 Terr302_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-09-16 20:08 Terr302_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-09-16 20:03 Terr302_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-09-16 20:14 Terr302_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-09-16 20:08 Terr302_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-16 20:03 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr302/Working-Files:
+total 178K
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-09-16 20:01 QTerr302.csv
+-rwxrwxrwx 1 ubuntu ubuntu  80K 2021-09-16 20:01 QTerr302.db
+-rwxrwxrwx 1 ubuntu ubuntu  62K 2021-09-16 20:03 QTerr302.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-16 20:01 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  230 2021-06-25 17:00 Terr302Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr302Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr303:
+total 169K
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-09-04 10:00 Terr303_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-09-04 10:02 Terr303_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-09-04 10:01 Terr303_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-09-04 10:00 Terr303_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-09-04 10:01 Terr303_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-04 10:00 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr303/Working-Files:
+total 154K
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-09-04 09:58 QTerr303.csv
+-rwxrwxrwx 1 ubuntu ubuntu  68K 2021-09-04 09:58 QTerr303.db
+-rwxrwxrwx 1 ubuntu ubuntu  56K 2021-09-04 10:00 QTerr303.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-04 09:58 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  231 2021-06-25 17:00 Terr303Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr303Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr304:
+total 237K
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-06-25 17:00 Terr304_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  60K 2021-06-25 17:00 Terr304_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-06-25 17:00 Terr304_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-06-25 17:00 Terr304_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  58K 2021-06-25 17:00 Terr304_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:55 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr304/Working-Files:
+total 286K
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-07-17 23:55 QTerr304.csv
+-rwxrwxrwx 1 ubuntu ubuntu 144K 2021-07-17 23:55 QTerr304.db
+-rwxrwxrwx 1 ubuntu ubuntu  86K 2021-06-25 17:00 QTerr304.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:55 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  231 2021-06-25 17:00 Terr304Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr304Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr305:
+total 209K
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-09-23 16:47 Terr305_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  58K 2021-09-23 16:49 Terr305_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-23 16:49 Terr305_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-09-23 16:47 Terr305_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-09-23 16:48 Terr305_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 16:47 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr305/Working-Files:
+total 222K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-23 16:46 QTerr305.csv
+-rwxrwxrwx 1 ubuntu ubuntu 104K 2021-09-23 16:46 QTerr305.db
+-rwxrwxrwx 1 ubuntu ubuntu  74K 2021-09-23 16:47 QTerr305.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-23 16:46 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  234 2021-06-25 17:00 Terr305Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr305Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr306:
+total 216K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-09-23 17:19 Terr306_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  59K 2021-09-23 17:21 Terr306_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-23 17:20 Terr306_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-09-23 17:19 Terr306_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-09-23 17:20 Terr306_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 17:19 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  817 2021-06-25 17:00 junk.txt
+
+./Terr306/Working-Files:
+total 222K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-23 17:18 QTerr306.csv
+-rwxrwxrwx 1 ubuntu ubuntu 104K 2021-09-23 17:18 QTerr306.db
+-rwxrwxrwx 1 ubuntu ubuntu  73K 2021-09-23 17:19 QTerr306.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-23 17:18 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  227 2021-06-25 17:00 Terr306Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr306Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr307:
+total 213K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-09-23 17:38 Terr307_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  51K 2021-09-23 17:40 Terr307_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-09-23 17:39 Terr307_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-09-23 17:38 Terr307_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-09-23 17:39 Terr307_SuperTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-06-25 17:00 Untitled 1.ods
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 17:38 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  182 2021-06-25 17:00 junk.txt
+
+./Terr307/Working-Files:
+total 182K
+-rwxrwxrwx 1 ubuntu ubuntu 18K 2021-09-23 17:37 QTerr307.csv
+-rwxrwxrwx 1 ubuntu ubuntu 84K 2021-09-23 17:37 QTerr307.db
+-rwxrwxrwx 1 ubuntu ubuntu 61K 2021-09-23 17:38 QTerr307.ods
+-rwxrwxrwx 1 ubuntu ubuntu 191 2021-09-23 17:37 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu 250 2021-06-25 17:00 Terr307Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 10K 2021-06-25 17:00 Terr307Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  90 2021-06-25 17:00 junk.txt
+
+./Terr308:
+total 245K
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-06-25 17:00 Terr308_Old.ods
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 Terr308_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-06-25 17:00 Terr308_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-06-25 17:00 Terr308_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-06-25 17:00 Terr308_PubTerr_Old.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-06-25 17:00 Terr308_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-06-25 17:00 Terr308_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-06-09 07:06 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  127 2021-06-25 17:00 junk.txt
+
+./Terr308/Working-Files:
+total 362K
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-06-25 17:00 QTerr308.csv
+-rwxrwxrwx 1 ubuntu ubuntu 104K 2021-06-25 17:00 QTerr308.db
+-rwxrwxrwx 1 ubuntu ubuntu  65K 2021-06-25 17:00 QTerr308.ods
+-rwxrwxrwx 1 ubuntu ubuntu  145 2021-06-25 17:00 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-06-25 17:00 Terr308.csv
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-06-25 17:00 Terr308.ods
+-rwxrwxrwx 1 ubuntu ubuntu  215 2021-06-25 17:00 Terr308Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr308Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu 8.2K 2021-06-25 17:00 Terr308PropIDs.csv
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-06-25 17:00 Terr308PropIDs.ods
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-06-25 17:00 Terr308_1.csv
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-06-25 17:00 Terr308_Bridge.csv
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 Terr308_Bridge.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr309:
+total 193K
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-06-25 17:00 Terr309_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  50K 2021-06-25 17:00 Terr309_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-06-25 17:00 Terr309_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-06-25 17:00 Terr309_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-06-25 17:00 Terr309_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:56 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  182 2021-06-25 17:00 junk.txt
+
+./Terr309/Working-Files:
+total 214K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-07-17 23:56 QTerr309.csv
+-rwxrwxrwx 1 ubuntu ubuntu 104K 2021-07-17 23:56 QTerr309.db
+-rwxrwxrwx 1 ubuntu ubuntu  69K 2021-06-25 17:00 QTerr309.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:56 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  226 2021-06-25 17:00 Terr309Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr309Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr310:
+total 225K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-09-14 15:33 Terr310_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  61K 2021-09-14 15:36 Terr310_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-14 15:36 Terr310_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-09-14 15:34 Terr310_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-09-14 15:35 Terr310_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-14 15:34 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  182 2021-06-25 17:00 junk.txt
+
+./Terr310/Working-Files:
+total 254K
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-09-14 15:31 QTerr310.csv
+-rwxrwxrwx 1 ubuntu ubuntu 128K 2021-09-14 15:31 QTerr310.db
+-rwxrwxrwx 1 ubuntu ubuntu  78K 2021-09-14 15:34 QTerr310.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-09-14 15:31 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  224 2021-06-25 17:00 Terr310Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr310Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr311:
+total 321K
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-09-18 23:41 Terr311_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  86K 2021-09-18 23:43 Terr311_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-09-18 23:43 Terr311_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  60K 2021-09-18 23:41 Terr311_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  84K 2021-09-18 23:42 Terr311_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-18 23:41 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  182 2021-06-25 17:00 junk.txt
+
+./Terr311/Working-Files:
+total 390K
+-rwxrwxrwx 1 ubuntu ubuntu  57K 2021-09-18 23:40 QTerr311.csv
+-rwxrwxrwx 1 ubuntu ubuntu 192K 2021-09-18 23:40 QTerr311.db
+-rwxrwxrwx 1 ubuntu ubuntu 122K 2021-09-18 23:41 QTerr311.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-18 23:40 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  235 2021-06-25 17:00 Terr311Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr311Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr312:
+total 221K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-06-25 17:00 Terr312_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  55K 2021-06-25 17:00 Terr312_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-06-25 17:00 Terr312_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-06-25 17:00 Terr312_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  53K 2021-06-25 17:00 Terr312_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:56 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr312/Working-Files:
+total 254K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-07-17 23:56 QTerr312.csv
+-rwxrwxrwx 1 ubuntu ubuntu 128K 2021-07-17 23:56 QTerr312.db
+-rwxrwxrwx 1 ubuntu ubuntu  78K 2021-06-25 17:00 QTerr312.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:56 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  231 2021-06-25 17:00 Terr312Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr312Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr313:
+total 185K
+-rwxrwxrwx 1 ubuntu ubuntu    0 2021-06-25 17:00 Terr313Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-06-25 17:00 Terr313_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-06-25 17:00 Terr313_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-06-25 17:00 Terr313_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-06-25 17:00 Terr313_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-06-25 17:00 Terr313_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:56 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-07-22 15:37 junk.txt
+
+./Terr313/Working-Files:
+total 206K
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-07-17 23:56 QTerr313.csv
+-rwxrwxrwx 1 ubuntu ubuntu 100K 2021-07-17 23:56 QTerr313.db
+-rwxrwxrwx 1 ubuntu ubuntu  67K 2021-06-25 17:00 QTerr313.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:56 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  246 2021-06-25 17:00 Terr313Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr313Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr314:
+total 201K
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-09-23 16:33 Terr314_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  56K 2021-09-23 16:36 Terr314_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-09-23 16:36 Terr314_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  41K 2021-09-23 16:33 Terr314_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  39K 2021-09-23 16:36 Terr314_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-23 16:33 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  182 2021-06-25 17:00 junk.txt
+
+./Terr314/Working-Files:
+total 210K
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-09-23 16:32 QTerr314.csv
+-rwxrwxrwx 1 ubuntu ubuntu 104K 2021-09-23 16:32 QTerr314.db
+-rwxrwxrwx 1 ubuntu ubuntu  68K 2021-09-23 16:33 QTerr314.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-23 16:32 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  247 2021-06-25 17:00 Terr314Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr314Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr315:
+total 149K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 Terr315_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-06-25 17:00 Terr315_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-06-25 17:00 Terr315_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-06-25 17:00 Terr315_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-06-25 17:00 Terr315_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:56 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr315/Working-Files:
+total 138K
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-07-17 23:56 QTerr315.csv
+-rwxrwxrwx 1 ubuntu ubuntu  64K 2021-07-17 23:56 QTerr315.db
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-06-25 17:00 QTerr315.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:56 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  226 2021-06-25 17:00 Terr315Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-06-25 17:00 Terr315Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr316:
+total 169K
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-06-25 17:00 Terr316_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-06-25 17:00 Terr316_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-06-25 17:00 Terr316_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-06-25 17:00 Terr316_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-06-25 17:00 Terr316_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-17 23:56 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr316/Working-Files:
+total 182K
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-07-17 23:56 QTerr316.csv
+-rwxrwxrwx 1 ubuntu ubuntu  88K 2021-07-17 23:56 QTerr316.db
+-rwxrwxrwx 1 ubuntu ubuntu  58K 2021-06-25 17:00 QTerr316.ods
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-07-17 23:56 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  229 2021-06-25 17:00 Terr316Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr316Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr317:
+total 105K
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-07-07 11:04 Terr317_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-07-07 11:05 Terr317_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 7.7K 2021-07-07 11:05 Terr317_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-07-07 10:55 Terr317_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-07-07 10:55 Terr317_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 11:04 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr317/Working-Files:
+total 66K
+-rwxrwxrwx 1 ubuntu ubuntu 2.9K 2021-07-07 10:48 QTerr317.csv
+-rwxrwxrwx 1 ubuntu ubuntu  16K 2021-07-07 10:48 QTerr317.db
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-07-07 11:04 QTerr317.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-07-07 10:48 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  222 2021-06-25 17:00 Terr317Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr317Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr318:
+total 113K
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-07-07 11:12 Terr318_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-06-25 17:00 Terr318_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 8.8K 2021-06-25 17:00 Terr318_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-07-07 11:12 Terr318_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-06-25 17:00 Terr318_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 11:11 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-06-25 17:00 junk.txt
+
+./Terr318/Working-Files:
+total 94K
+-rwxrwxrwx 1 ubuntu ubuntu 4.5K 2021-07-07 10:48 QTerr318.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-07-07 10:48 QTerr318.db
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-07-07 11:11 QTerr318.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-07-07 10:48 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  227 2021-06-25 17:00 Terr318Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr318Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr319:
+total 124K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-22 17:04 Terr319_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  37K 2021-09-22 17:06 Terr319_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 8.4K 2021-09-22 17:06 Terr319_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-09-22 17:04 Terr319_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-09-22 17:05 Terr319_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-09-22 17:04 Working-Files
+
+./Terr319/Working-Files:
+total 74K
+-rwxrwxrwx 1 ubuntu ubuntu 3.8K 2021-09-22 17:03 QTerr319.csv
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-09-22 17:03 QTerr319.db
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-09-22 17:04 QTerr319.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-09-22 17:03 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  232 2021-06-25 17:00 Terr319Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr319Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr320:
+total 125K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-07-07 12:02 Terr320_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-07-07 11:51 Terr320_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-07-07 11:51 Terr320_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-07-07 11:54 Terr320_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  17K 2021-07-07 11:53 Terr320_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 11:52 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-07-23 13:19 junk.txt
+
+./Terr320/Working-Files:
+total 102K
+-rwxrwxrwx 1 ubuntu ubuntu 6.3K 2021-07-07 10:48 QTerr320.csv
+-rwxrwxrwx 1 ubuntu ubuntu  40K 2021-07-07 10:48 QTerr320.db
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-07-07 11:52 QTerr320.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-07-07 10:48 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  231 2021-06-25 17:00 Terr320Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr320Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr321:
+total 113K
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-07-07 12:02 Terr321_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-07-07 12:04 Terr321_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 8.3K 2021-07-07 12:03 Terr321_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-07-07 12:05 Terr321_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-07-07 12:05 Terr321_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-07-07 12:04 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-07-07 12:10 junk.txt
+
+./Terr321/Working-Files:
+total 78K
+-rwxrwxrwx 1 ubuntu ubuntu 3.7K 2021-07-07 10:48 QTerr321.csv
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-07-07 10:48 QTerr321.db
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-07-07 12:04 QTerr321.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-07-07 10:48 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  213 2021-06-25 17:00 Terr321Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-06-25 17:00 Terr321Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr502:
+total 84K
+-rwxrwxrwx 1 ubuntu ubuntu 29K 2021-09-26 20:54 Terr502_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu 37K 2021-09-26 20:54 Terr502_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 12K 2021-09-26 20:54 Terr502_PubTerr.xlsx
+
+./Terr503:
+total 512
+drwxrwxrwx 1 ubuntu ubuntu  0 2021-02-17 18:34 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu 55 2021-06-25 17:00 junk.txt
+
+./Terr503/Working-Files:
+total 512
+-rwxrwxrwx 1 ubuntu ubuntu 55 2021-06-25 17:00 junk.txt
+
+./Terr504:
+total 93K
+-rwxrwxrwx 1 ubuntu ubuntu 30K 2021-09-27 23:37 Terr504_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu 42K 2021-09-27 23:37 Terr504_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 15K 2021-09-27 23:40 Terr504_PubTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu   0 2021-09-27 09:32 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu 124 2021-09-27 09:32 junk.txt
+
+./Terr504/Working-Files:
+total 0
+
+./Terr505:
+total 512
+drwxrwxrwx 1 ubuntu ubuntu   0 2021-09-27 13:43 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu 124 2021-09-27 13:43 junk.txt
+
+./Terr505/Working-Files:
+total 0
+
+./Terr603:
+total 157K
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-10-22 05:52 Terr603_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-22 05:55 Terr603_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-10-22 05:56 Terr603_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-10-22 05:52 Terr603_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-10-22 05:54 Terr603_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 05:52 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  110 2021-10-15 22:04 junk.txt
+
+./Terr603/Working-Files:
+total 109K
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-10-22 05:51 QTerr603.csv
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-10-22 05:51 QTerr603.db
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-10-22 05:52 QTerr603.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-22 05:51 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  185 2021-10-15 22:04 Terr603Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-10-15 22:12 Terr603Hdr.ods
+
+./Terr604:
+total 157K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-10-22 12:06 Terr604_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-22 12:09 Terr604_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-10-22 12:09 Terr604_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-10-22 12:06 Terr604_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-10-22 12:08 Terr604_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 12:06 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-10-15 22:06 junk.txt
+
+./Terr604/Working-Files:
+total 105K
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-10-21 14:59 QTerr604.csv
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-10-21 14:59 QTerr604.db
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-10-22 12:06 QTerr604.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-21 14:59 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  190 2021-10-15 22:06 Terr604Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-10-15 22:12 Terr604Hdr.ods
+
+./Terr605:
+total 157K
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-10-22 12:07 Terr605_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-10-22 12:11 Terr605_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-10-22 12:11 Terr605_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-10-22 12:07 Terr605_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-10-22 12:10 Terr605_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 12:07 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-10-15 22:06 junk.txt
+
+./Terr605/Working-Files:
+total 109K
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-10-21 14:59 QTerr605.csv
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-10-21 14:59 QTerr605.db
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-10-22 12:07 QTerr605.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-21 14:59 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  187 2021-10-15 22:06 Terr605Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-10-15 22:13 Terr605Hdr.ods
+
+./Terr606:
+total 157K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-10-22 12:02 Terr606_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-22 12:13 Terr606_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-10-22 12:13 Terr606_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-10-22 12:02 Terr606_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-10-22 12:12 Terr606_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 12:02 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-10-15 22:07 junk.txt
+
+./Terr606/Working-Files:
+total 109K
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-10-21 14:59 QTerr606.csv
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-10-21 14:59 QTerr606.db
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-22 12:02 QTerr606.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-21 14:59 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  179 2021-10-15 22:07 Terr606Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-10-15 22:13 Terr606Hdr.ods
+
+./Terr607:
+total 141K
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-10-22 12:03 Terr607_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-10-22 12:16 Terr607_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-10-22 12:17 Terr607_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-10-22 12:03 Terr607_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-10-22 12:15 Terr607_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 12:03 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-10-15 22:07 junk.txt
+
+./Terr607/Working-Files:
+total 105K
+-rwxrwxrwx 1 ubuntu ubuntu 8.9K 2021-10-21 14:59 QTerr607.csv
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-10-21 14:59 QTerr607.db
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-10-22 12:03 QTerr607.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-21 14:59 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  190 2021-10-15 22:07 Terr607Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-10-15 22:14 Terr607Hdr.ods
+
+./Terr609:
+total 153K
+-rwxrwxrwx 1 ubuntu ubuntu  24K 2021-10-22 11:42 Terr609_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-10-22 11:44 Terr609_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-10-22 11:44 Terr609_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-10-22 11:42 Terr609_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-10-22 11:44 Terr609_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 11:42 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-10-15 22:08 junk.txt
+
+./Terr609/Working-Files:
+total 109K
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-10-22 11:40 QTerr609.csv
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-10-22 11:40 QTerr609.db
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-22 11:42 QTerr609.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-22 11:40 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  208 2021-10-15 22:08 Terr609Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-10-15 22:15 Terr609Hdr.ods
+
+./Terr611:
+total 164K
+-rwxrwxrwx 1 ubuntu ubuntu  27K 2021-10-13 10:15 Terr611_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  50K 2021-10-13 10:17 Terr611_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-10-13 10:16 Terr611_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-10-13 10:15 Terr611_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-10-13 10:16 Terr611_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-13 10:15 Working-Files
+
+./Terr611/Working-Files:
+total 130K
+-rwxrwxrwx 1 ubuntu ubuntu  15K 2021-10-13 08:21 QTerr611.csv
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-10-13 08:21 QTerr611.db
+-rwxrwxrwx 1 ubuntu ubuntu  49K 2021-10-13 10:15 QTerr611.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-13 08:21 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  180 2021-07-03 00:33 Terr611Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-07-03 09:02 Terr611Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  152 2021-10-13 08:30 junk.txt
+
+./Terr612:
+total 161K
+-rwxrwxrwx 1 ubuntu ubuntu  29K 2021-10-21 15:04 Terr612_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  48K 2021-10-22 11:22 Terr612_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-10-22 11:22 Terr612_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  35K 2021-10-21 15:04 Terr612_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-10-22 11:22 Terr612_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-21 15:04 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-10-15 22:08 junk.txt
+
+./Terr612/Working-Files:
+total 125K
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-10-21 14:59 QTerr612.csv
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-10-21 14:59 QTerr612.db
+-rwxrwxrwx 1 ubuntu ubuntu  50K 2021-10-21 15:04 QTerr612.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-21 14:59 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  180 2021-10-15 22:08 Terr612Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-10-15 22:15 Terr612Hdr.ods
+
+./Terr614:
+total 157K
+-rwxrwxrwx 1 ubuntu ubuntu  28K 2021-10-21 15:05 Terr614_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-22 11:20 Terr614_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-10-22 11:20 Terr614_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-10-21 15:05 Terr614_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-10-22 11:19 Terr614_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-21 15:05 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-10-15 22:08 junk.txt
+
+./Terr614/Working-Files:
+total 109K
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-10-21 14:59 QTerr614.csv
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-10-21 14:59 QTerr614.db
+-rwxrwxrwx 1 ubuntu ubuntu  47K 2021-10-21 15:05 QTerr614.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-21 14:59 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  200 2021-10-15 22:08 Terr614Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-10-15 22:16 Terr614Hdr.ods
+
+./Terr615:
+total 157K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-10-21 15:05 Terr615_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-22 11:18 Terr615_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-10-22 11:18 Terr615_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-10-21 15:05 Terr615_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  23K 2021-10-22 11:17 Terr615_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-21 15:05 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-10-15 22:09 junk.txt
+
+./Terr615/Working-Files:
+total 109K
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-10-21 14:59 QTerr615.csv
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-10-21 14:59 QTerr615.db
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-21 15:05 QTerr615.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-21 14:59 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  181 2021-10-15 22:09 Terr615Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-10-15 22:16 Terr615Hdr.ods
+
+./Terr616:
+total 153K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-10-22 11:12 Terr616_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-10-22 11:15 Terr616_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-10-22 11:15 Terr616_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  33K 2021-10-22 11:13 Terr616_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-10-22 11:14 Terr616_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-22 11:13 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu   55 2021-10-15 22:09 junk.txt
+
+./Terr616/Working-Files:
+total 105K
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-10-22 11:10 QTerr616.csv
+-rwxrwxrwx 1 ubuntu ubuntu  36K 2021-10-22 11:10 QTerr616.db
+-rwxrwxrwx 1 ubuntu ubuntu  43K 2021-10-22 11:13 QTerr616.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-22 11:10 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  168 2021-10-15 22:09 Terr616Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-10-15 22:17 Terr616Hdr.ods
+
+./Terr626:
+total 156K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-10-11 08:34 Terr626_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  45K 2021-10-11 08:36 Terr626_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  13K 2021-10-11 08:36 Terr626_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  34K 2021-10-11 08:34 Terr626_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  22K 2021-10-11 08:36 Terr626_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-11 08:34 Working-Files
+
+./Terr626/Working-Files:
+total 126K
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-10-11 08:33 QTerr626.csv
+-rwxrwxrwx 1 ubuntu ubuntu  52K 2021-10-11 08:33 QTerr626.db
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-10-11 08:34 QTerr626.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-11 08:33 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  242 2021-10-04 20:04 Terr626Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.5K 2021-10-04 22:08 Terr626Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  152 2021-10-04 22:30 junk.txt
+
+./Terr632:
+total 141K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-10-14 18:30 Terr632_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-10-14 18:40 Terr632_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  11K 2021-10-14 18:40 Terr632_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  30K 2021-10-14 18:31 Terr632_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  18K 2021-10-14 18:39 Terr632_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-14 18:31 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu  124 2021-10-14 06:18 junk.txt
+
+./Terr632/Working-Files:
+total 113K
+-rwxrwxrwx 1 ubuntu ubuntu 8.1K 2021-10-14 18:29 QTerr632.csv
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-10-14 18:29 QTerr632.db
+-rwxrwxrwx 1 ubuntu ubuntu  42K 2021-10-14 18:31 QTerr632.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-14 18:29 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  218 2021-09-20 11:01 Terr632Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-09-20 11:02 Terr632Hdr.ods
+
+./Terr642:
+total 140K
+-rwxrwxrwx 1 ubuntu ubuntu  25K 2021-10-14 18:31 Terr642_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-10-14 18:37 Terr642_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-10-14 18:37 Terr642_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  31K 2021-10-14 18:31 Terr642_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-10-14 18:37 Terr642_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-14 18:31 Working-Files
+
+./Terr642/Working-Files:
+total 134K
+-rwxrwxrwx 1 ubuntu ubuntu 5.1K 2021-06-25 17:00 Make998sub642.sql
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-10-14 18:29 QTerr642.csv
+-rwxrwxrwx 1 ubuntu ubuntu  56K 2021-10-14 18:29 QTerr642.db
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-10-14 18:31 QTerr642.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-14 18:29 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  187 2021-06-25 17:00 Terr642Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.7K 2021-06-25 17:00 Terr642Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu   90 2021-06-25 17:00 junk.txt
+
+./Terr647:
+total 144K
+-rwxrwxrwx 1 ubuntu ubuntu  26K 2021-10-14 18:31 Terr647_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-10-14 18:34 Terr647_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-10-14 18:34 Terr647_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-10-14 18:31 Terr647_SuperTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  20K 2021-10-14 18:33 Terr647_SuperTerr.xlsx
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-10-14 18:31 Working-Files
+
+./Terr647/Working-Files:
+total 118K
+-rwxrwxrwx 1 ubuntu ubuntu  12K 2021-10-14 18:29 QTerr647.csv
+-rwxrwxrwx 1 ubuntu ubuntu  44K 2021-10-14 18:29 QTerr647.db
+-rwxrwxrwx 1 ubuntu ubuntu  46K 2021-10-14 18:31 QTerr647.ods
+-rwxrwxrwx 1 ubuntu ubuntu  191 2021-10-14 18:29 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  176 2021-07-20 10:44 Terr647Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.6K 2021-07-20 11:41 Terr647Hdr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  152 2021-10-14 17:52 junk.txt
+
+./Terr9000:
+total 512
+drwxrwxrwx 1 ubuntu ubuntu   0 2021-08-29 09:24 Working-Files
+-rwxrwxrwx 1 ubuntu ubuntu 275 2021-08-29 17:25 junk.txt
+
+./Terr9000/Working-Files:
+total 0
+-rwxrwxrwx 1 ubuntu ubuntu 0 2021-08-29 17:25 Terr9000Hdr.csv
+
+./Terr997:
+total 512
+drwxrwxrwx 1 ubuntu ubuntu  0 2020-12-19 09:09 'Working-Files'
+-rwxrwxrwx 1 ubuntu ubuntu 55 2021-06-25 17:00 junk.txt
+
+./Terr997/'Working-Files':
+total 512
+-rwxrwxrwx 1 ubuntu ubuntu 165 2021-06-25 17:00 junk.txt
+
+./Terr998:
+total 164K
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-06-25 17:00 Terr998_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  67K 2021-06-25 17:00 Terr998_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu  19K 2021-06-25 17:00 Terr998_PubTerr.xlsx
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-06-25 17:00 Terr998_PubTerr_New.ods
+drwxrwxrwx 1 ubuntu ubuntu 4.0K 2021-02-21 00:16 Working-Files
+
+./Terr998/Working-Files:
+total 269K
+-rwxrwxrwx 1 ubuntu ubuntu  50K 2021-06-25 17:00 QTerr998.csv
+-rwxrwxrwx 1 ubuntu ubuntu  60K 2021-06-25 17:00 QTerr998.db
+-rwxrwxrwx 1 ubuntu ubuntu 102K 2021-06-25 17:00 QTerr998.ods
+-rwxrwxrwx 1 ubuntu ubuntu  185 2021-06-25 17:00 SQLTrace.txt
+-rwxrwxrwx 1 ubuntu ubuntu  38K 2021-06-25 17:00 Terr998.ods
+-rwxrwxrwx 1 ubuntu ubuntu  230 2021-06-25 17:00 Terr998Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 9.8K 2021-06-25 17:00 Terr998Hdr.ods
+
+./Terr999:
+total 0
+drwxrwxrwx 1 ubuntu ubuntu 0 2020-11-17 07:44 Working-Files
+
+./Terr999/Working-Files:
+total 60K
+-rwxrwxrwx 1 ubuntu ubuntu 60K 2021-06-25 17:00 QTerr999.db
+
+./Terr9997:
+total 512
+-rwxrwxrwx 1 ubuntu ubuntu   0 2021-06-25 17:00 Terr9997Hdr.csv
+-rwxrwxrwx 1 ubuntu ubuntu 342 2021-06-25 17:00 junk.txt
+
+./TerrHdr:
+total 48K
+-rwxrwxrwx 1 ubuntu ubuntu  14K 2021-10-04 21:30 TerrHdr_PubTerr.ods
+-rwxrwxrwx 1 ubuntu ubuntu  21K 2021-10-04 21:30 TerrHdr_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 5.4K 2021-10-04 21:30 TerrHdr_PubTerr.xlsx
+
+./Terrtle:
+total 44K
+-rwxrwxrwx 1 ubuntu ubuntu  32K 2021-07-07 11:48 Terrtle_PubTerr.pdf
+-rwxrwxrwx 1 ubuntu ubuntu 9.9K 2021-07-07 11:48 Terrtle_PubTerr.xlsx
+
+./Working-Files:
+total 0

@@ -1,0 +1,6 @@
+BEGIN{ix = 0}
+{ tlist[ix] = $1; ix++ }
+END{ n = asort(tlist)
+ for ( i = 1; i <= n; i++){
+  print tlist[i] }
+}
